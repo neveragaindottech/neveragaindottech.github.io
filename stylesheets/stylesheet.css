@@ -15,25 +15,6 @@ a {
   a:hover {
     text-decoration: underline; }
 
-@media screen and (min-width: 64em) {
-  .btn {
-    padding: 0.75rem 1rem; } }
-
-@media screen and (min-width: 42em) and (max-width: 64em) {
-  .btn {
-    padding: 0.6rem 0.9rem;
-    font-size: 0.9rem; } }
-
-@media screen and (max-width: 42em) {
-  .btn {
-    display: block;
-    width: 100%;
-    padding: 0.75rem;
-    font-size: 0.9rem; }
-    .btn + .btn {
-      margin-top: 1rem;
-      margin-left: 0; } }
-
 .page-header, .banner {
   color: #fff;
   background-color: #aaa; }
@@ -50,7 +31,7 @@ a {
 
 @media screen and (max-width: 42em) {
   .page-header {
-    padding: 2rem 2rem; } }
+    padding: 1rem 2rem; } }
 
 .project-name {
   margin-top: 0;
@@ -58,7 +39,7 @@ a {
 
 @media screen and (min-width: 64em) {
   .project-name {
-    font-size: 3.25rem; } }
+    font-size: 2.25rem; } }
 
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .project-name {
@@ -197,7 +178,7 @@ a {
 
 @media screen and (max-width: 42em) {
   .main-content {
-    padding: 2rem 2rem;
+    padding: 1rem 2rem;
     font-size: 1rem; } }
 
 h1 { font-weight: 300; text-align: left; }
