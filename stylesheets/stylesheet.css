@@ -7,32 +7,13 @@ body {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
-  color: #606c71; }
+  color: #000; }
 
 a {
   color: #1e6bb8;
   text-decoration: none; }
   a:hover {
     text-decoration: underline; }
-
-.btn {
-  display: inline-block;
-  margin-bottom: 1rem;
-  color: rgba(255, 255, 255, 0.7);
-  background-color: rgba(255, 255, 255, 0.08);
-  border-color: rgba(255, 255, 255, 0.2);
-  border-style: solid;
-  border-width: 1px;
-  border-radius: 0.3rem;
-  transition: color 0.2s, background-color 0.2s, border-color 0.2s; }
-  .btn + .btn {
-    margin-left: 1rem; }
-
-.btn:hover {
-  color: rgba(255, 255, 255, 0.8);
-  text-decoration: none;
-  background-color: rgba(255, 255, 255, 0.2);
-  border-color: rgba(255, 255, 255, 0.3); }
 
 @media screen and (min-width: 64em) {
   .btn {
@@ -219,26 +200,8 @@ a {
     padding: 2rem 1rem;
     font-size: 1rem; } }
 
-.site-footer {
-  padding-top: 2rem;
-  margin-top: 2rem;
-  border-top: solid 1px #eff0f1; }
-
-.site-footer-owner {
-  display: block;
-  font-weight: bold; }
-
-.site-footer-credits {
-  color: #819198; }
-
-@media screen and (min-width: 64em) {
-  .site-footer {
-    font-size: 1rem; } }
-
-@media screen and (min-width: 42em) and (max-width: 64em) {
-  .site-footer {
-    font-size: 1rem; } }
-
-@media screen and (max-width: 42em) {
-  .site-footer {
-    font-size: 0.9rem; } }
+.signatories { list-style-type: none; }
+.note { font-style: italic; font-size: 90%; opacity: 0.6; }
+ul { list-style-type: disc; }
+a { color: #06c; text-decoration: none; }
+a:hover { text-decoration: underline; }
