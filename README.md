@@ -1,6 +1,6 @@
 # neveragain.tech
 
-If you're intersted in signing the pledge, please submit a PR against index.html. Search for "End of signatures" to find the end of the list of signatories, and add your name above that line.
+If you're intersted in signing the pledge, please submit a PR against index.html. Add your name to the list in alphabetical order, to minimize merge conflicts.
 
 If Github isn't your jam, you can [send us a direct message us on Twitter (our DMs are open)](https://twitter.com/neveragaintech).
 
