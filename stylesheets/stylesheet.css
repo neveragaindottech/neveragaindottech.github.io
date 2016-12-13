@@ -34,22 +34,23 @@ a {
       margin-top: 1rem;
       margin-left: 0; } }
 
-.page-header {
+.page-header, .banner {
   color: #fff;
-  text-align: center;
-  background-color: #ccc; }
+  background-color: #aaa; }
 
 @media screen and (min-width: 64em) {
   .page-header {
-    padding: 5rem 6rem; } }
+    max-width: 64rem;
+    margin: 0 auto;
+    padding: 2rem 6rem; } }
 
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .page-header {
-    padding: 3rem 4rem; } }
+    padding: 2rem 4rem; } }
 
 @media screen and (max-width: 42em) {
   .page-header {
-    padding: 2rem 1rem; } }
+    padding: 2rem 2rem; } }
 
 .project-name {
   margin-top: 0;
@@ -91,8 +92,7 @@ a {
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
   margin-top: 2rem;
   margin-bottom: 1rem;
-  font-weight: normal;
-  color: #159957; }
+  font-weight: normal; }
 .main-content p {
   margin-bottom: 1em; }
 .main-content code {
@@ -197,9 +197,10 @@ a {
 
 @media screen and (max-width: 42em) {
   .main-content {
-    padding: 2rem 1rem;
+    padding: 2rem 2rem;
     font-size: 1rem; } }
 
+h1 { font-weight: 300; text-align: left; }
 .signatories { list-style-type: none; }
 .note { font-style: italic; font-size: 90%; opacity: 0.6; }
 ul { list-style-type: disc; }
