@@ -11,12 +11,6 @@ If neither of these options are possible, please email neveragaindottech at gmai
 1. Click the `_signatures` folder.
 2. Click the "Create new file" button in the upper righthand corner.
 3. Name the file something unique, for example: `first_name_last_name_affiliation.md`. (Don't forget the `.md`.)
-4. Use this template to add your signature:
-```
----
-  name: Your name
-  link: A link for your name. (Remove this line if you don't want a link.)
-  affiliation: Your affiliation. (Remove this line if you don't want an affiliation.)
----
-```
-5. Make a commit and pull request! A volunteer will merge it in.
+4. Copy the template file and rename it something unique like `your_first_and_last_name.md`.
+5. Edit the file to contain your name and affiliation.
+6. Make a commit and pull request! A volunteer will merge it in.

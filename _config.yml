@@ -1,5 +1,6 @@
 exclude: [
   README.md
+  template.md
 ]
 collections:
   signatures:
