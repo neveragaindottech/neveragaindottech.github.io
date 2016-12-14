@@ -127,7 +127,7 @@ def create_user(data):
     if link is not None:
         new_user.set_link(link)
 
-    return {"success": new_user.user_uuid}
+    return {"success": str(new_user.user_uuid)}
 
 def validate_string(string, search=re.compile(r'[^a-zA-Z0-9.]').search):
     """
