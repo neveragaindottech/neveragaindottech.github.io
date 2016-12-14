@@ -13,11 +13,11 @@ class Config(object):
     db_user = 'dbuser'
     db_pass = 'dbpassword'
     db_host = 'localhost'
-    db_name = 'posts'
+    db_name = 'user'
 
     # DB Settings
     if DEBUG:
-        SQLALCHEMY_DATABASE_URI = 'sqlite://'
+        SQLALCHEMY_DATABASE_URI = 'sqlite://user'
     else:
         SQLALCHEMY_TRACK_MODIFICATIONS = True
         SQLALCHEMY_DATABASE_URI = 'mysql://{db_user}:{db_pass}@{db_host}/{db_name}'.format(

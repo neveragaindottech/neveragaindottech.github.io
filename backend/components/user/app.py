@@ -24,6 +24,8 @@ class User(db.Model):
     link = db.Column(db.String(2083)) # Max in IE, not that I think we should support IE
     created = db.Column(db.DateTime)
     updated = db.Column(db.DateTime)
+    deleted = db.Column(db.Integer, default=0)
+    confirmed = db.Column(db.Integer, default=0)
 
     def __init__(self, first_name, last_name):
         """
