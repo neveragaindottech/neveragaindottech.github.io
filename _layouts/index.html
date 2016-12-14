@@ -18,6 +18,9 @@
       , {{ signature.affiliation }}
       {% endif %}
     </li>
+    {% if signature.github %}
+    <!-- Github user: {{ signature.github }} -->
+    {% endif %}
   {% endfor %}
 </ul>
 
