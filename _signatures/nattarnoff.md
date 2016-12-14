@@ -1,6 +1,6 @@
 ---
   name: Nat Tarnoff
-  title: Technical Consultant
+  occupation_title: Technical Consultant
   github_user: nattarnoff
   affiliation: SSB BART Group
   link: https://twitter.com/nattarnoff

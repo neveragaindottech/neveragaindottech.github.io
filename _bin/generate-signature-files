@@ -39,7 +39,7 @@ for pr in reversed(prs):
         text_line = re.sub(r'<[^>]*>', '', line)
         parts = text_line.split(',', 2)
         if len(parts) == 3:
-            props['name'], props['title'], props['affiliation'] = parts
+            props['name'], props['occupation_title'], props['affiliation'] = parts
         elif len(parts) == 2:
             props['name'], props['affiliation'] = parts
         else:

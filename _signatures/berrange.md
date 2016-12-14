@@ -1,6 +1,6 @@
 ---
   name: Daniel Berrangé
-  title: Software Engineer
+  occupation_title: Software Engineer
   github_user: berrange
   affiliation: Red Hat
   link: https://www.berrange.com

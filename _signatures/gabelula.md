@@ -1,6 +1,6 @@
 ---
   name: Gabriela Rodriguez Beron
-  title: Software Engineer
+  occupation_title: Software Engineer
   github_user: gabelula
   affiliation: Mozilla
   link: https://twitter.com/gaba

@@ -1,6 +1,6 @@
 ---
   name: Aaron Smith
-  title: DevOps Engineer
+  occupation_title: DevOps Engineer
   github_user: slapula
   affiliation: Civis Analytics
   link: https://github.com/slapula

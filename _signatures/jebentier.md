@@ -1,6 +1,6 @@
 ---
   name: James Ebentier
-  title: Senior Software Engineer
+  occupation_title: Senior Software Engineer
   github_user: jebentier
   affiliation: Invoca
   link: https://github.com/jebentier

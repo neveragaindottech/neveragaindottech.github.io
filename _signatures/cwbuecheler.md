@@ -1,6 +1,6 @@
 ---
   name: Christopher Buecheler
-  title: Founder
+  occupation_title: Founder
   github_user: cwbuecheler
   affiliation: CloseBrace
   link: https://cwbuecheler.com/

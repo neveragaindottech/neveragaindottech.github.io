@@ -1,6 +1,6 @@
 ---
   name: Alaina Hardie Alaina Hardie
-  title: Singularity University
+  occupation_title: Singularity University
   github_user: trianglegrrl
   affiliation: Precision Nutrition
   link: https://twitter.com/trianglegrrl

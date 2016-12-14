@@ -1,6 +1,6 @@
 ---
   name: James Cunningham
-  title: CTO
+  occupation_title: CTO
   github_user: jamescun
   affiliation: Hash Intelligence
   link: https://jamescun.com
