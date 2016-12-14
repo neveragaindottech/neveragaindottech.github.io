@@ -1,0 +1,7 @@
+#!/bin/bash
+
+prnum=$1
+
+base=$(git merge-base origin/master origin/pr/$prnum)
+git diff --no-color --unified=0 --text --ignore-all-space $base origin/pr/$prnum \
+    | grep -v '^--- ' | grep -v '^+++ ' | grep --color=never '^[-+]'
