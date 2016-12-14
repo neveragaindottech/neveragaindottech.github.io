@@ -1,9 +1,9 @@
 
 {% include header.html %}
 
-<h1>{{ page.title }}</h1>
+{% include main_content.html %}
 
-{{ content }}
+{% include earlier_signatures.html %}
 
 <div class="automated-signatures">
   <ul>
@@ -23,4 +23,6 @@
   </ul>
 </div>
 
-{% include footer.html %}
+{% include how_to_sign.html %}
+
+{% include resources.html %}
