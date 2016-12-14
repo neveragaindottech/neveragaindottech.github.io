@@ -44,14 +44,18 @@ def confirm_user(github_user, data):
     if response.status_code == 200:
         html = response.text
         pattern = re.compile(r'<span class="vcard-fullname d-block" itemprop="name">([^.]+)</span>')
-        match = re.match(pattern, html)
-        print match
+        try:
+            match = re.search(pattern, html)
+            found = match.group(1)
+            return True
+        except AttributeError as e:
+            return {"error": "Unable to confirm user automagically"}, 400
     else:
         return {
             "error": "Invalid response from github: {status_code}".format(
                 status_code=response.status_code
             )
-        }
+        }, response.status_code
 
 # Setup Routes
 api.add_resource(ConfirmUser, '/v1/confirm/<github_user>')
