@@ -19,6 +19,7 @@ class User(db.Model):
     user_uuid = db.Column(db.String(50))
     first_name = db.Column(db.String(50))
     last_name = db.Column(db.String(50))
+    github_user = db.Column(db.String(200))
     position = db.Column(db.String(255)) # Because people in tech can have fun job titles
     company = db.Column(db.String(255)) # StartUps too
     link = db.Column(db.String(2083)) # Max in IE, not that I think we should support IE
@@ -27,7 +28,7 @@ class User(db.Model):
     deleted = db.Column(db.Integer, default=0)
     confirmed = db.Column(db.Integer, default=0)
 
-    def __init__(self, first_name, last_name):
+    def __init__(self, first_name, last_name, github_user):
         """
         Constructor for new rows
         :param first_name: First Name
@@ -35,6 +36,7 @@ class User(db.Model):
         """
         self.first_name = first_name
         self.last_name = last_name
+        self.github_user = github_user
         self.user_uuid = uuid.uuid4()
         self.created = datetime.utcnow()
 
@@ -99,6 +101,7 @@ def create_user(data):
     """
     first_name = data.get('first_name')
     last_name = data.get('last_name')
+    github_user = data.get('github_user')
     position = data.get('position')
     company = data.get('company')
     link = data.get('link')
@@ -108,6 +111,8 @@ def create_user(data):
         return {"error": "Invalid first name"}, 400
     if not validate_string(last_name):
         return {"error": "Invalid last name"}, 400
+    if not validate_string(github_user):
+        return {"error": "Invalid github user"}, 400
 
     # Optional
     if position is not None:
@@ -121,7 +126,7 @@ def create_user(data):
             return {"error": "Invalid string"}, 400
 
     # Add User to DB
-    new_user = User(first_name, last_name)
+    new_user = User(first_name, last_name, github_user)
     if position is not None:
         new_user.set_position(position)
     if company is not None:
