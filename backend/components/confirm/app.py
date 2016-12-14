@@ -41,7 +41,17 @@ def confirm_user(github_user, data):
         return {"error": "Invalid last name"}, 400
 
     response = requests.get(url)
-    print response
+    if response.status_code == 200:
+        html = response.text
+        pattern = re.compile(r'<span class="vcard-fullname d-block" itemprop="name">([^.]+)</span>')
+        match = re.match(pattern, html)
+        print match
+    else:
+        return {
+            "error": "Invalid response from github: {status_code}".format(
+                status_code=response.status_code
+            )
+        }
 
 # Setup Routes
 api.add_resource(ConfirmUser, '/v1/confirm/<github_user>')
