@@ -2,14 +2,12 @@ exclude: [
   README.md
 ]
 collections:
-  participants:
-    output: true
-    layout: participant
+  signatures:
+    output: false
 
 defaults:
   -
     scope:
       path: ""
-      type: "participants" # a collection in your site, in plural form
+      type: "signatures" # a collection in your site, in plural form
     values:
-layout: "participant"
