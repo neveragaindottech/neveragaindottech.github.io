@@ -1,0 +1,26 @@
+
+{% include header.html %}
+
+<h1>{{ page.title }}</h1>
+
+{{ content }}
+
+<div class="automated-signatures">
+  <ul>
+    {% for signature in site.signatures %}
+    <li>
+      {% if signature.url %}
+        <a href="{{ signature.url }}">{{ signature.name }}</a>
+      {% else %}
+        {{ signature.name }}
+      {% endif %}
+      
+      {% if signature.affiliation %}
+      , {{ signature.affiliation }}
+      {% endif %}
+    </li>
+    {% endfor %}
+  </ul>
+</div>
+
+{% include footer.html %}
