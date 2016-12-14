@@ -1,0 +1,45 @@
+{% include header.html %}
+
+{% include main_content.html %}
+
+{% include earlier_signatures.html %}
+
+<ul class="signatories" id="automated-signatories">
+  {% assign sorted_signatures =  site.signatures | sort: 'name' %}
+  {% for signature in sorted_signatures %}
+    <li>
+      {% if signature.url %}
+        <a href="{{ signature.link }}">{{ signature.name }}</a>
+      {% else %}
+        {{ signature.name }}
+      {% endif %}
+
+      {% if signature.affiliation %}
+      , {{ signature.affiliation }}
+      {% endif %}
+
+      {% if signature.title %}
+      , {{ signature.title }}
+      {% endif %}
+    </li>
+    {% if signature.github %}
+    <!-- Github user: {{ signature.github }} -->
+    {% endif %}
+  {% endfor %}
+</ul>
+
+<!-- End of all signatures. -->
+
+<div class="note" id="count"></div>
+<script>
+  var num_earlier_signatories = document.getElementById('signatories').childElementCount;
+  var num_automated_signatories = document.getElementById('automated-signatories').childElementCount;
+  var total_signatories = num_earlier_signatories + num_automated_signatories;
+
+  document.getElementById('count').innerText = 'Number of signatories: ' + total_signatories;
+</script>
+
+
+{% include how_to_sign.html %}
+
+{% include resources.html %}

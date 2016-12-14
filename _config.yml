@@ -1,0 +1,14 @@
+exclude: [
+  README.md
+  template.md
+]
+collections:
+  signatures:
+    output: false
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "signatures" # a collection in your site, in plural form
+    values:
