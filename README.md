@@ -1,6 +1,6 @@
 # neveragain.tech
 
-If you're interested in signing the pledge, please submit a PR by creating a new file in the `_signatures` folder, following the instructions listed below in the section titled, "To add your name via Github"
+If you're interested in signing [the pledge](http://neveragain.tech/), please submit a PR by creating a new file in the `_signatures` folder, following the instructions listed below in the section titled, "To add your name via Github"
 
 If GitHub isn't your jam, you can [send us a direct message on Twitter (our DMs are open)](https://twitter.com/neveragaintech).
 
