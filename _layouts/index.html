@@ -5,7 +5,8 @@
 {% include earlier_signatures.html %}
 
 <ul class="signatories" id="automated-signatories">
-  {% for signature in site.signatures %}
+  {% assign sorted_signatures =  site.signatures | sort: 'name' %}
+  {% for signature in sorted_signatures %}
     <li>
       {% if signature.url %}
         <a href="{{ signature.link }}">{{ signature.name }}</a>
