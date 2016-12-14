@@ -1,3 +1,3 @@
 ---
-  name: Anna Brozek
+  name: Anna Brozek, Big Cartel
 ---
