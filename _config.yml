@@ -1,0 +1,15 @@
+exclude: [
+  README.md
+]
+collections:
+  participants:
+    output: true
+    layout: participant
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "participants" # a collection in your site, in plural form
+    values:
+layout: "participant"
