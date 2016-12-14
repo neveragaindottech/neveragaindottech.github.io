@@ -1,0 +1,64 @@
+#!/usr/bin/env python
+
+import commands
+import re
+import requests
+import sys
+
+import os
+token = os.environ['GITHUB_ACCESS_TOKEN']
+
+def errprint(s):
+    sys.stderr.write(s)
+    sys.stderr.flush()
+
+prs = []
+
+for page in range(1, 10):
+    more_prs = requests.get('https://api.github.com/repos/neveragaindottech/neveragaindottech.github.io/pulls?access_token=%s&page=%d' % (token, page)).json()
+    prs += more_prs
+    errprint('fetched %d PRs\n' % len(prs))
+    if not more_prs:
+        break
+
+for pr in reversed(prs):
+    pr_num = pr['number']
+    author = pr['user']['login']
+    errprint('PR #%s from %s: ' % (pr_num, author))
+    diff_lines = commands.getoutput('./pr-diff %s' % pr_num).strip().split('\n')
+    if len(diff_lines) == 1 and diff_lines[0].startswith('+<'):
+        line = diff_lines[0].lstrip('+')
+        props = {}
+
+        props['github_user'] = author
+        props['pull_request_number'] = str(pr_num)
+
+        match = re.search(r'<a *href *= *"([^"]*)', line, re.I)
+        props['link'] = match and match.group(1)
+
+        text_line = re.sub(r'<[^>]*>', '', line)
+        parts = text_line.split(',', 2)
+        if len(parts) == 3:
+            props['name'], props['title'], props['affiliation'] = parts
+        elif len(parts) == 2:
+            props['name'], props['affiliation'] = parts
+        else:
+            props['name'] = text_line
+
+        filename = '../_signatures/%s.md' % author
+        if os.path.exists(filename):
+            errprint('%s ALREADY EXISTS\n' % filename)
+            continue
+
+        with open(filename, 'w') as file:
+            file.write('---\n')
+            for key, value in props.items():
+                value = value and value.strip()
+                if value:
+                    file.write('  %s: %s\n' % (key, value))
+            file.write('---\n')
+        errprint('ok, made %s\n' % filename)
+
+    else:
+        errprint('BAD; diff is:\n')
+        errprint('  ' + '\n  '.join(diff_lines) + '\n')
