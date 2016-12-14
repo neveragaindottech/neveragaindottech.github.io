@@ -1,6 +1,6 @@
 # neveragain.tech
 
-If you're interested in signing the pledge, please submit a PR against index.html, following the instructions in the HTML comments there. Add your name to the list in alphabetical order, to minimize merge conflicts.
+If you're interested in signing [the pledge](http://neveragain.tech/), please submit a PR against index.html, following the instructions in the HTML comments there. Add your name to the list in alphabetical order, to minimize merge conflicts.
 
 If GitHub isn't your jam, you can [send us a direct message on Twitter (our DMs are open)](https://twitter.com/neveragaintech).
 
