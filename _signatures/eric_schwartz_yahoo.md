@@ -1,6 +1,6 @@
 ---
   name: Eric Schwartz
   affiliation: Yahoo
-  title: Software Engineer
+  occupation_title: Software Engineer
   github: ericcarlschwartz
 ---

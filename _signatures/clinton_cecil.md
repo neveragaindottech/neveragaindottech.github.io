@@ -1,6 +1,6 @@
 ---
   name: Clinton Cecil
   affiliation: Primex
-  title: Software Engineer
+  occupation_title: Software Engineer
   github: thatRailsGuy
 ---
