@@ -3,6 +3,10 @@
 <section class="main-content">
 {% include main_content.html %}
 
+<div class="note" id="count"></div>
+
+<p>Signed,</p>
+
 <ul class="signatories" id="signatories">
   {% assign sorted_signatures = site.signatures | sort: 'name' %}
   {% for sig in sorted_signatures %}{% if sig.name %}
@@ -11,7 +15,6 @@
   </li>{% endif %}{% endfor %}
 </ul>
 
-<div class="note" id="count"></div>
 <script>
   var count = document.getElementById('count');
   var signatories = document.getElementById('signatories');
