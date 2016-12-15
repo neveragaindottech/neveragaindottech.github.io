@@ -9,7 +9,7 @@
   {% assign sorted_signatures =  site.signatures | sort: 'name' %}
   {% for signature in sorted_signatures %}
   <li>
-    {% if signature.link %}<a href="{{ signature.link }}">{{ signature.name }}</a>{% else %}{{ signature.name }}{% endif %}{% if signature.affiliation %}, {{ signature.affiliation }} {% endif %}{% if signature.occupation_title %}, {{ signature.occupation_title }}{% endif %}
+    {% if signature.link %}<a href="{{ signature.link }}">{{ signature.name }}</a>{% else %}{{ signature.name }}{% endif %}{% if signature.affiliation %}, {{ signature.affiliation }}{% endif %}{% if signature.occupation_title %}, {{ signature.occupation_title }}{% endif %}
   </li>
   {% if signature.github %}
   <!-- Github user: {{ signature.github }} -->
