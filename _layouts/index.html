@@ -5,10 +5,10 @@
 
 <ul class="signatories" id="signatories">
   {% assign sorted_signatures = site.signatures | sort: 'name' %}
-  {% for sig in sorted_signatures %}
-  {% if signature.github %}<li id="github-user-{{signature.github}}">{% else %}<li>{% endif %}{% capture name %}{% if sig.display_name %}{{sig.display_name}}{% else %}{{sig.name}}{% endif %}{% endcapture %}
+  {% for sig in sorted_signatures %}{% if sig.name %}
+  {% if sig.github %}<li id="github-user-{{sig.github}}">{% else %}<li>{% endif %}{% capture name %}{% if sig.display_name %}{{sig.display_name}}{% else %}{{sig.name}}{% endif %}{% endcapture %}
     {% if sig.link %}<a rel="nofollow" href="{{sig.link}}">{{name}}</a>{% else %}{{name}}{% endif %}{% if sig.occupation_title %}, {{sig.occupation_title}}{% endif %}{% if sig.affiliation %}, {{sig.affiliation}}{% endif %}
-  </li>{% endfor %}
+  </li>{% endif %}{% endfor %}
 </ul>
 
 <div class="note" id="count"></div>
