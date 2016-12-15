@@ -2,9 +2,7 @@
 
 If you're interested in signing [the pledge](http://neveragain.tech/), please submit a PR by creating a new file in the `_signatures` folder, following the instructions listed below in the section titled, "To add your name via Github"
 
-If GitHub isn't your jam, you can [send us a direct message on Twitter (our DMs are open)](https://twitter.com/neveragaintech).
-
-If neither of these options are possible, please email neveragaindottech at gmail dot com, but please note that this may delay your signature as we must validate your identity. Please send us some way for us to confirm your identity, such as a LinkedIn profile or a homepage.
+If this option isn't possible, please email neveragaindottech at gmail dot com, but please note that this may delay your signature as we must validate your identity. Please send us some way for us to confirm your identity, such as a LinkedIn profile or a homepage.
 
 ## To add your name via Github
 
