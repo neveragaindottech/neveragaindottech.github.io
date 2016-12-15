@@ -8,9 +8,9 @@ If neither of these options are possible, please email neveragaindottech at gmai
 
 ## To add your name via Github
 
-1. Click the `_signatures` folder.
+1. Click the [`_signatures`](/_signatures/) folder.
 2. Click the "Create new file" button in the upper righthand corner.
 3. Name the file something unique, for example: `first_name_last_name_affiliation.md`. (Don't forget the `.md`.)
-4. Copy the text of the `template.md` file and paste it in the newly created signature file from step 3.
+4. Copy the text of the [`template.md`](https://raw.githubusercontent.com/neveragaindottech/neveragaindottech.github.io/master/template.md) file and paste it in the newly created signature file from step 3.
 5. Edit the file to contain your name and affiliation.
 6. Make a commit and pull request! A volunteer will merge it in.
