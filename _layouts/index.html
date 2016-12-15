@@ -1,5 +1,6 @@
 {% include header.html %}
 
+<section class="main-content">
 {% include main_content.html %}
 
 {% include earlier_signatures.html %}
@@ -7,24 +8,12 @@
 <ul class="signatories" id="automated-signatories">
   {% assign sorted_signatures =  site.signatures | sort: 'name' %}
   {% for signature in sorted_signatures %}
-    <li>
-      {% if signature.url %}
-        <a href="{{ signature.link }}">{{ signature.name }}</a>
-      {% else %}
-        {{ signature.name }}
-      {% endif %}
-
-      {% if signature.affiliation %}
-      , {{ signature.affiliation }}
-      {% endif %}
-
-      {% if signature.title %}
-      , {{ signature.title }}
-      {% endif %}
-    </li>
-    {% if signature.github %}
-    <!-- Github user: {{ signature.github }} -->
-    {% endif %}
+  <li>
+    {% if signature.link %}<a href="{{ signature.link }}">{{ signature.name }}</a>{% else %}{{ signature.name }}{% endif %}{% if signature.affiliation %}, {{ signature.affiliation }} {% endif %}{% if signature.occupation_title %}, {{ signature.occupation_title }}{% endif %}
+  </li>
+  {% if signature.github %}
+  <!-- Github user: {{ signature.github }} -->
+  {% endif %}
   {% endfor %}
 </ul>
 
@@ -43,3 +32,6 @@
 {% include how_to_sign.html %}
 
 {% include resources.html %}
+</section>
+
+{% include footer.html %}
