@@ -1,4 +1,4 @@
 ---
   name: Angela Gunn
-  affiliation: incident response, BAE Systems Applied Intelligence
+  affiliation: Incident Response, BAE Systems Applied Intelligence
 ---

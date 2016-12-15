@@ -1,4 +1,4 @@
 ---
   name: Deb Nicholson
-  affiliation: free software advocate
+  occupation_title: Free Software Advocate
 ---
