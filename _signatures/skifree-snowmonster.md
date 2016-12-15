@@ -1,6 +1,6 @@
 ---
-  name: sn0wmonster
-  sort_name: Sn0wmonster
+  display_name: sn0wmonster
+  name: Sn0wmonster
   link: https://github.com/skifree-snowmonster
   occupation_title: FOSS developer
   github_user: skifree-snowmonster

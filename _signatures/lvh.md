@@ -1,5 +1,5 @@
 ---
-  name: lvh
-  sort_name: Lvh
+  display_name: lvh
+  name: Lvh
   affiliation: Latacora
 ---
