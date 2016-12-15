@@ -1,6 +1,6 @@
 ---
   name: Christine Sun
   link: http://daiyi.co
-  affiliation: Software Engineer 
+  affiliation: Software Engineer
   github: daiyitastic
 ---

@@ -1,6 +1,6 @@
 ---
   name: Morgante Pell
   link: https://morgante.net
-  affiliation: Gandalf  
+  affiliation: Gandalf
   github: morgante
 ---

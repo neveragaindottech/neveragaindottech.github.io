@@ -1,6 +1,6 @@
 ---
   name: Myk Klemme
   link: https://twitter.com/mklemme
-  affiliation: Engineer  
+  affiliation: Engineer
   github: mklemme
 ---

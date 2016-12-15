@@ -1,6 +1,6 @@
 ---
   name: Mahmoud Hashemi
   link: https://twitter.com/mhashemi
-  affiliation: Hatnote  
+  affiliation: Hatnote
   github: mahmoud
 ---

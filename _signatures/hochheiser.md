@@ -1,5 +1,5 @@
 ---
-  name: Harry Hochheiser 
+  name: Harry Hochheiser
   github: harryhoch
 
 ---

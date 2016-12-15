@@ -1,6 +1,6 @@
 ---
   name: Andrew Michaud
   link: https://andrewmichaud.com
-  affiliation: Quantcast 
+  affiliation: Quantcast
   github: andrewmichaud
 ---

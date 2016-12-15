@@ -1,5 +1,5 @@
 ---
   name: Karl-Rainer Blumenthal
-  affiliation: Internet Archive 
-  github: Github user kblumenthal
+  affiliation: Internet Archive
+  github: kblumenthal
 ---

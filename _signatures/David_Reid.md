@@ -1,5 +1,5 @@
 ---
   name: David Reid
-  affiliation: Engineer, Fig 
+  affiliation: Engineer, Fig
   github: dreid
 ---

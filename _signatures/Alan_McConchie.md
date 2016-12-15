@@ -1,6 +1,6 @@
 ---
   name: Alan McConchie
   link: https://twitter.com/mappingmashups
-  affiliation: Stamen Design 
+  affiliation: Stamen Design
   github: almccon
 ---

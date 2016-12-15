@@ -1,6 +1,6 @@
 ---
   name: Matthew Avant
   link: http://twitter.com/mavant
-  affiliation: Palantir 
+  affiliation: Palantir
   github: mavant
 ---

@@ -1,4 +1,4 @@
 ---
   name: Anu Rao
-  github: anurao 
+  github: anurao
 ---

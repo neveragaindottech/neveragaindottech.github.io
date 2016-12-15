@@ -1,5 +1,5 @@
 ---
   name: Kev Kitchens
-  affiliation: Qualcomm 
+  affiliation: Qualcomm
   github: kevvok
 ---
