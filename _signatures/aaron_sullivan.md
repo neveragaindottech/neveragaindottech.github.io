@@ -1,5 +1,5 @@
 ---
   name: Aaron L. Sullivan
-  title: Software Developer
+  occupation_title: Software Developer
   github: aaronik
 ---
