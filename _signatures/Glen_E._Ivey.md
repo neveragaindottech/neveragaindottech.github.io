@@ -1,5 +1,6 @@
 ---
   name: Glen E. Ivey
-  affiliation: Engineer
+  link: https://github.com/gleneivey/
+  occupation_title: Engineer
   github: gleneivey
 ---
