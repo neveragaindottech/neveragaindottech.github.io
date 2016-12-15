@@ -1,6 +1,6 @@
 ---
   name: Royall Spence
   link: https://royall.us/
-  title: Software Engineer
+  occupation_title: Software Engineer
   github: royallthefourth
 ---

@@ -1,5 +1,5 @@
 ---
   name: Stuart Ozer
-  title: Database and Analytics Consultant
+  occupation_title: Database and Analytics Consultant
   github: stuartozer
 ---
