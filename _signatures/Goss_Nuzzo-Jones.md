@@ -1,6 +1,7 @@
 ---
   name: Goss Nuzzo-Jones
   link: https://twitter.com/gossnj
-  affiliation: Head of Software at Superpedestrian 
+  occupation_title: Head of Software
+  affiliation: Superpedestrian 
   github: gossnj
 ---
