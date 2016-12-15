@@ -1,5 +1,5 @@
 ---
-  github_user: sebilasse
+  github: sebilasse
   link: https://plus.google.com/+SebastianLasse
   name: Sebastian Lasse
   affiliation: redaktor foundation

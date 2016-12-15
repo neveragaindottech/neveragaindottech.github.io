@@ -1,7 +1,7 @@
 ---
   affiliation: Software Engineer
   link: http://www.jamesewelch.com
-  github_user: jamesewelch
+  github: jamesewelch
   name: James Welch
   pull_request_number: 538
 ---

@@ -1,7 +1,7 @@
 ---
   affiliation: Square
   link: zellyn.com
-  github_user: zellyn
+  github: zellyn
   name: Zellyn Hunter
   pull_request_number: 508
 ---

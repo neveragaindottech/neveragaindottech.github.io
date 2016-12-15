@@ -1,5 +1,5 @@
 ---
-  github_user: mlncn
+  github: mlncn
   link: http://agaric.com/
   name: Benjamin Melançon
   affiliation: Agaric

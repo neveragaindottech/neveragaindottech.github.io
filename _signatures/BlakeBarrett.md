@@ -1,5 +1,5 @@
 ---
-  github_user: BlakeBarrett
+  github: BlakeBarrett
   link: https://github.com/BlakeBarrett/
   name: Blake Barrett
   affiliation: CTO Pitchly
