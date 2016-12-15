@@ -1,4 +1,4 @@
 ---
   name: Andy Bartholomew
-  title: Software Engineer
+  occupation_title: Software Engineer
 ---
