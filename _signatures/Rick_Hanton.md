@@ -1,6 +1,6 @@
 ---
   name: Rick Hanton
   link: https://twitter.com/rack88
-  affiliation: Software Engineer, Lockheed Martin
+  affiliation: Software Engineer, Choice Hotels
 
 ---
