@@ -1,6 +1,6 @@
- ---
-   name: Jonathan S. Arney
-   affiliation: PayPal
-   occupation_title: Site Reliability Engineer
-   github: jarney
- ---
+---
+  name: Jonathan S. Arney
+  affiliation: PayPal
+  occupation_title: Site Reliability Engineer
+  github: jarney
+---
