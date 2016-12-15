@@ -1,6 +1,6 @@
 ---
   name: "Howard Cohen"
   occupation_title: "Software Engineer, contractor"
-  affiliation: "Timefold.com
+  affiliation: "Timefold.com"
   github: "howardcohen"
 ---
