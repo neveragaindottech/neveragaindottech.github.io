@@ -1,5 +1,5 @@
 ---
   name: Scott Piker
-  occupation_title: Senior Software Engineer
+  occupation_title: Software Engineer
   github: stpiker
 ---
