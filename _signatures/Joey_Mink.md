@@ -1,6 +1,6 @@
 ---
   name: Joey Mink
-  link: https://joeymink.com
+  link: http://joeymink.com
   affiliation:
   occupation_title: Software engineer
 ---
