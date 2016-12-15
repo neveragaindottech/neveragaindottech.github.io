@@ -1,4 +1,5 @@
 ---
   name: Tim Chevalier
-  affiliation: Google
+  link: http://tim.dreamwidth.org/
+  affiliation: Site Reliability Engineer, Google
 ---
