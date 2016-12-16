@@ -1,0 +1,29 @@
+{% include header.html %}
+
+<section class="main-content">
+{% include main_content.html %}
+
+<p class="note" id="count"></p>
+
+<p>Signed,</p>
+
+<ul class="signatories" id="signatories">
+  {% assign sorted_signatures = site.signatures | sort: 'name' %}
+  {% for sig in sorted_signatures %}{% if sig.name %}
+  {% if sig.github %}<li id="github-user-{{sig.github}}">{% else %}<li>{% endif %}{% capture name %}{% if sig.display_name %}{{sig.display_name}}{% else %}{{sig.name}}{% endif %}{% endcapture %}
+    {% if sig.link %}<a rel="nofollow" href="{{sig.link}}">{{name}}</a>{% else %}{{name}}{% endif %}{% if sig.occupation_title %}, {{sig.occupation_title}}{% endif %}{% if sig.affiliation %}, {{sig.affiliation}}{% endif %}
+  </li>{% endif %}{% endfor %}
+</ul>
+
+<script>
+  var count = document.getElementById('count');
+  var signatories = document.getElementById('signatories');
+  count.innerText = 'Number of signatories: ' + signatories.childElementCount;
+</script>
+
+{% include how_to_sign.html %}
+
+{% include resources.html %}
+</section>
+
+{% include footer.html %}
