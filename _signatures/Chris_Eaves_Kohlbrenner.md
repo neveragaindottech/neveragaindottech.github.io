@@ -1,4 +1,4 @@
 ---
-  name: Chris Eaves-Kohlbrenner
+  name: "Chris Eaves-Kohlbrenner"
   affiliation: Reuters
 ---
