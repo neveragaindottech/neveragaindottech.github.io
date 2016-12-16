@@ -4,4 +4,7 @@
   occupation_title: WordPress Engineer and Startup Entrepreneur
   affiliation: NewClarity Consulting LLC
   github: mikeschinkel
+  twitter: mikeschinkel
+  facebook: mikeschinkel
+  linkedin: mikeschinkel
 ---
