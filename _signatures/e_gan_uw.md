@@ -1,4 +1,4 @@
 name: Emilia Gan
 affiliation: University of Washington
-graduate student
-efran
+occupation_title: graduate student
+github: efran
