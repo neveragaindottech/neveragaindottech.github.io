@@ -1,6 +1,6 @@
 ---
   name: "Tanay Vardhan"
   link: "http://tanayv.me"
-  affiliation: "University of Illinois at Urbana-Champaign"
+  affiliation: "UIUC"
   github: "tanayv"
 ---
