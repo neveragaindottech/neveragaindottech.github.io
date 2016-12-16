@@ -17,6 +17,8 @@ If this option isn't possible, please email neveragaindottech at gmail dot com, 
 
 The system which generates [the pledge](http://neveragain.tech) is Free software licensed under the [GNU AGPL](/LICENSE.md). You have the right to copy, modify, share, and use it for any purpose. Bear in mind that the text of the pledge and the list of signatories are not part of the software and thus not subject to the same license.
 
+## Statement license
+
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
   <a rel="license"
      href="http://creativecommons.org/publicdomain/zero/1.0/">
