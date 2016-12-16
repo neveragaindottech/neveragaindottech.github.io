@@ -1,5 +1,5 @@
 ---
   name: Laurel Ruhlen
-  affiliation: SPINS 
+  affiliation: SPINS
   github: lruhlen
 ---

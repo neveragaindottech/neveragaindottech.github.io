@@ -1,4 +1,4 @@
 ---
   name: Kate Kelly
-  github: Github user firekesti
+  github: firekesti
 ---

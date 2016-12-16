@@ -1,6 +1,6 @@
 ---
   name: Beatrice Huang
-  link: www.beatricehuang.com
+  link: http://beatricehuang.com
   occupation_title: Software Engineer
   github: beahuang
 ---

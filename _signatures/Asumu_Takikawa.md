@@ -1,5 +1,5 @@
 ---
   name: Asumu Takikawa
-  affiliation: Igalia 
+  affiliation: Igalia
   github: takikawa
 ---

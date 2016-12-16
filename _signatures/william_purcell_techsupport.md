@@ -1,5 +1,6 @@
 ---
-  name: william purcell
-  occupation_title: technical support
+  display_name: william purcell
+  name: William Purcell
+  occupation_title: Technical Support
   github: londes
 ---

@@ -1,4 +1,4 @@
 ---
   name: Michelle Bu
-  affiliation: Stripe 
+  affiliation: Stripe
 ---

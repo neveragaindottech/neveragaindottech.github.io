@@ -1,5 +1,5 @@
 ---
   name: Gabe Medrash
-  affiliation: Web Application Developer 
+  affiliation: Web Application Developer
   github: GabeMedrash
 ---

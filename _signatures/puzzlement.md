@@ -1,5 +1,5 @@
 ---
-  github_user: puzzlement
+  github: puzzlement
   affiliation: Google
   pull_request_number: 439
   name: Mary Gardiner

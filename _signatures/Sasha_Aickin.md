@@ -1,6 +1,6 @@
 ---
   name: Sasha Aickin
   affiliation: Redfin
-  occupation_title: former CTO
+  occupation_title: Former CTO
   github: aickin
 ---

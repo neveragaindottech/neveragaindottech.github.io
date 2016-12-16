@@ -1,7 +1,7 @@
 ---
   affiliation: Cloudflare
   link: https://ejj.io
-  github_user: ejcx
+  github: ejcx
   name: Evan Johnson
   pull_request_number: 621
 ---

@@ -1,5 +1,5 @@
 ---
   name: David Hartunian
-  affiliation: Position Development 
+  affiliation: Position Development
   github: dhartunian
 ---

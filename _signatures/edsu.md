@@ -1,4 +1,3 @@
-
 ---
   name: Ed Summers
   link: http://inkdroid.org

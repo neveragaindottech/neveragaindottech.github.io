@@ -1,6 +1,6 @@
 ---
   affiliation: AethLabs
-  github_user: erikhopp
+  github: erikhopp
   name: Erik Hopp
   pull_request_number: 601
 ---

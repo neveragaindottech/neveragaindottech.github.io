@@ -1,5 +1,5 @@
 ---
   name: Sufi Avonne Sidhu
-  affiliation: Product Designer 
+  affiliation: Product Designer
   email: verified
 ---

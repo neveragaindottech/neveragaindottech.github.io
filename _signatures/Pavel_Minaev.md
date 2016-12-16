@@ -1,6 +1,6 @@
 ---
   name: Pavel Minaev
-  affiliation: Microsoft 
+  affiliation: Microsoft
   occupation_title: Software Development Engineer
   github: int19h
 ---

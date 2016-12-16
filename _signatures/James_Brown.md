@@ -1,6 +1,6 @@
 ---
   name: James Brown
   link: https://www.roguelazer.com
-  affiliation: EasyPost 
+  affiliation: EasyPost
   github: Roguelazer
 ---

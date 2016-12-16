@@ -1,5 +1,5 @@
 ---
-  github_user: egracer
+  github: egracer
   link: https://github.com/egracer/
   name: Ethan Gracer
   affiliation: Software Engineer

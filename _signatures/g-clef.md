@@ -1,5 +1,5 @@
 ---
-  github_user: g-clef
+  github: g-clef
   name: Aaron Gee-Clough
   pull_request_number: 474
 ---

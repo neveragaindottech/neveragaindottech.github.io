@@ -1,6 +1,6 @@
 ---
   affiliation: Google
-  github_user: vholland
+  github: vholland
   name: Vicki Tardif Holland
   pull_request_number: 586
 ---

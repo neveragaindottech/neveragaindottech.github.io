@@ -1,5 +1,5 @@
 ---
   name: Ira Joseph Woodhead
-  affiliation: Research Engineer @ Shazam 
-  github: Github bulletsweetp
+  affiliation: Research Engineer @ Shazam
+  github: bulletsweetp
 ---

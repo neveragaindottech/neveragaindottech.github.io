@@ -1,6 +1,6 @@
 ---
   name: Dor Rondel
   link: https://github.com/Dor-Ron
-  affiliation: https://www.ccny.cuny.edu/
+  affiliation: City College of New York
   github: Dor-Ron
 ---

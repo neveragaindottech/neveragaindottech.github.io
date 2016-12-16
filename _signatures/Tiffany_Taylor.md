@@ -1,6 +1,6 @@
 ---
   name: Tiffany Taylor
   link: http://niffyat.net
-  affiliation: Designer 
+  affiliation: Designer
   github: niffyat
 ---

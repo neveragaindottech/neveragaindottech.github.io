@@ -1,5 +1,5 @@
 ---
   name: Mark Pilipczuk
   link: https://markpilip.com/
-  affiliation: marketing consultant
+  occupation_title: Marketing Consultant
 ---

@@ -1,6 +1,6 @@
 ---
   name: Alex Baldwin
   link: https://twitter.com/cubeghost
-  affiliation: Poncho 
+  affiliation: Poncho
   github: goosey
 ---

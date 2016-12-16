@@ -1,5 +1,5 @@
 ---
   name: Scott Jennings
   affiliation:
-  occupation_title: Database/game programmer
+  occupation_title: Database/Game Programmer
 ---

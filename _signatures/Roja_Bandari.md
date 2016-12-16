@@ -1,5 +1,5 @@
 ---
   name: Roja Bandari
   affiliation:
-  occupation_title: Data scientist manager
+  occupation_title: Data Scientist Manager
 ---
