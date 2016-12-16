@@ -1,6 +1,7 @@
 ---
   name: Charles Walker
-  affiliation: Senior Engineer, Verisign
   link: http://thesilkrailway.blogspot.com
+  occupation_title: Senior Engineer
+  affiliation: Verisign
   github: chw20001
 ---
