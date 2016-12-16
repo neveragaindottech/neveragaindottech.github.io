@@ -8,8 +8,8 @@ To sign [the pledge](http://neveragain.tech/), please submit a pull request:
 2. Click the "Create new file" button in the upper-right corner.
 3. Name the file something unique, for example: `first_name_last_name_affiliation.md`. The filename must have `.md` at the end.
 4. Copy the text of the [`template.md`](https://raw.githubusercontent.com/neveragaindottech/neveragaindottech.github.io/master/template.md) file and paste it in the newly created signature file from step 3.
-5. Edit the file to contain your name, job title, and affiliation, exactly as you want them to be shown.
-6. Make a commit and a pull request.
+5. Edit the file to fill in the fields exactly as you want them to be shown.
+6. Commit the file and make a pull request.
 7. In your pull request description, include a link to a webpage you control that refers to your GitHub account.
 8. A volunteer will verify that the person signing owns the submitting GitHub account, and then merge in your pull request.
 
