@@ -1,5 +1,3 @@
-
-
 ---
   name: Scott Nasello
   link: https://twitter.com/scottnasello
