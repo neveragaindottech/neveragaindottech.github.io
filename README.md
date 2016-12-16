@@ -2,6 +2,7 @@
 
 ## Signing by Twitter login
 
+If you have a Twitter account, please use this method.
 You can sign the pledge [using your Twitter account](https://sign.neveragain.tech).
 
 ## Signing by pull request
