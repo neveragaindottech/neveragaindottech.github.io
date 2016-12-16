@@ -33,8 +33,8 @@ If submitting a pull request isn't possible, you can sign by email, but please n
     (your LinkedIn URL)
     (your GitHub URL)
 
+In order to accept your signature, we need to be able to clearly connect your email account to your public identity.
+
 To help us verify you, include a link to a publicly verified profile (e.g. Keybase, LinkedIn, or GitHub) or personal website, that shows your email address and establishes your affiliation (if any).
 
 If possible, send from your workplace or school email account. Otherwise, use an email account associated with your public profile or website.
-
-If we can't clearly connect your email account to your public identity, we can't accept your signature.
