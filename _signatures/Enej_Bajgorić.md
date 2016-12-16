@@ -1,5 +1,5 @@
 ---
-  name: Enej Bajgorić
+  name: "Enej Bajgorić"
   affiliation: Automattic
   github: enejb
 ---
