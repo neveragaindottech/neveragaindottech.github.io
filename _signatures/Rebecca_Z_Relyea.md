@@ -5,4 +5,3 @@
   affiliation: "General Electric"
   github: "rzrelyea"
 ---
-
