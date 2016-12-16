@@ -1,6 +1,6 @@
 ---
-  name: Aaron Smith
-  link: https://github.com/slapula
-  affiliation: DevOps Engineer, Civis Analytics
-  github: slapula
+  name: "Aaron Smith"
+  link: "http://flippidybits.com"
+  occupation_title: "Software Engineer"
+  github: "thegreenpizza"
 ---
