@@ -1,14 +1,34 @@
 # neveragain.tech
 
-If you're interested in signing [the pledge](http://neveragain.tech/), please submit a PR by creating a new file in the `_signatures` folder, following the instructions listed below in the section titled, "To add your name via Github"
+## Signing by pull request
 
-If this option isn't possible, please email neveragaindottech at gmail dot com, but please note that this may delay your signature as we must validate your identity. Please send us some way for us to confirm your identity, such as a LinkedIn profile or a homepage.
+To sign [the pledge](http://neveragain.tech/), please submit a pull request:
 
-## To add your name via Github
-
-1. Click the [`_signatures`](/_signatures/) folder.
-2. Click the "Create new file" button in the upper righthand corner.
-3. Name the file something unique, for example: `first_name_last_name_affiliation.md`. (Don't forget the `.md`.)
+1. Go to the [`_signatures`](/_signatures/) folder.
+2. Click the "Create new file" button in the upper-right corner.
+3. Name the file something unique, for example: `first_name_last_name_affiliation.md`. The filename must have `.md` at the end.
 4. Copy the text of the [`template.md`](https://raw.githubusercontent.com/neveragaindottech/neveragaindottech.github.io/master/template.md) file and paste it in the newly created signature file from step 3.
-5. Edit the file to contain your name and affiliation.
-6. Make a commit and pull request! A volunteer will merge it in.
+5. Edit the file to contain your name, job title, and affiliation, exactly as you want them to be shown.
+6. Make a commit and a pull request.
+7. In your pull request description, include a link to a webpage you control that refers to your GitHub account.
+8. A volunteer will verify that the person signing owns the submitting GitHub account, and then merge in your pull request.
+
+## Signing by email
+
+If submitting a pull request isn't possible, you can sign by email, but please note that this may delay your signature.  Send email to neveragaindottech at gmail dot com in the following format:
+
+    I am signing the pledge as:
+
+    (name here), (optional job title here), (optional organization here)
+
+    Link my signature to: (optional URL here)
+
+    Links for verification:
+    (your website URL)
+    (your LinkedIn URL)
+    (your GitHub URL, etc.)
+
+  * To help us verify you, include links to your LinkedIn profile, GitHub profile, or personal website, that show your email address.
+  * If possible, send from your workplace or school email account. Otherwise, use an email account associated with your public profile or website.
+  * If we can't clearly connect your email account to your public identity, we can't accept your signature.
+
