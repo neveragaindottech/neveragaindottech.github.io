@@ -1,6 +1,6 @@
 ---
   name: Andrea Coravos
-  link: http://www.andreacoravos.com
+  link: https://twitter.com/AndreaCoravos
   occupation_title: Software Engineer
   github: acoravos
 ---
