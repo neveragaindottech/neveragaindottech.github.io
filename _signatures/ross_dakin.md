@@ -1,5 +1,5 @@
 ---
   name: "Ross Dakin"
-  link: "rossdak.in"
+  link: "https://rossdak.in"
   github: "rossdakin"
 ---
