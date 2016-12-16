@@ -10,8 +10,12 @@ To sign [the pledge](http://neveragain.tech/), please submit a pull request:
 4. Copy the text of the [`template.md`](https://raw.githubusercontent.com/neveragaindottech/neveragaindottech.github.io/master/template.md) file and paste it in the newly created signature file from step 3.
 5. Edit the file to fill in the fields exactly as you want them to be shown.
 6. Commit the file and make a pull request.
-7. In your pull request description, include a link to a webpage you control that refers to your GitHub account.
-8. A volunteer will verify that the person signing owns the submitting GitHub account, and then merge in your pull request.
+7. In your pull request description, include a link to a publicly verified profile (e.g. Keybase or LinkedIn) or a personal website, that shows ownership of your GitHub account and establishes your affiliation (if any).
+8. A volunteer will review and merge in your pull request.
+
+In order to be accepted, your pull request must contain enough information
+for us to establish that the name and affiliation (if any) in the signature
+accurately represent the owner of the submitting GitHub account.
 
 ## Signing by email
 
@@ -25,10 +29,12 @@ If submitting a pull request isn't possible, you can sign by email, but please n
 
     Links for verification:
     (your website URL)
+    (your Keybase URL)
     (your LinkedIn URL)
-    (your GitHub URL, etc.)
+    (your GitHub URL)
 
-  * To help us verify you, include links to your LinkedIn profile, GitHub profile, or personal website, that show your email address.
-  * If possible, send from your workplace or school email account. Otherwise, use an email account associated with your public profile or website.
-  * If we can't clearly connect your email account to your public identity, we can't accept your signature.
+To help us verify you, include a link to a publicly verified profile (e.g. Keybase, LinkedIn, or GitHub) or personal website, that shows your email address and establishes your affiliation (if any).
 
+If possible, send from your workplace or school email account. Otherwise, use an email account associated with your public profile or website.
+
+If we can't clearly connect your email account to your public identity, we can't accept your signature.
