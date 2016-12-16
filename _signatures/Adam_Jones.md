@@ -1,4 +1,5 @@
 ---
   name: Adam Jones
-  affiliation: Director of Technology Nerdery Chicago
+  occupation_title: Director of Technology
+  affiliation: Nerdery Chicago
 ---

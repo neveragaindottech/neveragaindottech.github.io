@@ -1,5 +1,6 @@
 ---
   name: Reini Urban
   link: https://github.com/rurban
-  affiliation: Senior Software Engineer cPanel 
+  occupation_title: Senior Software Engineer
+  affiliation: cPanel
 ---

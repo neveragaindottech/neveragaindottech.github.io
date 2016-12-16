@@ -1,6 +1,6 @@
 ---
   name: Edin Cenanovic
   link: https://twitter.com/ecenanovic
-  affiliation: Software Engineer 
+  affiliation: Software Engineer
   github: edinc
 ---

@@ -1,5 +1,5 @@
 ---
-  github_user: jordansissel
+  github: jordansissel
   name: Jordan Sissel
   pull_request_number: 587
 ---

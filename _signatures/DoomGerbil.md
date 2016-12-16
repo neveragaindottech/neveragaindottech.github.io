@@ -1,6 +1,6 @@
 ---
   affiliation: Google
-  github_user: DoomGerbil
+  github: DoomGerbil
   name: Sean Robertson
   pull_request_number: 518
 ---

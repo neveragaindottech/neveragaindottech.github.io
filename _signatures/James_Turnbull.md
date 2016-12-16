@@ -1,6 +1,6 @@
 ---
   name: James Turnbull
   link: https://twitter.com/kartar
-  affiliation: Empatico 
+  affiliation: Empatico
   github: jamtur01
 ---

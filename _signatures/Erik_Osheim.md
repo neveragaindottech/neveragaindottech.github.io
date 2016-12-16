@@ -1,5 +1,5 @@
 ---
   name: Erik Osheim
-  affiliation: Stripe 
+  affiliation: Stripe
   github: non
 ---

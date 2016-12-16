@@ -1,4 +1,4 @@
 ---
   name: Justin T. Conroy
-  affiliation: Pumping Station: One
+  affiliation: "Pumping Station: One"
 ---

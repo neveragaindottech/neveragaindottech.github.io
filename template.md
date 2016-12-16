@@ -1,7 +1,7 @@
 ---
-  name: Your name
-  link: A link for your name. (Remove this line if you don't want a link.)
-  affiliation: Your affiliation. (Remove this line if you don't want an affiliation.)
-  occupation_title: My title. (Remove this line if you don't want to list your title.)
-  github: Your github username (This won't show on the page, but it helps us keep track of where signatures originated in case we have to commit your signature for you to avoid merge conflicts.)
+  name: "Your name"
+  link: "A link for your name (if no link, remove this line)"
+  occupation_title: "Your job title (if no title, remove this line)"
+  affiliation: "Your affiliation (if no affiliation, remove this line)"
+  github: "Your GitHub username (helps us keep track of authorship in case we have to commit your signature for you)"
 ---

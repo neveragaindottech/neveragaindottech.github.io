@@ -1,5 +1,6 @@
 ---
   name: Alex Rudnick
   link: http://alexr.cc
-  affiliation: software engineer, Google
+  occupation_title: Software Sngineer
+  affiliation: Google
 ---

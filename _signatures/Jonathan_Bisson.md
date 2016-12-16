@@ -1,5 +1,5 @@
 ---
   name: Jonathan Bisson
-  affiliation: UIC 
+  affiliation: UIC
   github: bjonnh
 ---

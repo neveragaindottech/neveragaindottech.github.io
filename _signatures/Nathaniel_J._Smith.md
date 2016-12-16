@@ -1,5 +1,5 @@
 ---
   name: Nathaniel J. Smith
-  affiliation: UC Berkeley 
+  affiliation: UC Berkeley
   github: njsmith
 ---

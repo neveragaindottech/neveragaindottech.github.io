@@ -1,5 +1,5 @@
 ---
   name: Geoffrey Zheng
-  affiliation: Google 
+  affiliation: Google
   github: geffzh
 ---

@@ -1,4 +1,4 @@
 ---
   name: Miska Knapek
-  affiliation: designer and coder
+  occupation_title: Designer and Coder
 ---

@@ -1,7 +1,7 @@
 ---
   affiliation: Google
   link: http://ginader.com
-  github_user: ginader
+  github: ginader
   name: Dirk Ginader
   pull_request_number: 499
 ---

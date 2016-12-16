@@ -1,6 +1,6 @@
 ---
   name: Dave Reid
   link: http://www.davereid.net
-  affiliation: Lullabot 
+  affiliation: Lullabot
   github: davereid
 ---

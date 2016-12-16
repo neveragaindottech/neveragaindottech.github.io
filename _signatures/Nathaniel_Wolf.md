@@ -1,5 +1,5 @@
 ---
   name: Nathaniel Wolf
-  affiliation: Pandora 
+  affiliation: Pandora
   github: nathanielwolf
 ---

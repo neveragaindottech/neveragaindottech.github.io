@@ -1,6 +1,6 @@
 ---
   name: Ian Ynda-Hummel
   link: https://ianyh.com
-  affiliation: PreVeil 
+  affiliation: PreVeil
   github: ianyh
 ---

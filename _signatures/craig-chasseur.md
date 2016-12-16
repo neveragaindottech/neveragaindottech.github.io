@@ -1,6 +1,6 @@
 ---
   affiliation: Google
-  github_user: craig-chasseur
+  github: craig-chasseur
   name: Craig Chasseur
   pull_request_number: 579
 ---

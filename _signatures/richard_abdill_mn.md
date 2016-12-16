@@ -1,5 +1,5 @@
 ---
   name: Richard Abdill
-  title: Software Developer
+  occupation_title: Software Developer
   github: rabdill
 ---
