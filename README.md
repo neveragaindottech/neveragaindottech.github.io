@@ -25,11 +25,11 @@ The system which generates [the pledge](http://neveragain.tech) is Free software
   <br />
   To the extent possible under law,
   <a rel="dct:publisher"
-     href="neveragain.tech">
+     href="http://neveragain.tech">
     <span property="dct:title">Never Again dot Tech Signatories</span></a>
   have waived all copyright and related or neighboring rights to
   <span property="dct:title">the neveragain.tech statement</span>.
-This work is published from:
+This work is published from the
 <span property="vcard:Country" datatype="dct:ISO3166"
       content="US" about="neveragain.tech">
   United States</span>.
