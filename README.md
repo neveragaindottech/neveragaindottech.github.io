@@ -17,16 +17,15 @@ To sign [the pledge](http://neveragain.tech/), please submit a pull request:
 
 If submitting a pull request isn't possible, you can sign by email, but please note that this may delay your signature.  Send email to neveragaindottech at gmail dot com in the following format:
 
-    I am signing the pledge as:
-
-    (name here), (optional job title here), (optional organization here)
-
-    Link my signature to: (optional URL here)
-
-    Links for verification:
-    (your website URL)
-    (your LinkedIn URL)
-    (your GitHub URL, etc.)
+```
+---
+  name: "Your name"
+  link: "A link for your name (if no link, remove this line)"
+  occupation_title: "Your job title (if no title, remove this line)"
+  affiliation: "Your affiliation (if no affiliation, remove this line)"
+  github: "Your GitHub username (helps us keep track of authorship in case we have to commit your signature for you)"
+---
+```
 
   * To help us verify you, include links to your LinkedIn profile, GitHub profile, or personal website, that show your email address.
   * If possible, send from your workplace or school email account. Otherwise, use an email account associated with your public profile or website.
