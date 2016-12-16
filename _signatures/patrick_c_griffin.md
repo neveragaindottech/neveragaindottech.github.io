@@ -1,4 +1,4 @@
-Patrick C. Griffin
-Portfolio Manager, Analytics & Insights
-Sun Life Financial (U.S.)
-padraiceen
+name: "Patrick C. Griffin"
+occupation_title: "Portfolio Manager, Analytics & Insights"
+affiliation: "Sun Life Financial (U.S.)"
+github: "padraiceen"
