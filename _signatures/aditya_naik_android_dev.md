@@ -1,6 +1,6 @@
 ---
   name: Aditya Naik
-  link: github.com/adityanaik
+  link: https://github.com/adityanaik
   occupation_title: Android Developer
   github: adityanaik
 ---

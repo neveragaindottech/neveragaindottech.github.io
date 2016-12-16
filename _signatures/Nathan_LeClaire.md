@@ -1,6 +1,6 @@
 ---
   name: Nathan LeClaire
-  link: nathanleclaire.com
+  link: https://nathanleclaire.com
   occupation_title: Open Source Engineer
   github: nathanleclaire
 ---

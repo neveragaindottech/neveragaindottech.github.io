@@ -1,4 +1,4 @@
 ---
   name: Joe Karlsson
-  link: www.joekarlsson.com
+  link: http://www.joekarlsson.com
 ---

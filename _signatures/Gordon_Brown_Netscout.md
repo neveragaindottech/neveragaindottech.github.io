@@ -1,6 +1,6 @@
 ---
   name: Gordon Brown
-  link: noneuclidean.space
+  link: https://noneuclidean.space
   affiliation: NETSCOUT Systems
   occupation_title: Software Design Engineer
   github: gwbrown
