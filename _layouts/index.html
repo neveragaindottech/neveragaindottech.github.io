@@ -3,7 +3,10 @@
 <section class="main-content">
 {% include main_content.html %}
 
-<p class="note" id="count"></p>
+<p class="note">
+<span id="count"></span>
+To sign,
+<a href="https://github.com/neveragaindottech/neveragaindottech.github.io/blob/master/README.md">follow these instructions</a>.
 
 <p>Signed,</p>
 
@@ -18,10 +21,13 @@
 <script>
   var count = document.getElementById('count');
   var signatories = document.getElementById('signatories');
-  count.innerText = 'Number of signatories: ' + signatories.childElementCount;
+  count.innerText = 'Number of signatories: ' + signatories.childElementCount + '.';
 </script>
 
-{% include how_to_sign.html %}
+<a name="howtosign"></a><h2>How to sign this pledge</h2>
+
+<p>To sign this pledge, please
+<a href="https://github.com/neveragaindottech/neveragaindottech.github.io/blob/master/README.md">follow these instructions</a>.
 
 {% include resources.html %}
 </section>
