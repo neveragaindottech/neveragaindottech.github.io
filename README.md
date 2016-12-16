@@ -1,5 +1,9 @@
 # neveragain.tech
 
+## Signing by Twitter login
+
+You can sign the pledge [using your Twitter account](https://sign.neveragain.tech).
+
 ## Signing by pull request
 
 To sign [the pledge](http://neveragain.tech/), please submit a pull request:
