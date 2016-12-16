@@ -1,0 +1,5 @@
+name: "Sarah Hanawald"
+  occupation_title: "Executive Director"
+  link: "www.theatlis.org"
+  affiliation: "Association of Technology Leaders in Independent Schools"
+  github: "SarahHanawald"
