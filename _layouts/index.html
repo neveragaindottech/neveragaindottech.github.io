@@ -1,45 +1,35 @@
 {% include header.html %}
 
+<section class="main-content">
 {% include main_content.html %}
 
-{% include earlier_signatures.html %}
+<p class="note">
+<span id="count"></span>
+To sign,
+<a href="https://github.com/neveragaindottech/neveragaindottech.github.io/blob/master/README.md">follow these instructions</a>.
 
-<ul class="signatories" id="automated-signatories">
-  {% assign sorted_signatures =  site.signatures | sort: 'name' %}
-  {% for signature in sorted_signatures %}
-    <li>
-      {% if signature.link %}
-        <a href="{{ signature.link }}">{{ signature.name }}</a>
-      {% else %}
-        {{ signature.name }}
-      {% endif %}
+<p>Signed,</p>
 
-      {% if signature.affiliation %}
-      , {{ signature.affiliation }}
-      {% endif %}
-
-      {% if signature.occupation_title %}
-      , {{ signature.occupation_title }}
-      {% endif %}
-    </li>
-    {% if signature.github %}
-    <!-- Github user: {{ signature.github }} -->
-    {% endif %}
-  {% endfor %}
+<ul class="signatories" id="signatories">
+  {% assign sorted_signatures = site.signatures | sort: 'name' %}
+  {% for sig in sorted_signatures %}{% if sig.name %}
+  {% if sig.github %}<li id="github-user-{{sig.github}}">{% else %}<li>{% endif %}{% capture name %}{% if sig.display_name %}{{sig.display_name}}{% else %}{{sig.name}}{% endif %}{% endcapture %}
+    {% if sig.link %}<a rel="nofollow" href="{{sig.link}}">{{name}}</a>{% else %}{{name}}{% endif %}{% if sig.occupation_title %}, {{sig.occupation_title}}{% endif %}{% if sig.affiliation %}, {{sig.affiliation}}{% endif %}
+  </li>{% endif %}{% endfor %}
 </ul>
 
-<!-- End of all signatures. -->
-
-<div class="note" id="count"></div>
 <script>
-  var num_earlier_signatories = document.getElementById('signatories').childElementCount;
-  var num_automated_signatories = document.getElementById('automated-signatories').childElementCount;
-  var total_signatories = num_earlier_signatories + num_automated_signatories;
-
-  document.getElementById('count').innerText = 'Number of signatories: ' + total_signatories;
+  var count = document.getElementById('count');
+  var signatories = document.getElementById('signatories');
+  count.innerText = 'Number of signatories: ' + signatories.childElementCount + '.';
 </script>
 
+<a name="howtosign"></a><h2>How to sign this pledge</h2>
 
-{% include how_to_sign.html %}
+<p>To sign this pledge, please
+<a href="https://github.com/neveragaindottech/neveragaindottech.github.io/blob/master/README.md">follow these instructions</a>.
 
 {% include resources.html %}
+</section>
+
+{% include footer.html %}

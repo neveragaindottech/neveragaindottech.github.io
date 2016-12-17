@@ -1,5 +1,5 @@
 ---
   name: Karl Schults
-  affiliation: Engineer, Scribd 
-  github: GitHub user kschults
+  affiliation: Engineer, Scribd
+  github: kschults
 ---

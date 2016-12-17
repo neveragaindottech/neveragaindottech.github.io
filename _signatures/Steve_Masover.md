@@ -1,5 +1,5 @@
 ---
   name: Steve Masover
-  affiliation: UC Berkeley 
+  affiliation: UC Berkeley
   github: smasover
 ---

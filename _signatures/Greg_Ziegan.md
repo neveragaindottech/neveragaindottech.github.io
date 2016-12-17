@@ -1,6 +1,6 @@
 ---
   name: Greg Ziegan
   link: https://twitter.com/gregziegan
-  affiliation: Software Engineer, Zendesk 
+  affiliation: Software Engineer, Zendesk
   github: thebritican
 ---

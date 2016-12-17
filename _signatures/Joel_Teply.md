@@ -1,6 +1,6 @@
 ---
   name: Joel Teply
-  link: https://cambrian.io
-  affiliation: Founder, CEO, Cambrian 
+  link: http://cambrian.io
+  affiliation: Founder, CEO, Cambrian
   github: joelteply
 ---

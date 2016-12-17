@@ -1,5 +1,5 @@
 ---
   name: Rick Altherr
-  affiliation: Google 
+  affiliation: Google
   github: kc8apf
 ---

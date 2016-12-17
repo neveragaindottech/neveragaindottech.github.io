@@ -1,6 +1,6 @@
 ---
   name: Kevin Burke
   link: https://twitter.com/derivativeburke
-  affiliation: consultant 
+  occupation_title: Consultant
   github: kevinburke
 ---

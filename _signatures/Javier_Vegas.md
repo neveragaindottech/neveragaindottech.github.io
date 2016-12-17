@@ -1,6 +1,6 @@
 ---
   name: Javier Vegas
   link: https://twitter.com/javiervegas
-  affiliation: Nuzzel 
+  affiliation: Nuzzel
   github: javiervegas
 ---

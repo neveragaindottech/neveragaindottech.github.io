@@ -1,6 +1,6 @@
 ---
   name: Sean Knox
-  link: https://twitter.com/smk
-  affiliation: Director of Engineering, Able Health 
+  link: https://www.linkedin.com/in/seanknox
+  affiliation: Director of Engineering, Able Health
   github: seanknox
 ---

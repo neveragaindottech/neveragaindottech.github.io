@@ -1,4 +1,5 @@
 ---
   name: Heath W. Black
-  affiliation: Head of Growth at Imzy
+  occupation_title: Head of Growth
+  affiliation: Imzy
 ---

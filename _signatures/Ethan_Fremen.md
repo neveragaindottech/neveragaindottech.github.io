@@ -1,5 +1,5 @@
 ---
   name: Ethan Fremen
-  affiliation: Invitae 
+  affiliation: Invitae
   github: mindlace
 ---

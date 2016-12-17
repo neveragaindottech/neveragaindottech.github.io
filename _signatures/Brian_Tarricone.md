@@ -1,6 +1,6 @@
 ---
   name: Brian Tarricone
   link: https://spurint.org
-  affiliation: Software Developer 
+  affiliation: Software Developer
   github: kelnos
 ---

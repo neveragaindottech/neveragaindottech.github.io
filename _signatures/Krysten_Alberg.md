@@ -1,5 +1,5 @@
 ---
   name: Krysten Alberg
-  affiliation: thedatabank, gbc 
+  affiliation: thedatabank, gbc
   email: verified
 ---

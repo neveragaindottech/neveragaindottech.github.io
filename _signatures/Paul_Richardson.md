@@ -1,5 +1,5 @@
 ---
   name: Paul Richardson
-  affiliation: University of Utah 
+  affiliation: University of Utah
   github: el-groucho
 ---

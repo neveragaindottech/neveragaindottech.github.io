@@ -1,5 +1,5 @@
 ---
   name: Obi Onyeador
-  affiliation: Founder, Revalor Consulting Group 
+  affiliation: Founder, Revalor Consulting Group
   email: verified
 ---

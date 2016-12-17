@@ -1,5 +1,5 @@
 ---
   name: Geoffrey Irving
-  affiliation: Google Brain 
+  affiliation: Google Brain
   github: girving
 ---

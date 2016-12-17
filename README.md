@@ -1,16 +1,40 @@
 # neveragain.tech
 
-If you're interested in signing the pledge, please submit a PR by creating a new file in the `_signatures` folder, following the instructions listed below in the section titled, "To add your name via Github"
+## Signing by pull request
 
-If GitHub isn't your jam, you can [send us a direct message on Twitter (our DMs are open)](https://twitter.com/neveragaintech).
+To sign [the pledge](http://neveragain.tech/), please submit a pull request:
 
-If neither of these options are possible, please email neveragaindottech at gmail dot com, but please note that this may delay your signature as we must validate your identity. Please send us some way for us to confirm your identity, such as a LinkedIn profile or a homepage.
+1. Go to the [`_signatures`](/_signatures/) folder.
+2. Click the "Create new file" button in the upper-right corner.
+3. Name the file something unique, for example: `first_name_last_name_affiliation.md`. The filename must have `.md` at the end.
+4. Copy the text of the [`template.md`](https://raw.githubusercontent.com/neveragaindottech/neveragaindottech.github.io/master/template.md) file and paste it in the newly created signature file from step 3.
+5. Edit the file to fill in the fields exactly as you want them to be shown.
+6. Commit the file and make a pull request.
+7. In your pull request description, include a link to a publicly verified profile (e.g. Keybase or LinkedIn) or a personal website, that shows ownership of your GitHub account and establishes your affiliation (if any).
+8. A volunteer will review and merge in your pull request.
 
-## To add your name via Github
+In order to be accepted, your pull request must contain enough information
+for us to establish that the name and affiliation (if any) in the signature
+accurately represent the owner of the submitting GitHub account.
 
-1. Click the `_signatures` folder.
-2. Click the "Create new file" button in the upper righthand corner.
-3. Name the file something unique, for example: `first_name_last_name_affiliation.md`. (Don't forget the `.md`.)
-4. Copy the text of the `template.md` file and paste it in the newly created signature file from step 3.
-5. Edit the file to contain your name and affiliation.
-6. Make a commit and pull request! A volunteer will merge it in.
+## Signing by email
+
+If submitting a pull request isn't possible, you can sign by email, but please note that this may delay your signature.  Send email to neveragaindottech at gmail dot com in the following format:
+
+    I am signing the pledge as:
+
+    (name here), (optional job title here), (optional organization here)
+
+    Link my signature to: (optional URL here)
+
+    Links for verification:
+    (your website URL)
+    (your Keybase URL)
+    (your LinkedIn URL)
+    (your GitHub URL)
+
+In order to accept your signature, we need to be able to clearly connect your email account to your public identity.
+
+To help us verify you, include a link to a publicly verified profile (e.g. Keybase, LinkedIn, or GitHub) or personal website, that shows your email address and establishes your affiliation (if any).
+
+If possible, send from your workplace or school email account. Otherwise, use an email account associated with your public profile or website.

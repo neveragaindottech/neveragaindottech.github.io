@@ -1,5 +1,5 @@
 ---
   name: Jérôme Petazzoni
-  affiliation: Docker 
+  affiliation: Docker
   github: jpetazzo
 ---
