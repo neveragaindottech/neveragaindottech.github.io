@@ -1,6 +1,6 @@
 ---
   name: "Kurt Smith"
-  link: "https://www.linkedin.com/in/kurtasmith"
+  link: "https://twitter.com/kurtosis0"
   occupation_title: "Data Scientist"
   affiliation: "Color Genomics"
   github: "kurtosis"
