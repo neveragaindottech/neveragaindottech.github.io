@@ -1,6 +1,6 @@
 ---
   name: Bradley Snider
-  link: bradleyjsnider.com
+  link: http://bradleyjsnider.com
   affiliation: Esri
   github: bsnider
 ---

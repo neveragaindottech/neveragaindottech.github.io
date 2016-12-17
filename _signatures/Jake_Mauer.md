@@ -1,6 +1,6 @@
 ---
   name: "Jake Mauer"
-  link: "jakemauer.com"
+  link: "https://jakemauer.com"
   occupation_title: "Director of Design"
   affiliation: "Allovue"
   github: "jakemauer"

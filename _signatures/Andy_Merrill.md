@@ -1,5 +1,5 @@
 ---
   name: "Andy Merrill"
-  link: "mtklabs.github.io"
+  link: "https://mtklabs.github.io"
   github: "appleinventor"
 ---

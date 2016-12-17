@@ -1,6 +1,6 @@
 ---
   name: "Doug Schwartz"
-  link: "dougsch@amazon.com"
+  link: "mailto:dougsch@amazon.com"
   occupation_title: "Senior Programmer-Writer"
   affiliation: "AWS"
   github: "Doug-AWS"

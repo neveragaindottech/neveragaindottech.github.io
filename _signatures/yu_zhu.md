@@ -1,5 +1,5 @@
 ---
   name: Yu Zhu
-  link: www.codeyu.com
+  link: http://www.codeyu.com
   github: codeyu
 ---
