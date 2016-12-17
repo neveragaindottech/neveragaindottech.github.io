@@ -1,6 +1,6 @@
 ---
-  name: "Liz Fong-Jones"
+  name: "Liz F-J"
   link: https://twitter.com/lizthegrey
   affiliation: "Google"
-  occupation_title: "Site Reliability Engineering Manager"
+  occupation_title: "SRE Mgr"
 ---
