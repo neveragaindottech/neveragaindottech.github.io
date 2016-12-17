@@ -1,5 +1,6 @@
 ---
   name: Claudius Mbemba
-  affiliation:
-  occupation_title:
+  affiliation: Microsoft
+  occupation_title: SDE
+  link: http://claudiusmbemba.com
 ---
