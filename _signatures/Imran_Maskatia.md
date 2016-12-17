@@ -1,5 +1,5 @@
 ---
   name: Imran Maskatia
-  affiliation:
-  occupation_title:
+  affiliation: Ooyala
+  occupation_title: SVP of Engineering
 ---

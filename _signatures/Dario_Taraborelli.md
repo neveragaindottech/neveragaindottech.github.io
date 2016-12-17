@@ -1,5 +1,6 @@
 ---
   name: Dario Taraborelli
-  affiliation:
+  affiliation: Wikimedia Foundation
   occupation_title:
+  link: https://twitter.com/ReaderMeter
 ---
