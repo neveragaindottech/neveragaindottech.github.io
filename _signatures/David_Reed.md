@@ -1,6 +1,6 @@
-
+---
 name: David Reed
-link: https://www.linkedin.com/drdgreed
-affiliation:
-occupation: data scientist
-githup: drdgreed
+link: https://www.linkedin.com/in/drdgreed
+occupation_title: data scientist
+github: mongoispawn
+---
