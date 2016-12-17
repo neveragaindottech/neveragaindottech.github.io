@@ -3,4 +3,3 @@
   link: "https://www.bryanquigley.com"
   affiliation: "Canonical"
 ---
-

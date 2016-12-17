@@ -1,4 +1,4 @@
 ---
-  name: Josh Schulz 
+  name: Josh Schulz
   github: josheschulz
 ---

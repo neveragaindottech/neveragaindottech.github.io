@@ -4,4 +4,3 @@
   affiliation: Pinterest
   occupation_title:
 ---
-

@@ -5,4 +5,3 @@
   affiliation: Equal Three
   github: null-null-null
 ---
-
