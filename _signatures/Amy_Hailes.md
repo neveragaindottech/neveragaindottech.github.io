@@ -1,6 +1,6 @@
 ---
   name: "Amy Hailes"
-  link: "https://amy.hailes.com"
+  link: "http://amy.hailes.com"
   occupation_title: "DevOps Engineer"
   github: "ahailes"
 ---
