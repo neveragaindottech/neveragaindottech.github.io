@@ -2,5 +2,5 @@
   name: Luis Vega Torres
   occupation_title: Software Developer
   affiliation: Mobilize
-  url: www.lvegat.com
+  link: http://www.lvegat.com
 ---
