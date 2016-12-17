@@ -179,7 +179,9 @@ a {
 @media screen and (max-width: 42em) {
   .main-content {
     padding: 1rem 2rem;
-    font-size: 0.9rem; } }
+    font-size: 0.9rem; }
+  ul {
+    padding-left: 2em; } }
 
 h1 { font-weight: 300; text-align: left; }
 .signatories { list-style-type: none; }
