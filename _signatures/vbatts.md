@@ -1,5 +1,5 @@
 ---
-  Name: Vincent B. Batts
+  name: Vincent B. Batts
   affiliation: Red Hat
   link: https://keybase.io/vbatts
   github: vbatts
