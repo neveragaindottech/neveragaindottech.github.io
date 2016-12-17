@@ -4,4 +4,3 @@
   affiliation: TrussWorks
   occupation_title:
 ---
-

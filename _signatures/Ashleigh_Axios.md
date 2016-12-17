@@ -1,5 +1,5 @@
 ---
   name: Ashleigh Axios
-  affiliation: Automattic 
+  affiliation: Automattic
   github: ashleighaxios
 ---
