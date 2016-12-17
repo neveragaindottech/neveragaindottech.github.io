@@ -1,6 +1,6 @@
 ---
   name: "Faruk Ateş"
   link: "http://farukat.es/"
-  title: "Product Designer"
+  occupation_title: "Product Designer"
   affiliation: "Quantifind"
 ---

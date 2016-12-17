@@ -1,5 +1,5 @@
 ---
   name: "Ben Williams"
-  title: "Co-founder and COO"
+  occupation_title: "Co-founder and COO"
   affiliation: "Reelio"
 ---

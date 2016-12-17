@@ -1,5 +1,5 @@
 ---
   name: "Conor Seán Ryan"
-  title: "Principal Software Engineer"
+  occupation_title: "Principal Software Engineer"
   affiliation: "BioRealm"
 ---

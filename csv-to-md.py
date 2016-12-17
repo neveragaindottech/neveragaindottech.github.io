@@ -43,7 +43,7 @@ if __name__ == "__main__":
         assert '"' not in line
         assert '\\' not in line
         line = line.decode("utf-8")
-        name, title, affiliation, link = line.strip().split(";")
+        name, occupation_title, affiliation, link = line.strip().split(";")
         output_filename = os.path.join(output_folder, sanitize_for_filename(name) + ".md")
         print "Output", output_filename
 
@@ -51,8 +51,8 @@ if __name__ == "__main__":
         template.append("  name: \"%s\"" % name)
         if link:
             template.append("  link: \"%s\"" % link)
-        if title:
-            template.append("  title: \"%s\"" % title)
+        if occupation_title:
+            template.append("  occupation_title: \"%s\"" % occupation_title)
         if affiliation:
             template.append("  affiliation: \"%s\"" % affiliation)
         template.append("---")

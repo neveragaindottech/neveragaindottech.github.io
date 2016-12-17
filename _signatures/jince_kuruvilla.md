@@ -1,6 +1,6 @@
 ---
   name: "Jince Kuruvilla"
   link: "http://www.jince.org"
-  title: "Product Manager"
+  occupation_title: "Product Manager"
   affiliation: "Flocabulary"
 ---

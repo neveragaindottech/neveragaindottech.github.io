@@ -1,4 +1,4 @@
 ---
   name: "Edward Drohan"
-  title: "Information Engineering Consultant"
+  occupation_title: "Information Engineering Consultant"
 ---

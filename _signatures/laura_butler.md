@@ -1,5 +1,5 @@
 ---
   name: "Laura Butler"
-  title: "Technical Fellow"
+  occupation_title: "Technical Fellow"
   affiliation: "Microsoft"
 ---

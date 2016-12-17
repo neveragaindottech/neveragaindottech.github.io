@@ -1,5 +1,5 @@
 ---
   name: "Eliah Hecht"
-  title: "Software Engineer"
+  occupation_title: "Software Engineer"
   affiliation: "Google"
 ---

@@ -1,4 +1,4 @@
 ---
   name: "Craig Phillips"
-  title: "UX Designer"
+  occupation_title: "UX Designer"
 ---

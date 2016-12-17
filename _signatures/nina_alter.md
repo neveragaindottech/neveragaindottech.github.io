@@ -1,4 +1,4 @@
 ---
   name: "Nina Alter"
-  title: "Independent UX Designer"
+  occupation_title: "Independent UX Designer"
 ---

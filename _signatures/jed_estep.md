@@ -1,5 +1,5 @@
 ---
   name: "Jed Estep"
-  title: "Engineer"
+  occupation_title: "Engineer"
   affiliation: "Google"
 ---

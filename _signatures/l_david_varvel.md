@@ -1,5 +1,5 @@
 ---
   name: "L. David Varvel"
-  title: "Director"
+  occupation_title: "Director"
   affiliation: "Pivotal"
 ---

@@ -1,4 +1,4 @@
 ---
   name: "Nicholas Alexander Marquez Perez"
-  title: "Software Engineer & Researcher"
+  occupation_title: "Software Engineer & Researcher"
 ---
