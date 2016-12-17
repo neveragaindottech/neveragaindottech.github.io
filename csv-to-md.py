@@ -55,7 +55,7 @@ if __name__ == "__main__":
             template.append("  occupation_title: \"%s\"" % occupation_title)
         if affiliation:
             template.append("  affiliation: \"%s\"" % affiliation)
-        template.append("---")
+        template.append("---\n")
 
         with open(output_filename, "w") as f:
             f.write("\n".join(template).encode('utf-8'))
