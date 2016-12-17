@@ -1,3 +1,5 @@
+---
   name: Jeff M. Johnson
-  occupation_title: Sr. Linux Analyst
+  occupation_title: "Sr. Linux Analyst"
   github: jeffroeq
+---
