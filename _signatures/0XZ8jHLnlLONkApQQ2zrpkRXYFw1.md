@@ -1,6 +1,5 @@
 ---
-  name: "Jeffrey utz"
+  name: "Jeffrey Utz"
   link: https://twitter.com/jeffutz
   affiliation: "NYC DoE"
-  occupation_title: "Dr."
 ---
