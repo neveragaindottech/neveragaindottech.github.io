@@ -1,0 +1,7 @@
+---
+  name: Clark Kampfe
+  link: https://zeroclarkthirty.com/
+  occupation_title: Data Engineer
+  affiliation: Grainger
+  github: ckampfe
+---
