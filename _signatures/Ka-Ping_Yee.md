@@ -1,4 +1,5 @@
 ---
   name: Ka-Ping Yee
-  affiliation: Engineer, Wave
+  occupation_title: Engineer
+  organization: Wave
 ---
