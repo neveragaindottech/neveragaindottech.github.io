@@ -4,10 +4,9 @@
 
 This pledge is for people who work in the US tech industry.
 This doesn't mean you have to be a programmer;
-anyone who is part of a US-based tech company or organization can sign.
-If you live outside the US but work for a US-based company, you can sign.
-If you are a founder or owner of a tech company in the US, you can sign.
-If you are a self-employed tech worker in the US, you can sign.
+anyone who is a tech worker by profession,
+either in the US or working at a US-based organization, can sign.
+This includes students planning on going into tech fields, self-employed people, and owners of US-based businesses.
 
 ## Signing by Twitter login
 
