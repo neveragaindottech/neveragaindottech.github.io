@@ -43,3 +43,27 @@ In order to accept your signature, we need to be able to clearly connect your em
 To help us verify you, include a link to a publicly verified profile (e.g. Keybase, LinkedIn, or GitHub) or personal website, that shows your email address and establishes your affiliation (if any).
 
 If possible, send from your workplace or school email account. Otherwise, use an email account associated with your public profile or website.
+
+## Software license
+
+The system which generates [the pledge](http://neveragain.tech) is Free software licensed under the [GNU AGPL](/LICENSE.md). You have the right to copy, modify, share, and use it for any purpose. Bear in mind that the text of the pledge and the list of signatories are not part of the software and thus not subject to the same license.
+
+## Statement license
+
+<p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
+  <a rel="license"
+     href="http://creativecommons.org/publicdomain/zero/1.0/">
+    <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
+  </a>
+  <br />
+  To the extent possible under law,
+  <a rel="dct:publisher"
+     href="http://neveragain.tech">
+    <span property="dct:title">Never Again dot Tech Signatories</span></a>
+  have waived all copyright and related or neighboring rights to
+  <span property="dct:title">the neveragain.tech statement</span>.
+This work is published from the
+<span property="vcard:Country" datatype="dct:ISO3166"
+      content="US" about="neveragain.tech">
+  United States</span>.
+</p>
