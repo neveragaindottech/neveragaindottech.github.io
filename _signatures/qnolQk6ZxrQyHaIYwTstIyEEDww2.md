@@ -1,5 +1,5 @@
 ---
   name: "Elena Elkina"
-  affiliation: "Independent "
+  affiliation: "Independent"
   occupation_title: "Privacy Advocate"
 ---
