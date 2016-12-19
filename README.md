@@ -2,11 +2,12 @@
 
 ## Can you sign the pledge?
 
-This pledge is for people who work in the tech industry in the United States.
+This pledge is for people who work in the US tech industry.
 This doesn't mean you have to be a programmer;
-anyone at a U.&nbsp;S. tech company can sign.
-If you are a founder or owner of a tech company in the U.&nbsp;S., you can sign.
-If you are a self-employed tech worker in the U.&nbsp;S., you can sign.
+anyone who is part of a US-based tech company or organization can sign.
+If you live outside the US but work for a US-based company, you can sign.
+If you are a founder or owner of a tech company in the US, you can sign.
+If you are a self-employed tech worker in the US, you can sign.
 
 ## Signing by Twitter login
 
