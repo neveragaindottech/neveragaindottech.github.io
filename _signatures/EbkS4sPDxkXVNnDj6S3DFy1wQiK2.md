@@ -1,6 +1,6 @@
 ---
   name: "Annie Nguyen"
-  link: Www.mavenlink.com
+  link: https://www.mavenlink.com
   affiliation: "Mavenlink"
   occupation_title: "CSM"
 ---
