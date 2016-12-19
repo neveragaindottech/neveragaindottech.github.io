@@ -14,7 +14,7 @@ To sign,
   {% assign sorted_signatures = site.signatures | sort: 'name' %}
   {% for sig in sorted_signatures %}{% if sig.name %}
   {% if sig.github %}<li id="github-user-{{sig.github}}">{% else %}<li>{% endif %}{% capture name %}{% if sig.display_name %}{{sig.display_name}}{% else %}{{sig.name}}{% endif %}{% endcapture %}
-    {% if sig.link %}<a rel="nofollow" href="{{sig.link}}">{{name}}</a>{% else %}{{name}}{% endif %}{% if sig.occupation_title %}, {{sig.occupation_title}}{% endif %}{% if sig.affiliation %}, {{sig.affiliation}}{% endif %}
+  {% if sig.link %}<a rel="nofollow" href="{{sig.link}}">{{name}}</a>{% else %}{{name}}{% endif %}{% if sig.occupation_title %}, {{sig.occupation_title}}{% endif %}{% if sig.organization %}, {{sig.organization}}{% endif %}{% if sig.affiliation %}, {{sig.affiliation}}{% endif %}
   </li>{% endif %}{% endfor %}
 </ul>
 
