@@ -1,4 +1,4 @@
 ---
-  name: "Karl A, Krueger"
+  name: "Karl A. Krueger"
   github: "thatkarlperson"
 ---
