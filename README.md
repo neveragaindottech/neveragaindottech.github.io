@@ -1,12 +1,33 @@
 # neveragain.tech
 
+The response to this pledge has been much larger than we expected,
+and it has required a great deal of human effort
+to verify thousands of signatures,
+so we will only be manually verifying signatures for a limited time.
+
+If you would like your signature to appear on this website,
+please submit it **by noon PST Dec 21**.
+We will process and validate all the signatures received by that time.
+
+After that time, you can still sign the pledge in many ways.
+Remember, the pledge is a personal, individual commitment;
+announcing your commitment is an invitation to others
+to help you hold yourself accountable.
+Here are some ways to do that:
+  * Tweet "I hereby commit to the neveragain.tech pledge. Please stand with me and hold me to it. #neveragaintech"
+  * Post "I hereby commit to the neveragain.tech pledge. Please stand with me and hold me to it." on your personal website or blog, with a link to http://neveragain.tech/.
+  * Print out the pledge and sign it on paper.  Post it in a visible location to show solidarity and gather signatures from your teammates.  Host a signing party at your workplace.
+
+We are heartened and grateful for your enthusiasm and support.  If you are passionate about this issue, please get involved!  There is plenty more to be done.  We'll be posting a guide to constructive action later today.
+
 ## Can you sign the pledge?
 
 This pledge is for people who work in the US tech industry.
 This doesn't mean you have to be a programmer;
 anyone who is a tech worker by profession,
 either in the US or working at a US-based organization, can sign.
-This includes students planning on going into tech fields, self-employed people, and owners of US-based businesses.
+This includes students planning on going into tech fields,
+self-employed people, and owners of US-based businesses.
 
 ## Signing by Twitter login
 
