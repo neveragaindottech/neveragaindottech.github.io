@@ -1,0 +1,53 @@
+#!/usr/bin/env python
+
+import datetime
+import json
+import os
+import requests
+import sys
+token = os.environ['GITHUB_ACCESS_TOKEN']
+
+def errprint(s):
+    sys.stderr.write(s)
+    sys.stderr.flush()
+
+prs = []
+
+for page in range(1, 100):
+    more_prs = requests.get('https://api.github.com/repos/neveragaindottech/neveragaindottech.github.io/pulls?state=all&access_token=%s&page=%d' % (token, page)).json()
+    prs += more_prs
+    errprint('fetched %d PRs\n' % len(prs))
+    if not more_prs:
+        break
+
+data = [['pr', 'day']]
+for pr in reversed(prs):
+    created = datetime.datetime.strptime(pr['created_at'], '%Y-%m-%dT%H:%M:%SZ')
+    created -= datetime.timedelta(seconds=3600*8)  # PST
+    t = created.day + created.hour/24.0 + created.minute/24.0/60.0
+    data.append([str(pr['number']), t])
+
+print('''
+<html>
+  <head>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+      google.charts.load("current", {packages:["corechart"]});
+      google.charts.setOnLoadCallback(drawChart);
+      function drawChart() {
+        var data = google.visualization.arrayToDataTable({{data}});
+        var options = {
+          title: 'Time of submission (fractional day in December)',
+          legend: { position: 'none' },
+        };
+
+        var chart = new google.visualization.Histogram(document.getElementById('chart_div'));
+        chart.draw(data, options);
+      }
+    </script>
+  </head>
+  <body>
+    <div id="chart_div" style="width: 900px; height: 500px;"></div>
+  </body>
+</html>
+'''.replace('{{data}}', json.dumps(data, indent=2)))
