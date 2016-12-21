@@ -1,6 +1,6 @@
 ---
   name: "Frederic Jean"
-  link: HTTPS://fredjean.net
+  link: https://fredjean.net
   affiliation: "The Walt Disney Studios"
-  occupation_title: "SR. Staff Software Engineer"
+  occupation_title: "Sr. Staff Software Engineer"
 ---
