@@ -45,14 +45,14 @@ print('''
             bucketSize: 1.0/24.0,
             maxNumBuckets: 1000,
             minValue: 13.00,
-            maxValue: 21.00
+            maxValue: 22.00
           },
           fontSize: 12,
           hAxis: {
             title: 'Time (fractional day in December, PST)',
             viewWindow: {
               min: 13.00,
-              max: 21.00
+              max: 22.00
             }
           }
         };
