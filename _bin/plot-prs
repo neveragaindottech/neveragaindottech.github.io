@@ -27,6 +27,8 @@ for pr in reversed(prs):
     t = created.day + created.hour/24.0 + created.minute/24.0/60.0
     data.append([str(pr['number']), t])
 
+data_json = '[\n  ' + ',\n  '.join(json.dumps(item) for item in data) + ']';
+
 print('''
 <html>
   <head>
@@ -37,8 +39,22 @@ print('''
       function drawChart() {
         var data = google.visualization.arrayToDataTable({{data}});
         var options = {
-          title: 'Time of submission (fractional day in December)',
+          title: 'Pull requests submitted per hour',
           legend: { position: 'none' },
+          histogram: {
+            bucketSize: 1.0/24.0,
+            maxNumBuckets: 1000,
+            minValue: 13.00,
+            maxValue: 21.00
+          },
+          fontSize: 12,
+          hAxis: {
+            title: 'Time (fractional day in December, PST)',
+            viewWindow: {
+              min: 13.00,
+              max: 21.00
+            }
+          }
         };
 
         var chart = new google.visualization.Histogram(document.getElementById('chart_div'));
@@ -50,4 +66,4 @@ print('''
     <div id="chart_div" style="width: 900px; height: 500px;"></div>
   </body>
 </html>
-'''.replace('{{data}}', json.dumps(data, indent=2)))
+'''.replace('{{data}}', data_json))
