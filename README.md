@@ -5,9 +5,8 @@ thank you for your support and participation!
 
 We do our best to verify every signature that appears on the website.
 It requires a great deal of human effort to verify thousands of signatures,
-so we <a href="https://twitter.com/neveragaintech/status/811299101358915588"
->stopped accepting new signatures for manual verification
-at noon PST Dec 21</a>, after accepting signatures for 8 days.
+so we stopped accepting new signatures for manual verification
+at noon PST Dec 21, after accepting signatures for 8 days.
 We are still processing a large backlog of submitted signatures,
 so the number of signatures on the website will continue to increase,
 but we are no longer accepting new signatures.
