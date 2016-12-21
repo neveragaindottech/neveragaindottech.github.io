@@ -18,7 +18,7 @@ Here are some ways to do that:
   * Post "I, &lt;*your name*&gt;, hereby commit to the neveragain.tech pledge. Please stand with me and hold me to it." on your personal website or blog, with a link to http://neveragain.tech/.
   * Print out the pledge and sign it on paper.  Post it in a visible location to show solidarity and gather signatures from your teammates.  Host a signing party at your workplace.
 
-We are heartened and grateful for your enthusiasm and support.  If you are passionate about this issue, please get involved!  There is plenty more to be done.  We'll be posting a guide to constructive action later today.
+We are heartened and grateful for your enthusiasm and support.  If you are passionate about this issue, please get involved!  There is plenty more to be done.  We'll be posting a guide to constructive action shortly.
 
 ## Can you sign the pledge?
 
