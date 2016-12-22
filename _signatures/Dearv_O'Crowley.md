@@ -1,5 +1,5 @@
 ---
   name: Dearv O'Crowley
-  affiliation: Workday
+  organization: Workday
   occupation_title: Product Manager
 ---

@@ -1,6 +1,6 @@
 ---
   occupation_title: Developer
-  affiliation: Elevator Up
+  organization: Elevator Up
   link: https://twitter.com/akwestmoreland
   github: awestmoreland
   name: Andy Westmoreland

@@ -1,6 +1,6 @@
 ---
   name: Dave Kapell
-  affiliation: Delphix
+  organization: Delphix
   link: https://github.com/dkapell
   occupation_title:
 ---

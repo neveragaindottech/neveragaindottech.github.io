@@ -1,7 +1,7 @@
 ---
   name: TJ Horner
   link: https://tjhorner.com
-  affiliation: StudentRND
+  organization: StudentRND
   occupation_title: Software Engineer
   github: tjhorner
 ---

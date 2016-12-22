@@ -1,5 +1,5 @@
 ---
   name: "Michael Salib"
-  affiliation: "Google"
+  organization: "Google"
   github: "msalib"
 ---

@@ -1,6 +1,6 @@
 ---
   name: "Nicholas Corey"
   occupation_title: "Data Analyst/Developer"
-  affiliation: "MicroBilt Corporation"
+  organization: "MicroBilt Corporation"
   github: "nicholascorey"
 ---

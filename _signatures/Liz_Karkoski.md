@@ -1,6 +1,6 @@
 ---
   name: Liz Karkoski
-  affiliation: Automattic
+  organization: Automattic
   occupation_title: Happiness Engineer
   github: lizkarkoski
 ---

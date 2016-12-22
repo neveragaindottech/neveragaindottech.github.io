@@ -1,7 +1,7 @@
 ---
   name: Derek Perkins
   link: https://nozzle.io
-  affiliation: Nozzle
+  organization: Nozzle
   occupation_title: CEO
   github: derekperkins
 ---

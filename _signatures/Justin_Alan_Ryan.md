@@ -1,6 +1,6 @@
 ---
   name: Justin Alan Ryan
   link: https://www.linkedin.com/in/justizin
-  affiliation:
+  organization:
   occupation_title:
 ---

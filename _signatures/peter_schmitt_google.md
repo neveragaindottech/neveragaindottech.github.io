@@ -1,5 +1,5 @@
 ---
   name: Peter Schmitt
-  affiliation: Google
+  organization: Google
   github: aragos
 ---

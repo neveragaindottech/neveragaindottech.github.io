@@ -1,6 +1,6 @@
 ---
   name: Aaron Smith
   link: https://github.com/slapula
-  affiliation: DevOps Engineer, Civis Analytics
+  organization: DevOps Engineer, Civis Analytics
   github: slapula
 ---

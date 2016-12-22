@@ -1,4 +1,4 @@
 ---
   name: Brian Jenkins
-  affiliation: CTO, FoodCare
+  organization: CTO, FoodCare
 ---

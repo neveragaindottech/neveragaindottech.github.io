@@ -1,4 +1,4 @@
 ---
   name: Joe Biggica
-  affiliation: Web Developer, Reuters
+  organization: Web Developer, Reuters
 ---

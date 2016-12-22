@@ -1,6 +1,6 @@
 ---
   name: Aram Zucker-Scharff
   link: https://twitter.com/chronotope
-  affiliation: Full Stack Engineer, Salon Media Group
+  organization: Full Stack Engineer, Salon Media Group
   github: aramzs
 ---

@@ -1,6 +1,6 @@
 ---
   name: Kush Rustagi
   link: https://github.com/kushrp
-  affiliation: Purdue University
+  organization: Purdue University
   github: kushrp
 ---

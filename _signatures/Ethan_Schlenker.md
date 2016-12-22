@@ -1,4 +1,4 @@
 ---
   name: Ethan Schlenker
-  affiliation: Twitter
+  organization: Twitter
 ---

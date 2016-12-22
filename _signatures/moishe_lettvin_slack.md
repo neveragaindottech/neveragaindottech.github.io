@@ -1,6 +1,6 @@
 ---
   name: Moishe Lettvin
   occupation_title: Software Engineer
-  affiliation: Slack
+  organization: Slack
   github: moishe
 ---

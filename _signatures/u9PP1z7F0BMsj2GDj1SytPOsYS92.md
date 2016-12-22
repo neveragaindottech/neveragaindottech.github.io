@@ -1,5 +1,5 @@
 ---
   name: "Marrissa Hellesen"
-  affiliation: "Microsoft"
+  organization: "Microsoft"
   occupation_title: "Software Engineer"
 ---

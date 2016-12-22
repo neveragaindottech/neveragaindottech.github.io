@@ -1,5 +1,5 @@
 ---
   name: Michael Leuchtenburg
-  affiliation: Vertica
+  organization: Vertica
   occupation_title:
 ---

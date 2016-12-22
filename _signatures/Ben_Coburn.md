@@ -1,4 +1,4 @@
 ---
   name: Ben Coburn
-  affiliation: Software Engineer
+  organization: Software Engineer
 ---

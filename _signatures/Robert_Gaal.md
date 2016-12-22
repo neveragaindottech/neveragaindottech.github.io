@@ -1,6 +1,6 @@
 ---
   name: Robert Gaal
   link: http://gaal.co
-  affiliation: TQ
+  organization: TQ
   github: robertgaal
 ---

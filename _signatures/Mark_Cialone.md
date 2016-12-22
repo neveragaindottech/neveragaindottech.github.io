@@ -1,4 +1,4 @@
 ---
   name: Mark Cialone
-  affiliation: LinkedIn
+  organization: LinkedIn
 ---

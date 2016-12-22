@@ -1,4 +1,4 @@
 ---
   name: Meredith Whittaker
-  affiliation: Open Research Lead, Google
+  organization: Open Research Lead, Google
 ---

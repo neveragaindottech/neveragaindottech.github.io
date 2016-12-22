@@ -1,5 +1,5 @@
 ---
   name: Paul Drinkwine
-  affiliation: Microsoft
+  organization: Microsoft
   occupation_title:
 ---

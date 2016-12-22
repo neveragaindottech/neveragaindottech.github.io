@@ -1,5 +1,5 @@
 ---
-  affiliation: Software Engineer
+  organization: Software Engineer
   link: https://twitter.com/_Michael_Becker
   github: astronaut-wannabe
   name: Michael Becker

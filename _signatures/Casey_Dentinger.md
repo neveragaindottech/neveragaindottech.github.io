@@ -1,6 +1,6 @@
 ---
   name: Casey Dentinger
   link: https://caseydentinger.com
-  affiliation: Wikimedia Foundation
+  organization: Wikimedia Foundation
   github: caseydentinger
 ---

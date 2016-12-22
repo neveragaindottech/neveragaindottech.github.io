@@ -1,5 +1,5 @@
 ---
-  affiliation: Google
+  organization: Google
   link: https://github.com/matthewg
   github: matthewg
   name: Matthew Sachs

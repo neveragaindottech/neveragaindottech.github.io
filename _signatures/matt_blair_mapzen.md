@@ -1,6 +1,6 @@
 ---
   name: "Matt Blair"
   link: "https://twitter.com/matteblair"
-  affiliation: "Mapzen"
+  organization: "Mapzen"
   github: "blair1618"
 ---

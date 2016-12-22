@@ -1,5 +1,5 @@
 ---
   name: Jacob Hoffman-Andrews
-  affiliation: Electronic Frontier Foundation
+  organization: Electronic Frontier Foundation
   github: jsha
 ---

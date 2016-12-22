@@ -1,6 +1,6 @@
 ---
   name: Chris Corcoran
   link: https://twitter.com/chriscorcoran
-  affiliation: Technical Lead, Twilio
+  organization: Technical Lead, Twilio
   github: chriscorcoran
 ---

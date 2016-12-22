@@ -2,6 +2,6 @@
   name: "Luke Crouch"
   link: "groovecoder.com"
   occupation_title: "Web Developer"
-  affiliation: "Mozilla"
+  organization: "Mozilla"
   github: "groovecoder"
 ---

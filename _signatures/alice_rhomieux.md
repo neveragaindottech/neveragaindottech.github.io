@@ -1,6 +1,6 @@
 ---
   name: Alice Rhomieux
-  affiliation: Google
+  organization: Google
   occupation_title: Software Engineer
   github: arhx
 ---

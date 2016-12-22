@@ -1,6 +1,6 @@
 ---
   name: "Claire Law"
   link: https://twitter.com/ClaireLaw88
-  affiliation: "Microsoft"
+  organization: "Microsoft"
   occupation_title: "Sr Program Manager"
 ---

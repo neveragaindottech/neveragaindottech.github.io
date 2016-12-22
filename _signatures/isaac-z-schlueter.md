@@ -2,6 +2,6 @@
   name: "Isaac Z. Schlueter"
   link: "http://izs.me"
   occupation_title: "CEO"
-  affiliation: "npm, Inc."
+  organization: "npm, Inc."
   github: "isaacs"
 ---

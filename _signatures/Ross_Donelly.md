@@ -1,5 +1,5 @@
 ---
   name: Ross Donelly
-  affiliation: Synopsys Inc
+  organization: Synopsys Inc
   occupation_title: Scientist
 ---

@@ -1,4 +1,4 @@
 ---
   name: "Karen Uffelman"
-  affiliation: "Percolator Consulting"
+  organization: "Percolator Consulting"
 ---

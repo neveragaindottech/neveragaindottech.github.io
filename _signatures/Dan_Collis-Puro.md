@@ -1,7 +1,7 @@
 ---
   name: Dan Collis-Puro
   link: http://twitter.com/djcp
-  affiliation: Heroku
+  organization: Heroku
   occupation_title: Lead Engineer
   github: djcp
 ---

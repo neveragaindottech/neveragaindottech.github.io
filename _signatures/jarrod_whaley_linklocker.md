@@ -1,6 +1,6 @@
 ---
   name: Jarrod Whaley
   link: https://linklocker.co
-  affiliation: LinkLocker
+  organization: LinkLocker
   github: jbwhaley
 ---

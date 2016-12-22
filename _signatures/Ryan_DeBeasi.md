@@ -1,6 +1,6 @@
 ---
   name: Ryan DeBeasi
   link: http://ryandebeasi.com/
-  affiliation: STAT
+  organization: STAT
   github: rdebeasi
 ---

@@ -1,6 +1,6 @@
 ---
   name: "Evan Walsh"
   link: http://www.evanwalsh.net/
-  affiliation: "Harvest"
+  organization: "Harvest"
   occupation_title: "Developer"
 ---

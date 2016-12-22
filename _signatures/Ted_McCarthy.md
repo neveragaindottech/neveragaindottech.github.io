@@ -1,4 +1,4 @@
 ---
   name: Ted McCarthy
-  affiliation: Google
+  organization: Google
 ---

@@ -1,5 +1,5 @@
 ---
   name: John Spady
-  affiliation: National Dialogue Network
+  organization: National Dialogue Network
   occupation_title: Founder
 ---

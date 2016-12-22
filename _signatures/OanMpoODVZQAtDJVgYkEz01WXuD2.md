@@ -1,5 +1,5 @@
 ---
   name: "Michael Paisner"
-  affiliation: "Esri"
+  organization: "Esri"
   occupation_title: "Salesforce Developer"
 ---

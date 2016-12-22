@@ -1,6 +1,6 @@
 ---
   name: Justin de Vesine
-  affiliation: Google
+  organization: Google
   occupation_title: Site Reliability Engineering Manager
   github: ziz
 ---

@@ -1,5 +1,5 @@
 ---
   name: "Md Daud H Howlader"
-  affiliation: "Microsoft"
+  organization: "Microsoft"
   occupation_title: "Senior Software Engineer"
 ---

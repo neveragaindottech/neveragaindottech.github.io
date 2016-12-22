@@ -1,4 +1,4 @@
 ---
   name: Bard Luippold
-  affiliation: Sr. Product Manager, Amazon
+  organization: Sr. Product Manager, Amazon
 ---

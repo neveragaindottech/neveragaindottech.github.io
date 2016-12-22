@@ -1,6 +1,6 @@
 ---
   name: "Kristofor Carle"
   link: https://twitter.com/KristoforCarle
-  affiliation: "MapHubs"
+  organization: "MapHubs"
   occupation_title: "Software Engineer"
 ---

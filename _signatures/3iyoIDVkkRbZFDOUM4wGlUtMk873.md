@@ -1,6 +1,6 @@
 ---
   name: "Robert Szarka"
   link: https://twitter.com/szarka
-  affiliation: "Szarka Networks"
+  organization: "Szarka Networks"
   occupation_title: "Owner"
 ---

@@ -1,6 +1,6 @@
 ---
   name: Harlan Lieberman-Berg
   link: https://blog.setec.io
-  affiliation: Akamai Technologies
+  organization: Akamai Technologies
   github: hlieberman
 ---

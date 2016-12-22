@@ -1,5 +1,5 @@
 ---
   name: John Barbuto
-  affiliation: Indiegogo
+  organization: Indiegogo
   github: jbarbuto
 ---

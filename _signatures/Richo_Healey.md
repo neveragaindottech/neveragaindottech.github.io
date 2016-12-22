@@ -1,4 +1,4 @@
 ---
   name: Richo Healey
-  affiliation: Stripe
+  organization: Stripe
 ---

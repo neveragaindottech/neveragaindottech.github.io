@@ -1,6 +1,6 @@
 ---
   name: Todd Lathrop
   occupation_title: VP of Sales
-  affiliation: Checkr
+  organization: Checkr
   link: http://checkr.com/
 ---

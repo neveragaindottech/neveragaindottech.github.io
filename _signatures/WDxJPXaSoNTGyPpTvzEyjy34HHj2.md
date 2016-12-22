@@ -1,6 +1,6 @@
 ---
   name: "Mateus Caruccio"
   link: https://twitter.com/MateusCaruccio
-  affiliation: "Getup Cloud"
+  organization: "Getup Cloud"
   occupation_title: "Software Developer"
 ---

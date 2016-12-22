@@ -1,6 +1,6 @@
 ---
   name: "Stephen Sanchez"
   occupation_title: "Software Engineer"
-  affiliation: "Tamr"
+  organization: "Tamr"
   github: "stephensanchez"
 ---

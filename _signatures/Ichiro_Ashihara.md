@@ -1,4 +1,4 @@
 ---
   name: Ichiro Ashihara
-  affiliation: Co-Founder, CheckOff.com
+  organization: Co-Founder, CheckOff.com
 ---

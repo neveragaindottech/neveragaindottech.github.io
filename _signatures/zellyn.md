@@ -1,5 +1,5 @@
 ---
-  affiliation: Square
+  organization: Square
   link: http://zellyn.com
   github: zellyn
   name: Zellyn Hunter

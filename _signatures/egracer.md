@@ -2,6 +2,6 @@
   github: egracer
   link: https://github.com/egracer/
   name: Ethan Gracer
-  affiliation: Software Engineer
+  organization: Software Engineer
   pull_request_number: 483
 ---

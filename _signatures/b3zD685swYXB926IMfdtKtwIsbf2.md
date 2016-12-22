@@ -1,6 +1,6 @@
 ---
   name: "Thomas Cornelius"
   link: https://twitter.com/thomascornelius
-  affiliation: "Brainware"
+  organization: "Brainware"
   occupation_title: "Founding Partner"
 ---

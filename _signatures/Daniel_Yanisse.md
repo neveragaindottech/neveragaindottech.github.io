@@ -1,6 +1,6 @@
 ---
   name: Daniel Yanisse
   occupation_title: CEO
-  affiliation: Checkr
+  organization: Checkr
   link: https://checkr.com/
 ---

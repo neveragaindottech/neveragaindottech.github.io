@@ -1,6 +1,6 @@
 ---
   name: Jason Hargrove
   link: http://twitter.com/jasonhargrove
-  affiliation: Familiar / goMainstream
+  organization: Familiar / goMainstream
   github: jasonhargrove
 ---

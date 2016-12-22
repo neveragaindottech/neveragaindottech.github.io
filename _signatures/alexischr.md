@@ -1,5 +1,5 @@
 ---
   name: Alexis Christoforides
-  affiliation: Microsoft
+  organization: Microsoft
   github: alexischr
 ---

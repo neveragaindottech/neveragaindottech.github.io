@@ -1,4 +1,4 @@
 ---
   name: "Chris Svenningsen"
-  affiliation: "Carbon Five"
+  organization: "Carbon Five"
 ---

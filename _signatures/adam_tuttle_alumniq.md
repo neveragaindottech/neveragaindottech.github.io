@@ -2,6 +2,6 @@
   name: "Adam Tuttle"
   link: "https://github.com/atuttle"
   occupation_title: "CTO"
-  affiliation: "AlumnIQ"
+  organization: "AlumnIQ"
   github: "atuttle"
 ---

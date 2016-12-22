@@ -1,6 +1,6 @@
 ---
   name: "Andreas Gal"
   link: https://twitter.com/andreasgal
-  affiliation: "Silk Labs"
+  organization: "Silk Labs"
   occupation_title: "CEO"
 ---

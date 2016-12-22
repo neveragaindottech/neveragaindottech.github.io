@@ -2,6 +2,6 @@
   name: "Neal Chandra"
   link: "https://twitter.com/ChandraNeal"
   occupation_title: "Developer in Residence"
-  affiliation: "KPCB"
+  organization: "KPCB"
   github: "BlueMoon3000"
 ---

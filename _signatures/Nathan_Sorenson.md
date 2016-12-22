@@ -1,4 +1,4 @@
 ---
   name: Nathan Sorenson
-  affiliation: SparkFund
+  organization: SparkFund
 ---

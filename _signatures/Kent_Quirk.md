@@ -1,5 +1,5 @@
 ---
   name: Kent Quirk
-  affiliation: Software Architect, The Achievement Network
+  organization: Software Architect, The Achievement Network
   github: kentquirk
 ---

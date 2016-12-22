@@ -1,4 +1,4 @@
 ---
   name: David Burgess
-  affiliation: athenahealth
+  organization: athenahealth
 ---

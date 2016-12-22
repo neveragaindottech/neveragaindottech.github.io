@@ -1,5 +1,5 @@
 ---
   name: Erik Hollensbe
-  affiliation: Principal Engineer, Cisco
+  organization: Principal Engineer, Cisco
   github: erikh
 ---

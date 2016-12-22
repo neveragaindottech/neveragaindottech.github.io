@@ -1,5 +1,5 @@
 ---
   name: Nick Francis
-  affiliation: Tilt
+  organization: Tilt
   github: nfranchise
 ---

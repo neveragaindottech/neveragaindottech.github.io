@@ -1,5 +1,5 @@
 ---
   name: "Brian Stack"
-  affiliation: "Mozilla"
+  organization: "Mozilla"
   github: "imbstack"
 ---

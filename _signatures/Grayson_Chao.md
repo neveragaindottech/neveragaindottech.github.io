@@ -1,6 +1,6 @@
 ---
   name: Grayson Chao
   link: https://twitter.com/graysonchao
-  affiliation: Software Engineer
+  organization: Software Engineer
   github: graysonchao
 ---

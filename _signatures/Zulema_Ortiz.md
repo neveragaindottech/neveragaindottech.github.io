@@ -1,5 +1,5 @@
 ---
   name: Zulema Ortiz
-  affiliation:
+  organization:
   occupation_title: Front-end Web Developer
 ---

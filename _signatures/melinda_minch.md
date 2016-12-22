@@ -1,5 +1,5 @@
 ---
   name: Melinda Minch
-  affiliation: Freelancer/Human
+  organization: Freelancer/Human
   github: nein09
 ---

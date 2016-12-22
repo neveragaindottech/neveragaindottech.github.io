@@ -1,5 +1,5 @@
 ---
   name: Deanna Knudsen
-  affiliation: Audible
+  organization: Audible
   occupation_title: Technical Program Manager
 ---

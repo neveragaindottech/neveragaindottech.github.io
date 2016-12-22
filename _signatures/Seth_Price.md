@@ -1,4 +1,4 @@
 ---
   name: Seth Price
-  affiliation: RS & GS Engineer, Planet, Inc.
+  organization: RS & GS Engineer, Planet, Inc.
 ---

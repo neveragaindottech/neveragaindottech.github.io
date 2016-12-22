@@ -1,6 +1,6 @@
 ---
   name: A. Martin Castro
   link: http://amartincastro.com/
-  affiliation:
+  organization:
   occupation_title:
 ---

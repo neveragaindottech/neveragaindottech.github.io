@@ -1,6 +1,6 @@
 ---
   name: Mark Armstrong
   link: https://markarms.blog/
-  affiliation: Automattic
+  organization: Automattic
   github: markarms
 ---

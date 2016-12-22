@@ -1,4 +1,4 @@
 ---
   name: Will Fogel
-  affiliation: Wave.com
+  organization: Wave.com
 ---

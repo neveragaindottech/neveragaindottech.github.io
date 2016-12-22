@@ -1,6 +1,6 @@
 ---
   name: "Brian Gesiak"
   link: https://twitter.com/modocache
-  affiliation: "Facebook"
+  organization: "Facebook"
   occupation_title: "Software Engineer"
 ---

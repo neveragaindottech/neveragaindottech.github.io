@@ -4,6 +4,6 @@
   link: https://github.com/skifree-snowmonster
   occupation_title: FOSS developer
   github: skifree-snowmonster
-  affiliation: RZZT
+  organization: RZZT
   pull_request_number: 466
 ---

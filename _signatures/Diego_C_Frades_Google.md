@@ -1,5 +1,5 @@
 ---
   name: "Diego C. Frades"
-  affiliation: "Google"
+  organization: "Google"
   github: "diektronics"
 ---

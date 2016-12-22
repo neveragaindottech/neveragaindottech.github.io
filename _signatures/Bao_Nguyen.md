@@ -1,5 +1,5 @@
 ---
   name: Bao Nguyen
-  affiliation: Microsoft
+  organization: Microsoft
   github: tunafield
 ---

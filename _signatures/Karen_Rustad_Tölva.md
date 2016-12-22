@@ -1,6 +1,6 @@
 ---
   name: Karen Rustad Tölva
-  affiliation: AeroFS
+  organization: AeroFS
   occupation_title: Software Engineer
   github: aldeka
 ---

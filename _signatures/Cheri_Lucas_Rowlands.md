@@ -1,6 +1,6 @@
 ---
   name: Cheri Lucas Rowlands
-  affiliation: Automattic
+  organization: Automattic
   occupation_title: Editor
   github: cherilucas
 ---

@@ -1,6 +1,6 @@
 ---
   name: Andrew Potter
-  affiliation: AOL
+  organization: AOL
   occupation_title: Software Engineer
   github: talisein
 ---

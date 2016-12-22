@@ -1,5 +1,5 @@
 ---
   name: Robert Rossney
-  affiliation: Google
+  organization: Google
   github: uhhhclem
 ---

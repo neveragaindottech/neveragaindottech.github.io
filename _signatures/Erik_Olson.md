@@ -1,5 +1,5 @@
 ---
   name: Erik Olson
-  affiliation:
+  organization:
   occupation_title:
 ---

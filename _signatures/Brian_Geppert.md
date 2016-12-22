@@ -1,4 +1,4 @@
 ---
   name: Brian Geppert
-  affiliation: metacode
+  organization: metacode
 ---

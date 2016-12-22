@@ -1,4 +1,4 @@
 ---
   name: Andrew Huang
-  affiliation: Xero
+  organization: Xero
 ---

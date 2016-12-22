@@ -1,4 +1,4 @@
 ---
   name: Ben Wood
-  affiliation: Autodesk
+  organization: Autodesk
 ---

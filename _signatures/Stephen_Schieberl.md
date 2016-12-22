@@ -1,6 +1,6 @@
 ---
   name: Stephen Schieberl
   link: http://www.bantherewind.com
-  affiliation: Wieden+Kennedy
+  organization: Wieden+Kennedy
   github: bantherewind
 ---

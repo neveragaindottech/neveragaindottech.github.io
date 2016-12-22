@@ -1,5 +1,5 @@
 ---
   name: "Martin Gentry"
-  affiliation: "Google"
+  organization: "Google"
   occupation_title: "Software Engineer"
 ---

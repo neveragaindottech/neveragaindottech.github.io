@@ -1,6 +1,6 @@
 ---
   name: "Rene Meissner"
   occupation_title: "Developer"
-  affiliation: "OpenDGPS"
+  organization: "OpenDGPS"
   github: "OpenDGPS"
 ---

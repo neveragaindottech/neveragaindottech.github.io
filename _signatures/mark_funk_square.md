@@ -1,4 +1,4 @@
 ---
   name: "Mark Funk"
-  affiliation: "Square"
+  organization: "Square"
 ---

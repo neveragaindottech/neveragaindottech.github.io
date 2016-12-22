@@ -1,6 +1,6 @@
 ---
   name: "Ihsan"
   link: https://twitter.com/IhsanInfiyaz
-  affiliation: "CloudFactorii"
+  organization: "CloudFactorii"
   occupation_title: "Operations Manager"
 ---

@@ -1,6 +1,6 @@
 ---
   name: "Rob Burke"
   link: https://twitter.com/RobBurke
-  affiliation: "GameStop, Inc."
+  organization: "GameStop, Inc."
   occupation_title: "Director, Engineering"
 ---

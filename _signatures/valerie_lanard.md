@@ -1,6 +1,6 @@
 ---
   name: "Valerie Lanard"
   occupation_title: "Engineering Manager"
-  affiliation: Patreon
+  organization: Patreon
   github: "vlanard"
 ---

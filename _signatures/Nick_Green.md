@@ -1,4 +1,4 @@
 ---
   name: Nick Green
-  affiliation: Opendoor
+  organization: Opendoor
 ---

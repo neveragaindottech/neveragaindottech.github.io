@@ -1,7 +1,7 @@
 ---
   name: Mel Choyce
   link: http://melchoyce.design
-  affiliation: Automattic
+  organization: Automattic
   occupation_title: Product Designer
   github: melchoyce
 ---

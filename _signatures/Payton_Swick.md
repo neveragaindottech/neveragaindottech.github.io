@@ -1,6 +1,6 @@
 ---
   name: Payton Swick
   link: http://foolord.com/
-  affiliation: Automattic
+  organization: Automattic
   github: sirbrillig
 ---

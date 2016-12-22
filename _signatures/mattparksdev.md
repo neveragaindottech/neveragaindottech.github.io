@@ -1,5 +1,5 @@
 ---
-  affiliation: CEO Bovsi Studios and Bovsihosting.com
+  organization: CEO Bovsi Studios and Bovsihosting.com
   link: https://Bovsistudios.com
   github: mattparksdev
   name: Matthew Parks

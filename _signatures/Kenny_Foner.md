@@ -1,4 +1,4 @@
 ---
   name: Kenny Foner
-  affiliation: University of Pennsylvania
+  organization: University of Pennsylvania
 ---

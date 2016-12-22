@@ -1,6 +1,6 @@
 ---
   name: "Edward Taussig"
   link: https://www.linkedin.com/in/edtaussig
-  affiliation: "NYSIF"
+  organization: "NYSIF"
   occupation_title: "ITS3"
 ---

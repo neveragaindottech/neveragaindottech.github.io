@@ -1,4 +1,4 @@
 ---
   name: Aaron Kraus
-  affiliation: Reciprocity, Inc.
+  organization: Reciprocity, Inc.
 ---

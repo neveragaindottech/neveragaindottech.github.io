@@ -1,6 +1,6 @@
 ---
   name: "Nicholas Comer"
   link: "https://nick.comer.io"
-  affiliation: "Cloudflare"
+  organization: "Cloudflare"
   github: "nkcmr"
 ---

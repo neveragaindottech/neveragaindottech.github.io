@@ -1,5 +1,5 @@
 ---
   name: Lori McLeese
-  affiliation: Automattic
+  organization: Automattic
   occupation_title: Head of Human Resources
 ---

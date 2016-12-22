@@ -1,5 +1,5 @@
 ---
   name: Don X. Nguyen
-  affiliation:
+  organization:
   occupation_title: Software Engineer
 ---

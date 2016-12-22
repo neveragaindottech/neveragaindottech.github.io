@@ -1,6 +1,6 @@
 ---
   name: Kristen Sunter
   link: https://twitter.com/ksunter
-  affiliation: Twitter
+  organization: Twitter
   occupation_title: Data Scientist
 ---

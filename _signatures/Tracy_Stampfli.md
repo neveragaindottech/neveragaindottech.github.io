@@ -1,5 +1,5 @@
 ---
   name: Tracy Stampfli
-  affiliation: Slack
+  organization: Slack
   github: tracysnicket
 ---

@@ -1,4 +1,4 @@
 ---
   name: Erin Ptacek
-  affiliation: Latacora
+  organization: Latacora
 ---

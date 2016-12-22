@@ -1,6 +1,6 @@
 ---
   name: Ed Summers
   link: http://inkdroid.org
-  affiliation: University of Maryland
+  organization: University of Maryland
   github: edsu
 ---

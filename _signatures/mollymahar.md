@@ -1,5 +1,5 @@
 ---
-  affiliation: UC Berkeley School of Information
+  organization: UC Berkeley School of Information
   link: https://mollymahar.com
   github: mollymahar
   name: Molly Mahar

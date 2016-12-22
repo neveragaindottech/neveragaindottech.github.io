@@ -1,6 +1,6 @@
 ---
   name: "Qichen Zhang"
   link: "http://qichenzhang.com"
-  affiliation: "Spotify"
+  organization: "Spotify"
   github: "qichenz"
 ---

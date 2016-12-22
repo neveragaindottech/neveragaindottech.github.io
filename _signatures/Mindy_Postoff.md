@@ -1,5 +1,5 @@
 ---
   name: Mindy Postoff
-  affiliation: Automattic
+  organization: Automattic
   github: MindyPostoff
 ---

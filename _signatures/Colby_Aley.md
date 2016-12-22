@@ -1,7 +1,7 @@
 ---
   name: Colby Aley
   link: http://aley.me
-  affiliation: Reflect
+  organization: Reflect
   occupation_title: Software Engineer
   github: cp
 ---

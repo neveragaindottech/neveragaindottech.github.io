@@ -1,5 +1,5 @@
 ---
   name: Karl Schults
-  affiliation: Engineer, Scribd
+  organization: Engineer, Scribd
   github: kschults
 ---

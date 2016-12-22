@@ -1,6 +1,6 @@
 ---
   name: "Stephen R. Fox"
   link: "https://twitter.com/f6x"
-  affiliation: "Twitter"
+  organization: "Twitter"
   github: "F6x"
 ---

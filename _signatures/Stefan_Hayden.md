@@ -1,4 +1,4 @@
 ---
   name: Stefan Hayden
-  affiliation: Shutterstock
+  organization: Shutterstock
 ---

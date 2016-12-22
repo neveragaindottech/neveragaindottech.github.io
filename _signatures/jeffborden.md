@@ -1,5 +1,5 @@
 ---
   name: Jeff Borden
-  affiliation: Spring
+  organization: Spring
   github: jeffborden
 ---

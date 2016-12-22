@@ -1,6 +1,6 @@
 ---
   name: "Allan Shortlidge"
   link: https://twitter.com/tshortli
-  affiliation: "Apple"
+  organization: "Apple"
   occupation_title: "Software Engineer"
 ---

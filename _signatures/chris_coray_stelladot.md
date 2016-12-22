@@ -2,6 +2,6 @@
   name: "Chris Coray"
   link: "https://www.linkedin.com/in/chrislcoray"
   occupation_title: "Software Engineer"
-  affiliation: "Stella & Dot"
+  organization: "Stella & Dot"
   github: "ChrisLCoray"
 ---

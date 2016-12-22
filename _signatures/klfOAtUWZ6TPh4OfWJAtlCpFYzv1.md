@@ -1,5 +1,5 @@
 ---
   name: "Nif Ward"
-  affiliation: "Amazon"
+  organization: "Amazon"
   occupation_title: "Software Engineer"
 ---

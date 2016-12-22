@@ -1,6 +1,6 @@
 ---
   name: Emilia Gan
   occupation_title: Graduate Student
-  affiliation: University of Washington
+  organization: University of Washington
   github: efran
 ---

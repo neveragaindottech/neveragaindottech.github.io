@@ -1,4 +1,4 @@
 ---
   name: "Thomas Bukowski"
-  affiliation: "Watsi"
+  organization: "Watsi"
 ---

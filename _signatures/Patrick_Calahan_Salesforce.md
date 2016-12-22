@@ -1,5 +1,5 @@
 ---
   name: Patrick Calahan
-  affiliation: Salesforce
+  organization: Salesforce
   github: pcal43
 ---

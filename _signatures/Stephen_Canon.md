@@ -1,6 +1,6 @@
 ---
   name: Stephen Canon
-  affiliation: Apple Inc.
+  organization: Apple Inc.
   occupation_title: Mathematician
   github: stephentyrone
 ---

@@ -1,5 +1,5 @@
 ---
   name: Randall Howard
-  affiliation: Verdexus
+  organization: Verdexus
   occupation_title:
 ---

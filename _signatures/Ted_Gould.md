@@ -1,6 +1,6 @@
 ---
   name: "Ted Gould"
   link: "http://gould.cx/ted"
-  affiliation: "Canonical"
+  organization: "Canonical"
   github: "ted-gould"
 ---

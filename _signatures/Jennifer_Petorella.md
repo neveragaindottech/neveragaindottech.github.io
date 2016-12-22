@@ -1,5 +1,5 @@
 ---
   name: Jennifer Petorella
-  affiliation:
+  organization:
   occupation_title:
 ---

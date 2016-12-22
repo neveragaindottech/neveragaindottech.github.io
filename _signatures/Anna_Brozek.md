@@ -1,4 +1,4 @@
 ---
   name: Anna Brozek
-  affiliation: Big Cartel
+  organization: Big Cartel
 ---

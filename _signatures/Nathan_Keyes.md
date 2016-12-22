@@ -1,6 +1,6 @@
 ---
   name: Nathan Keyes
-  affiliation: Fooda
+  organization: Fooda
   occupation_title: Director of Engineering
   github: nkeyes
 ---

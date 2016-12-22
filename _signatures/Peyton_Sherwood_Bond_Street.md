@@ -1,5 +1,5 @@
 ---
   name: "Peyton Sherwood"
-  affiliation: "Bond Street"
+  organization: "Bond Street"
   github: "peytons"
 ---

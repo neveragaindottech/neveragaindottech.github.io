@@ -1,6 +1,6 @@
 ---
   name: Nicholas Roy
   link: https://twitter.com/nckroy
-  affiliation: Internet2
+  organization: Internet2
   github: nckroy
 ---

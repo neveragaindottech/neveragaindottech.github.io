@@ -1,6 +1,6 @@
 ---
   name: Dean Sofer
   link: http://deansofer.com/
-  affiliation: Sony
+  organization: Sony
   github: proloser
 ---

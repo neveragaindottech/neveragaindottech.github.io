@@ -1,5 +1,5 @@
 ---
-  affiliation: New Relic
+  organization: New Relic
   link: https://twitter.com/LGnome
   github: LawnGnome
   name: Adam Harvey

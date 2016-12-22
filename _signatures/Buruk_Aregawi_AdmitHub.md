@@ -1,6 +1,6 @@
 ---
   name: "Buruk"
   occupation_title: "AI Engineer"
-  affiliation: "AdmitHub"
+  organization: "AdmitHub"
   github: "baregawi"
 ---

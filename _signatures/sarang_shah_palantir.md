@@ -1,5 +1,5 @@
 ---
   name: Sarang Shah
-  affiliation: Palantir Technologies
+  organization: Palantir Technologies
   github: SarangShah87
 ---

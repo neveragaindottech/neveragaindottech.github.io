@@ -1,6 +1,6 @@
 ---
   name: "Amy Unruh"
   occupation_title: "Software Engineer"
-  affiliation: "Google"
+  organization: "Google"
   github: "amygdala"
 ---

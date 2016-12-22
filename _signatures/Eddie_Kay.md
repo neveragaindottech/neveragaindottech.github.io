@@ -1,6 +1,6 @@
 ---
   name: "Eddie Kay"
   link: "https://twitter.com/ichthyos"
-  affiliation: "athenahealth"
+  organization: "athenahealth"
   github: "ichthyos"
 ---

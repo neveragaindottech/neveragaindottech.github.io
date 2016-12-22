@@ -1,6 +1,6 @@
 ---
   name: Jordan Kay
-  affiliation: Squareknot
+  organization: Squareknot
   occupation_title: Lead iOS Developer
   github: jordanekay
 ---

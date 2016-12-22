@@ -1,4 +1,4 @@
 ---
   name: Eddie Maldonado
-  affiliation: athenahealth
+  organization: athenahealth
 ---

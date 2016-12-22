@@ -1,5 +1,5 @@
 ---
   name: Josh Meier
-  affiliation: Salesforce
+  organization: Salesforce
   github: moshjeier
 ---

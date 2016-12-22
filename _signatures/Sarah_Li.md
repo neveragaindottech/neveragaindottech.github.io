@@ -1,6 +1,6 @@
 ---
   name: Sarah Li
   link: https://twitter.com/serifluous
-  affiliation: Hightail
+  organization: Hightail
   occupation_title: Designer
 ---

@@ -1,6 +1,6 @@
 ---
   name: "David McCreath"
   link: http://dmccreath.org/
-  affiliation: "Slack"
+  organization: "Slack"
   occupation_title: "Developer Support Manager"
 ---

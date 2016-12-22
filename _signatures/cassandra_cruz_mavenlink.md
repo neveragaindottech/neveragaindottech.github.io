@@ -1,7 +1,7 @@
 ---
   name: Cassandra Cruz
   link: https://github.com/lambdatastic
-  affiliation: Mavenlink
+  organization: Mavenlink
   occupation_title: Software Engineer
   github: lambdatastic
 ---

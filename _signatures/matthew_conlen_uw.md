@@ -1,5 +1,5 @@
 ---
   name: "Matthew Conlen"
-  affiliation: "University of Washington"
+  organization: "University of Washington"
   github: "mathisonian"
 ---

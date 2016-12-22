@@ -1,6 +1,6 @@
 ---
   name: Dylan Vassallo
-  affiliation: Stripe
+  organization: Stripe
   link: https://twitter.com/dylanvee
   github: dylanvee
 ---

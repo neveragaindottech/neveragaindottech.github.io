@@ -1,6 +1,6 @@
 ---
   name: Antoine Leblanc
-  affiliation: Google
+  organization: Google
   occupation_title: SRE
   github: nicuveo
 ---

@@ -1,6 +1,6 @@
 ---
   name: Magee Mooney Caliguire
   occupation_title: Software Engineer
-  affiliation: Hack Reactor
+  organization: Hack Reactor
   github: magee
 ---

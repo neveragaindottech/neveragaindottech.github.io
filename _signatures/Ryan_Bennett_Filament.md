@@ -1,6 +1,6 @@
 ---
   name: "Ryan Bennett"
   occupation_title: "Software Engineer"
-  affiliation: "Filament"
+  organization: "Filament"
   github: "rynomad"
 ---

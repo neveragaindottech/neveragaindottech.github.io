@@ -1,4 +1,4 @@
 ---
   name: Nikko Patten-Weinstein
-  affiliation: SparkFund
+  organization: SparkFund
 ---

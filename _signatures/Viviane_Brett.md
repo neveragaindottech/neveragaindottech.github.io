@@ -1,4 +1,4 @@
 ---
   name: Viviane Brett
-  affiliation: Nava Public Benefit Corporation
+  organization: Nava Public Benefit Corporation
 ---

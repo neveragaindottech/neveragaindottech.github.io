@@ -1,4 +1,4 @@
 ---
   name: "Yugandhar Veeramachaneni"
-  affiliation: "NCR Corporation"
+  organization: "NCR Corporation"
 ---

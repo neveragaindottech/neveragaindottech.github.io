@@ -1,4 +1,4 @@
 ---
   name: "John Marshall"
-  affiliation: Stripe
+  organization: Stripe
 ---

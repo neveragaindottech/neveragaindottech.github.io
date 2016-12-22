@@ -1,5 +1,5 @@
 ---
   name: Libby Horacek
   link: https://twitter.com/horrorcheck
-  affiliation: Position Development
+  organization: Position Development
 ---

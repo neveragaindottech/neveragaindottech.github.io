@@ -1,6 +1,6 @@
 ---
   name: Robert Foss
   link: http://memcpy.io/
-  affiliation: memcpy.io
+  organization: memcpy.io
   github: robertfoss
 ---

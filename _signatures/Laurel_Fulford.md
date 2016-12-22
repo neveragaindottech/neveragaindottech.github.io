@@ -1,5 +1,5 @@
 ---
   name: Laurel Fulford
-  affiliation: Automattic
+  organization: Automattic
   github: laurelfulford
 ---

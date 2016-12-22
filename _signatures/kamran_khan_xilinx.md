@@ -1,6 +1,6 @@
 ---
   name: Kamran Khan
   link: https://github.com/kamranjk
-  affiliation: Xilinx
+  organization: Xilinx
   github: kamranjk
 ---

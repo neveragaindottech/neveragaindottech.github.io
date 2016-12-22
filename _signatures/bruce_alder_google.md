@@ -1,5 +1,5 @@
 ---
   name: Bruce Alder
-  affiliation: Google
+  organization: Google
   github: brucealder
 ---

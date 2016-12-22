@@ -1,5 +1,5 @@
 ---
   name: Sara Dubuque
-  affiliation: Atlassian
+  organization: Atlassian
   occupation_title: Designer
 ---

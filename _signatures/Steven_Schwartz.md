@@ -1,4 +1,4 @@
 ---
   name: Steven Schwartz
-  affiliation: Sr. Dev/Ops Engineer, Blackbaud
+  organization: Sr. Dev/Ops Engineer, Blackbaud
 ---

@@ -1,4 +1,4 @@
 ---
   name: "Briana Swift"
-  affiliation: "GitHub"
+  organization: "GitHub"
 ---

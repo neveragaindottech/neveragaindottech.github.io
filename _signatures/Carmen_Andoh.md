@@ -1,5 +1,5 @@
 ---
   name: Carmen Andoh
-  affiliation: Travis CI
+  organization: Travis CI
   github: Lyoness
 ---

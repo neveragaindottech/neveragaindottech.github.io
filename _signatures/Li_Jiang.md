@@ -1,5 +1,5 @@
 ---
   name: Li Jiang
-  affiliation: GSV
+  organization: GSV
   occupation_title:
 ---

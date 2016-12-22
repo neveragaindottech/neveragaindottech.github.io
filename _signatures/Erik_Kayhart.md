@@ -1,5 +1,5 @@
 ---
   name: Erik Kayhart
-  affiliation:
+  organization:
   occupation_title: Solutions Architect
 ---

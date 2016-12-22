@@ -1,7 +1,7 @@
 ---
   name: Warren L. Habib
   link: https://twitter.com/whabib
-  affiliation: Everplans
+  organization: Everplans
   occupation_title: CTO
   github: whabib
 ---

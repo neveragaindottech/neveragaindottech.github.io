@@ -1,5 +1,5 @@
 ---
   name: Graham Hughes
-  affiliation:
+  organization:
   occupation_title:
 ---

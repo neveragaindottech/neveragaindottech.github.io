@@ -1,6 +1,6 @@
 ---
   name: Rogier 'DocWilco' Mulhuijzen
   link: https://twitter.com/drwilco
-  affiliation: Fastly
+  organization: Fastly
   github: drwilco
 ---

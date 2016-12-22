@@ -1,5 +1,5 @@
 ---
   name: Sanjay Parekh
-  affiliation:
+  organization:
   occupation_title:
 ---

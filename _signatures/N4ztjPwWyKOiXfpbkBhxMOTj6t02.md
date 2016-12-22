@@ -1,5 +1,5 @@
 ---
   name: "Veronica Ramirez"
-  affiliation: "GitHub"
+  organization: "GitHub"
   occupation_title: "Talent"
 ---

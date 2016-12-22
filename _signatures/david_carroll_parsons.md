@@ -1,5 +1,5 @@
 ---
   name: "David Carroll"
   link: "https://www.newschool.edu/parsons/faculty/David-Carroll/"
-  affiliation: "Parsons School of Design"
+  organization: "Parsons School of Design"
 ---

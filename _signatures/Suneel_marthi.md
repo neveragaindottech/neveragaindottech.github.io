@@ -1,6 +1,6 @@
 ---
   name: Suneel Marthi
   link: https://github.com/smarthi
-  affiliation: Red Hat Inc.
+  organization: Red Hat Inc.
   github: smarthi
 ---

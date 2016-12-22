@@ -1,5 +1,5 @@
 ---
   name: Graham D. Mitchell
-  affiliation:
+  organization:
   occupation_title: Software Developer
 ---

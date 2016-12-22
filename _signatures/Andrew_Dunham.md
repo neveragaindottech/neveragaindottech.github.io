@@ -1,5 +1,5 @@
 ---
   name: Andrew Dunham
-  affiliation: Stripe
+  organization: Stripe
   github: andrew-d
 ---

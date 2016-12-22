@@ -1,5 +1,5 @@
 ---
   name: Salman Elmi
-  affiliation: First Web Group
+  organization: First Web Group
   occupation_title: Web Developer
 ---

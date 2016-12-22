@@ -1,6 +1,6 @@
 ---
   name: Hans Nowak
   link: http://aquila.blue
-  affiliation: Aquila Blue
+  organization: Aquila Blue
   github: zephyrfalcon
 ---

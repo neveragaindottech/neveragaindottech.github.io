@@ -1,4 +1,4 @@
 ---
   name: "Griffin Boyce"
-  affiliation: "Berkman Klein Center for Internet and Society"
+  organization: "Berkman Klein Center for Internet and Society"
 ---

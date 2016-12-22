@@ -1,4 +1,4 @@
 ---
   name: Eric Socolofsky
-  affiliation: Stamen
+  organization: Stamen
 ---

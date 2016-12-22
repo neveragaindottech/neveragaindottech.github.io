@@ -1,4 +1,4 @@
 ---
   name: Rachel Chalmers
-  affiliation: Unitive
+  organization: Unitive
 ---

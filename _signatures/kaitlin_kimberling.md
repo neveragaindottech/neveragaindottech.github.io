@@ -1,4 +1,4 @@
 ---
   name: "Kaitlin Kimberling"
-  affiliation: "Epic Systems"
+  organization: "Epic Systems"
 ---

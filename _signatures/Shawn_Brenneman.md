@@ -1,5 +1,5 @@
 ---
   name: Shawn Brenneman
-  affiliation: Google
+  organization: Google
   occupation_title:
 ---

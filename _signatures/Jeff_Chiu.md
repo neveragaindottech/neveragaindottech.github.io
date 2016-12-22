@@ -1,5 +1,5 @@
 ---
   name: Jeff Chiu
-  affiliation: University of Pennsylvania
+  organization: University of Pennsylvania
   github: codeforkjeff
 ---

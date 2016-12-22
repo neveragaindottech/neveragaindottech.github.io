@@ -2,6 +2,6 @@
   name: "Timothy Miller"
   link: "https://github.com/drasticactions"
   occupation_title: "Software Engineer"
-  affiliation: "Microsoft"
+  organization: "Microsoft"
   github: "drasticactions"
 ---

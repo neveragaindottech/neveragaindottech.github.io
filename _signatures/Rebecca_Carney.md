@@ -1,5 +1,5 @@
 ---
   name: Rebecca Carney
-  affiliation:
+  organization:
   occupation_title:
 ---

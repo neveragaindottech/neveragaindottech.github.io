@@ -1,6 +1,6 @@
 ---
   name: "Peter Arzhintar"
   occupation_title: "Enginerd"
-  affiliation: "Stripe"
+  organization: "Stripe"
   github: "pantera"
 ---

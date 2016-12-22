@@ -1,4 +1,4 @@
 ---
   name: Jesse Luehrs
-  affiliation: Stripe
+  organization: Stripe
 ---

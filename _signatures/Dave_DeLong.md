@@ -1,5 +1,5 @@
 ---
   name: Dave DeLong
-  affiliation: Apple
+  organization: Apple
   occupation_title: Software Engineer
 ---

@@ -1,6 +1,6 @@
 ---
   name: Scott Hanselman
   link: https://www.twitter.com/shanselman
-  affiliation: Microsoft
+  organization: Microsoft
   github: shanselman
 ---

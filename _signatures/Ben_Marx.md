@@ -1,4 +1,4 @@
 ---
   name: Ben Marx
-  affiliation: thedatabank, gbc
+  organization: thedatabank, gbc
 ---

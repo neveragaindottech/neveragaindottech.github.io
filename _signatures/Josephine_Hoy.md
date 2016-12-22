@@ -1,6 +1,6 @@
 ---
   name: Josephine Hoy
   link: https://josephinehoy.io
-  affiliation:
+  organization:
   occupation_title:
 ---

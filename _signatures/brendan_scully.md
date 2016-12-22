@@ -1,4 +1,4 @@
 ---
   name: "Brendan Scully"
-  affiliation: "Deloitte Consulting"
+  organization: "Deloitte Consulting"
 ---

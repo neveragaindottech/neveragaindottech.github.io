@@ -1,4 +1,4 @@
 ---
   name: Jeffrey Stanton
-  affiliation: SparkFund
+  organization: SparkFund
 ---

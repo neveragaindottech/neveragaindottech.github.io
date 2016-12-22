@@ -1,5 +1,5 @@
 ---
   name: Conrad Heiney
-  affiliation: Glidewell Dental Labs
+  organization: Glidewell Dental Labs
   occupation_title:
 ---

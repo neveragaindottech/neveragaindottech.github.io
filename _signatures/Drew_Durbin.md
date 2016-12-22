@@ -1,4 +1,4 @@
 ---
   name: Drew Durbin
-  affiliation: CEO, Wave
+  organization: CEO, Wave
 ---

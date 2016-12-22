@@ -1,5 +1,5 @@
 ---
-  affiliation: Google
+  organization: Google
   link: http://ginader.com
   github: ginader
   name: Dirk Ginader

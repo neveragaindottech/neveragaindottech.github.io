@@ -1,6 +1,6 @@
 ---
   name: "Peter Sugihara"
   link: https://www.openlistings.com/
-  affiliation: "Open Listings"
+  organization: "Open Listings"
   occupation_title: "CPO"
 ---

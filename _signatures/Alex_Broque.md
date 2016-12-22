@@ -1,4 +1,4 @@
 ---
   name: Alex Broque
-  affiliation: Sr. Network Engineer, Hurricane Electric
+  organization: Sr. Network Engineer, Hurricane Electric
 ---

@@ -1,6 +1,6 @@
 ---
   name: Zach Wick
   link: https://zachwick.com
-  affiliation: Stripe
+  organization: Stripe
   github: zachwick
 ---

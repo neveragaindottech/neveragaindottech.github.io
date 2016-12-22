@@ -1,4 +1,4 @@
 ---
   name: Dash Brittain
-  affiliation: Software Engineer, Apple
+  organization: Software Engineer, Apple
 ---

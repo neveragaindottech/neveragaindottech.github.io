@@ -1,6 +1,6 @@
 ---
   name: Aria Stewart
   link: http://dinhe.net/~aredridel
-  affiliation: npm Inc
+  organization: npm Inc
   github: aredridel
 ---

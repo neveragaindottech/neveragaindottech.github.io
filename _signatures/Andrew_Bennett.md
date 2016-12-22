@@ -1,4 +1,4 @@
 ---
   name: Andrew Bennett
-  affiliation: VHL
+  organization: VHL
 ---

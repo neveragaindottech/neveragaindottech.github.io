@@ -1,6 +1,6 @@
 ---
   name: Doug Woos
   link: http://www.dougwoos.com
-  affiliation: University of Washington
+  organization: University of Washington
   github: dwoos
 ---

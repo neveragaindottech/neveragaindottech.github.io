@@ -1,6 +1,6 @@
 ---
   name: "Jimmy McCarthy"
   occupation_title: "Developer"
-  affiliation: "Shoretel"
+  organization: "Shoretel"
   github: "jrmccarthy"
 ---

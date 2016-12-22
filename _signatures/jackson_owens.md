@@ -1,4 +1,4 @@
 ---
   name: "Jackson Owens"
-  affiliation: "Chain"
+  organization: "Chain"
 ---

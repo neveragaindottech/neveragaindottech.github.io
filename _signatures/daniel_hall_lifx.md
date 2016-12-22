@@ -1,6 +1,6 @@
 ---
   name: Daniel Hall
-  affiliation: LIFX
+  organization: LIFX
   occupation_title: Lead Cloud Engineer
   github: smarthall
 ---

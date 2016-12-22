@@ -1,4 +1,4 @@
 ---
   name: Brian Ganninger
-  affiliation: Atlassian
+  organization: Atlassian
 ---

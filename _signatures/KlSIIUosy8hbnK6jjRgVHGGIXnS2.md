@@ -1,6 +1,6 @@
 ---
   name: "Jeff Stokes"
   link: https://twitter.com/TheBigDataDude
-  affiliation: "Microsoft"
+  organization: "Microsoft"
   occupation_title: "Engineer"
 ---

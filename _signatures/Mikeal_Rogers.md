@@ -1,5 +1,5 @@
 ---
   name: Mikeal Rogers
-  affiliation: Node.js Foundation
+  organization: Node.js Foundation
   github: mikeal
 ---

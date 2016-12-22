@@ -1,4 +1,4 @@
 ---
   name: Jeremy Rauch
-  affiliation: Latacora
+  organization: Latacora
 ---

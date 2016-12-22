@@ -1,5 +1,5 @@
 ---
   name: Chase Tingley
-  affiliation: Spartan Software, Inc.
+  organization: Spartan Software, Inc.
   github: tingley
 ---

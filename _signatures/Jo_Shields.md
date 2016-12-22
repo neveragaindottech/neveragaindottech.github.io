@@ -1,5 +1,5 @@
 ---
   name: Jo Shields
-  affiliation: Microsoft
+  organization: Microsoft
   github: directhex
 ---

@@ -1,6 +1,6 @@
 ---
   name: "Richard Gronostajski"
   link: https://twitter.com/Gronos
-  affiliation: "University at Buffalo"
+  organization: "University at Buffalo"
   occupation_title: "Professor"
 ---

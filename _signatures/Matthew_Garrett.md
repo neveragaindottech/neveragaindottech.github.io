@@ -1,6 +1,6 @@
 ---
   name: Matthew Garrett
   link: http://twitter.com/mjg59
-  affiliation: CoreOS
+  organization: CoreOS
   github: mjg59
 ---

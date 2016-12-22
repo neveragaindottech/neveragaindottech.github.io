@@ -1,5 +1,5 @@
 ---
-  affiliation: Rabble
+  organization: Rabble
   link: http://www.musicat.co/
   github: kellyhiser
   name: Kelly Hiser

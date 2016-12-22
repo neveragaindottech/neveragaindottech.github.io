@@ -1,5 +1,5 @@
 ---
   name: Ryan Mannion
-  affiliation: Zocdoc
+  organization: Zocdoc
   occupation_title:
 ---

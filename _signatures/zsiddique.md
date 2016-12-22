@@ -1,5 +1,5 @@
 ---
-  affiliation: Atlassian
+  organization: Atlassian
   link: https://twitter.com/zuhaib
   github: zsiddique
   name: Zuhaib Siddique

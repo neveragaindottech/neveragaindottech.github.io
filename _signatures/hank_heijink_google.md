@@ -1,6 +1,6 @@
 ---
   name: "Hank Heijink"
   occupation_title: "Software engineer"
-  affiliation: "Google"
+  organization: "Google"
   github: "heijink"
 ---

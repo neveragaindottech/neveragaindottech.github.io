@@ -1,5 +1,5 @@
 ---
   name: Paul Brislen
-  affiliation:
+  organization:
   occupation_title:
 ---

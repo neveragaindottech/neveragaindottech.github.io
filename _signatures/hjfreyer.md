@@ -1,6 +1,6 @@
 ---
   name: Hunter Freyer
-  affiliation: Google
+  organization: Google
   link: http://hjfreyer.com
   github: hjfreyer
 ---

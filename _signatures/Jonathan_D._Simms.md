@@ -1,5 +1,5 @@
 ---
   name: Jonathan D. Simms
-  affiliation: Twitter
+  organization: Twitter
   occupation_title: Staff SWE
 ---

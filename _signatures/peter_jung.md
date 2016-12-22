@@ -1,4 +1,4 @@
 ---
   name: "Peter Jung"
-  affiliation: "Symantec"
+  organization: "Symantec"
 ---

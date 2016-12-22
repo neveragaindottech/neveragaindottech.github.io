@@ -1,6 +1,6 @@
 ---
   name: Troy Howard
   link: https://twitter.com/thoward37
-  affiliation: Twitter
+  organization: Twitter
   github: thoward
 ---

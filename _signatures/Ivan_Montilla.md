@@ -1,5 +1,5 @@
 ---
   name: Ivan Montilla
   link: http://ivanmontilla.com
-  affiliation: Miralles IT
+  organization: Miralles IT
 ---

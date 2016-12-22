@@ -1,5 +1,5 @@
 ---
   name: Kevin Wallace
-  affiliation: University of Washington
+  organization: University of Washington
   github: kevinwallace
 ---

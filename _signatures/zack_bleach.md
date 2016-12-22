@@ -1,5 +1,5 @@
 ---
   name: "Zack Bleach"
-  affiliation: "Stripe"
+  organization: "Stripe"
   github: "zackbleach"
 ---

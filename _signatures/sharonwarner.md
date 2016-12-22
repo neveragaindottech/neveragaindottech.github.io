@@ -1,6 +1,6 @@
 ---
   name: Sharon Warner
   occupation_title: Engineer
-  affiliation: Nava PBC
+  organization: Nava PBC
   github: sharonwarner
 ---

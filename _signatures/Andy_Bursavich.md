@@ -1,6 +1,6 @@
 ---
   name: Andy Bursavich
   link: https://github.com/abursavich
-  affiliation: Software Engineer, Google
+  organization: Software Engineer, Google
   github: abursavich
 ---

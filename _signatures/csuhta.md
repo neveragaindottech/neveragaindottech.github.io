@@ -1,5 +1,5 @@
 ---
-  affiliation: Some Assembly
+  organization: Some Assembly
   link: https://github.com/csuhta
   github: csuhta
   name: Corey Csuhta

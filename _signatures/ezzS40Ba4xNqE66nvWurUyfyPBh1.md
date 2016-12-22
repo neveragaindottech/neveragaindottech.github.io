@@ -1,6 +1,6 @@
 ---
   name: "Miguel Vargas"
   link: https://twitter.com/miguelatwork
-  affiliation: "Priceline Group"
+  organization: "Priceline Group"
   occupation_title: "Software Engineer"
 ---

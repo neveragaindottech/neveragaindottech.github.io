@@ -1,6 +1,6 @@
 ---
   name: Joséphine Gavignet
   link: https://www.linkedin.com/in/jgavignet
-  affiliation: Change.org
+  organization: Change.org
   occupation_title: Product Manager
 ---

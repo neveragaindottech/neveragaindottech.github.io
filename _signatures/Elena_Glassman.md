@@ -1,5 +1,5 @@
 ---
   name: Elena Glassman
-  affiliation: UC Berkeley
+  organization: UC Berkeley
   occupation_title:
 ---

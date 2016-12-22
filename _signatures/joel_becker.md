@@ -1,4 +1,4 @@
 ---
   name: "Joel Becker"
-  affiliation: "Google"
+  organization: "Google"
 ---

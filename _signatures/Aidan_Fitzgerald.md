@@ -1,5 +1,5 @@
 ---
   name: Aidan Fitzgerald
-  affiliation: Cornell University
+  organization: Cornell University
   github: aidan-fitz
 ---

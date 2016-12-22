@@ -1,5 +1,5 @@
 ---
   name: Ken Sherwood
-  affiliation: Blue Earth Interactive
+  organization: Blue Earth Interactive
   occupation_title:
 ---

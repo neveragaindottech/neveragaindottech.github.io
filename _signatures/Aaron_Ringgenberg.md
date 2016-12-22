@@ -1,5 +1,5 @@
 ---
   name: Aaron Ringgenberg
-  affiliation: Patreon
+  organization: Patreon
   occupation_title: DevOps Engineer
 ---

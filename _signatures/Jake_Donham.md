@@ -1,6 +1,6 @@
 ---
   name: Jake Donham
   link: https://twitter.com/jakedonham
-  affiliation: Twitter
+  organization: Twitter
   github: jaked
 ---

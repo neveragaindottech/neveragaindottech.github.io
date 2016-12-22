@@ -1,4 +1,4 @@
 ---
   name: Bergis Jules
-  affiliation: Documenting the Now
+  organization: Documenting the Now
 ---

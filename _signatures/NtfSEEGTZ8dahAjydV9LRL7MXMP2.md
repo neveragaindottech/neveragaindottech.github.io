@@ -1,6 +1,6 @@
 ---
   name: "Alan Stearns"
   link: https://twitter.com/alanstearns
-  affiliation: "Adobe Systems"
+  organization: "Adobe Systems"
   occupation_title: "CSS Panjandrum"
 ---

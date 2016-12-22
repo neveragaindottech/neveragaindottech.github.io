@@ -1,5 +1,5 @@
 ---
   name: Aaron Becker
-  affiliation: Google
+  organization: Google
   github: AaronBecker
 ---

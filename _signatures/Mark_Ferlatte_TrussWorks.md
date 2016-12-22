@@ -2,6 +2,6 @@
   name: "Mark Ferlatte"
   link: "https://github.com/ferlatte"
   occupation_title: "CTO & Co-founder"
-  affiliation: "TrussWorks"
+  organization: "TrussWorks"
   github: "ferlatte"
 ---

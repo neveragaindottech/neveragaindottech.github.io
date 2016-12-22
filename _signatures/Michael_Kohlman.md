@@ -1,5 +1,5 @@
 ---
   name: Michael Kohlman
-  affiliation:
+  organization:
   occupation_title:
 ---

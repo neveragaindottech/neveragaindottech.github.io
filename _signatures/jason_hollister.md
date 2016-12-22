@@ -1,6 +1,6 @@
 ---
   name: Jason Hollister
   occupation_title: Sr Software Engineer
-  affiliation: Binwise
+  organization: Binwise
   github: jasonhollister
 ---

@@ -1,5 +1,5 @@
 ---
-  affiliation: Software Engineer
+  organization: Software Engineer
   link: https://www.linkedin.com/in/ronbogdanoff
   github: rbogdanoff
   name: Ron Bogdanoff

@@ -1,6 +1,6 @@
 ---
   name: Nick Meharry
   link: https://twitter.com/NickMeharry
-  affiliation: drchrono
+  organization: drchrono
   github: nickmeharry
 ---

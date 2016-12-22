@@ -1,5 +1,5 @@
 ---
   name: Brad Sharek
-  affiliation: Mach49
+  organization: Mach49
   occupation_title: Founder
 ---

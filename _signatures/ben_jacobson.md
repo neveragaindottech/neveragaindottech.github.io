@@ -2,6 +2,6 @@
   name: "Ben Jacobson"
   link: "http://benjacobson.com/"
   occupation_title: "Software Engineer"
-  affiliation: "Checkr"
+  organization: "Checkr"
   github: "bjacobso"
 ---

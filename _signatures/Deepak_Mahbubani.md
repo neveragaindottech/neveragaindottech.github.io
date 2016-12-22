@@ -1,6 +1,6 @@
 ---
   name: Deepak Mahbubani
   link: https://twitter.com/datagoon
-  affiliation: Ironline Security
+  organization: Ironline Security
   github: datag00n
 ---

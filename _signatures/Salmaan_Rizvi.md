@@ -1,6 +1,6 @@
 ---
   name: "Salmaan Rizvi"
   occupation_title: "Software Developer"
-  affiliation: "Snaps Media"
+  organization: "Snaps Media"
   github: "salmaanrizvi"
 ---

@@ -1,6 +1,6 @@
 ---
   name: "Geoff Wozniak"
   link: "http://wozniak.ca"
-  affiliation: "IBM"
+  organization: "IBM"
   github: "geoffwozniak"
 ---

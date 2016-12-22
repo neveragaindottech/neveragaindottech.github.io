@@ -1,6 +1,6 @@
 ---
   name: "Chris Thunes"
   link: "http://brewtab.com"
-  affiliation: "Bronto Software"
+  organization: "Bronto Software"
   github: "c2nes"
 ---

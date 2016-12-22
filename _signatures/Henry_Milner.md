@@ -1,5 +1,5 @@
 ---
   name: "Henry Milner"
-  affiliation: "Conviva"
+  organization: "Conviva"
   occupation_title: "Senior Data Scientist"
 ---

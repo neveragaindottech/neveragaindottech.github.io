@@ -1,7 +1,7 @@
 ---
   name: James Huff
   link: https://macmanx.com/
-  affiliation: Automattic
+  organization: Automattic
   occupation_title: Happiness Engineer
   github: macmanx2
 ---

@@ -1,5 +1,5 @@
 ---
-  affiliation: AI and Datacenter Support Engineer
+  organization: AI and Datacenter Support Engineer
   link: https://github.com/jgarcia/
   github: fezzik02
   name: John Garcia

@@ -1,6 +1,6 @@
 ---
   name: Phil Taprogge
-  affiliation: Pusher
+  organization: Pusher
   occupation_title: Lead Devops Engineer
   github: gargath
 ---

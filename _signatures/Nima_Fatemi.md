@@ -1,6 +1,6 @@
 ---
   name: Nima Fatemi
   link: https://twitter.com/mrphs
-  affiliation:
+  organization:
   occupation_title:
 ---

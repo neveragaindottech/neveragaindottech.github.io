@@ -1,5 +1,5 @@
 ---
   name: "Katie Bishop"
   link: "https://twitter.com/k80bish"
-  affiliation: "Stripe"
+  organization: "Stripe"
 ---

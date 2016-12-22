@@ -2,6 +2,6 @@
   name: "JJ Geewax"
   link: "http://geewax.org"
   occupation_title: "Software Engineer"
-  affiliation: "Google"
+  organization: "Google"
   github: "jgeewax"
 ---

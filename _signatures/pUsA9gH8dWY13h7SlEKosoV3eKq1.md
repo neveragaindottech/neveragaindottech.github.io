@@ -1,5 +1,5 @@
 ---
   name: "Kyle Ambroff"
-  affiliation: "LinkedIn"
+  organization: "LinkedIn"
   occupation_title: "Staff Engineer"
 ---

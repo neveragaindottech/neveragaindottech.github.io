@@ -1,6 +1,6 @@
 ---
   name: Dan Boger
   link: https://twitter.com/zigdon
-  affiliation: Google
+  organization: Google
   github: zigdon
 ---

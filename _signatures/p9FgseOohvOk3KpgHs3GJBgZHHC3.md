@@ -1,6 +1,6 @@
 ---
   name: "Andreas Hunn"
   link: https://twitter.com/andyhunn
-  affiliation: "Resonate"
+  organization: "Resonate"
   occupation_title: "Co-Founder & COO"
 ---

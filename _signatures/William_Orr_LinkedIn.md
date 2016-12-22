@@ -1,7 +1,7 @@
 ---
   name: William Orr
   link: https://github.com/worr
-  affiliation: LinkedIn
+  organization: LinkedIn
   occupation_title: SRE
   github: worr
 ---

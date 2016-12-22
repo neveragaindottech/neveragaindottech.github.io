@@ -1,4 +1,4 @@
 ---
   name: Marlena Compton
-  affiliation: IBM
+  organization: IBM
 ---

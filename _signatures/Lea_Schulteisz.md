@@ -1,4 +1,4 @@
 ---
   name: Lea Schulteisz
-  affiliation: Quality Controller / Analyst
+  organization: Quality Controller / Analyst
 ---

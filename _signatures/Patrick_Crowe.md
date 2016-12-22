@@ -1,5 +1,5 @@
 ---
   name: Patrick Crowe
-  affiliation:
+  organization:
   occupation_title: Network Engineer
 ---

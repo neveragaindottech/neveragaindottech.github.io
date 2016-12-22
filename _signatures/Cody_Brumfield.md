@@ -1,6 +1,6 @@
 ---
   name: "Cody Brumfield"
   occupation_title: "CTO"
-  affiliation: "Whetstone Education"
+  organization: "Whetstone Education"
   github: "cody1213"
 ---

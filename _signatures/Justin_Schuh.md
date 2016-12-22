@@ -1,6 +1,6 @@
 ---
   name: Justin Schuh
   link: https://twitter.com/justinschuh
-  affiliation:
+  organization:
   occupation_title:
 ---

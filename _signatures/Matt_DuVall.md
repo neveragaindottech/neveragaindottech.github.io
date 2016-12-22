@@ -1,6 +1,6 @@
 ---
   name: Matt DuVall
   link: "https://twitter.com/mduvall_"
-  affiliation: Stripe
+  organization: Stripe
   github: mduvall
 ---

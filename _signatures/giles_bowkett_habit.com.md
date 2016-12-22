@@ -1,6 +1,6 @@
 ---
   name: "Giles Bowkett"
   link: "http://gilesbowkett.blogspot.com/"
-  affiliation: "Habit.com"
+  organization: "Habit.com"
   github: "gilesbowkett"
 ---

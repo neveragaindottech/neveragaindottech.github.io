@@ -1,5 +1,5 @@
 ---
   name: Nick Herbold
-  affiliation: LevelUp
+  organization: LevelUp
   github: nherbold
 ---

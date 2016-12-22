@@ -1,6 +1,6 @@
 ---
   name: "Henrik Hodne"
   occupation_title: "Software Developer"
-  affiliation: "Travis CI"
+  organization: "Travis CI"
   github: "henrikhodne"
 ---

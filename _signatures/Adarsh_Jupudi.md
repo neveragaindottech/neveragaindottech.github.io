@@ -1,6 +1,6 @@
 ---
   name: Adarsh Jupudi
   link: https://twitter.com/cloudoperator
-  affiliation: Cloud Architect, Datacom
+  organization: Cloud Architect, Datacom
   github: cloudoperator
 ---

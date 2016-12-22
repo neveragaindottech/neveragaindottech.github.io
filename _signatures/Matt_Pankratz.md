@@ -1,5 +1,5 @@
 ---
   name: Matt Pankratz
-  affiliation: Cargill
+  organization: Cargill
   occupation_title: Data Security Consultant
 ---

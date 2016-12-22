@@ -1,6 +1,6 @@
 ---
   name: Marc Hedlund
   link: https://twitter.com/marcprecipice
-  affiliation: Skyliner
+  organization: Skyliner
   github: precipice
 ---

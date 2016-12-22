@@ -1,4 +1,4 @@
 ---
   name: Jenny Tong
-  affiliation: "Pumping Station: One"
+  organization: "Pumping Station: One"
 ---

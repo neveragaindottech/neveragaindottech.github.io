@@ -1,5 +1,5 @@
 ---
   name: Max Giraldo
-  affiliation: Hearst
+  organization: Hearst
   occupation_title: Software Engineer
 ---

@@ -1,5 +1,5 @@
 ---
   name: Jamie Wilkinson
-  affiliation: Google
+  organization: Google
   occupation_title: SRE
 ---

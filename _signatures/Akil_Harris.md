@@ -1,4 +1,4 @@
 ---
   name: Akil Harris
-  affiliation: First Look Media
+  organization: First Look Media
 ---

@@ -1,6 +1,6 @@
 ---
   name: Meghan Hade
-  affiliation: Mapzen
+  organization: Mapzen
   occupation_title: Software Engineer
   github: meghanhade
 ---

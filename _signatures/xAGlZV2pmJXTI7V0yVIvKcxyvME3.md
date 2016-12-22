@@ -1,6 +1,6 @@
 ---
   name: "Alistair Erskine"
   link: https://twitter.com/Transformatics
-  affiliation: "Geisinger/MIT"
+  organization: "Geisinger/MIT"
   occupation_title: "Chief Informatics Officer"
 ---

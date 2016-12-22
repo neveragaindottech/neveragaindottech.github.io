@@ -1,6 +1,6 @@
 ---
   name: Alpha Chen
   occupation_title: Software Engineer
-  affiliation: Pivotal
+  organization: Pivotal
   github: kejadlen
 ---

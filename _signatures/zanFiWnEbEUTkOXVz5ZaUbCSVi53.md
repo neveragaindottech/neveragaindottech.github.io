@@ -1,6 +1,6 @@
 ---
   name: "François Baldassari"
   link: https://twitter.com/baldassarifr
-  affiliation: "Oculus"
+  organization: "Oculus"
   occupation_title: "Software Engineer"
 ---

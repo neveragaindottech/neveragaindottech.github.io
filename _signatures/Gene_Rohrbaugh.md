@@ -1,5 +1,5 @@
 ---
   name: Gene Rohrbaugh
-  affiliation: Messiah College
+  organization: Messiah College
   occupation_title: Professor of Computer Science
 ---

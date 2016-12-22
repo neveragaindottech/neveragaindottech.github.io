@@ -1,4 +1,4 @@
 ---
   name: Adam Wright
-  affiliation: Branch Metrics
+  organization: Branch Metrics
 ---

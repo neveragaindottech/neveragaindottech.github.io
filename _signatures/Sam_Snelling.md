@@ -1,5 +1,5 @@
 ---
   name: Sam Snelling
-  affiliation: OnROI
+  organization: OnROI
   occupation_title:
 ---

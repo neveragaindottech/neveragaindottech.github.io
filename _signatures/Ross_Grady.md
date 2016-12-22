@@ -1,6 +1,6 @@
 ---
   name: Ross Grady
   link: https://twitter.com/rossgrady
-  affiliation: IBM
+  organization: IBM
   github: rossgrady
 ---

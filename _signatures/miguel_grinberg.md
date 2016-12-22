@@ -1,7 +1,7 @@
 ---
   name: Miguel Grinberg
   link: https://miguelgrinberg.com
-  affiliation: Rackspace
+  organization: Rackspace
   occupation_title: Software Developer
   github: miguelgrinberg
 ---

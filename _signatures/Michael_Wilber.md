@@ -1,4 +1,4 @@
 ---
   name: Michael Wilber
-  affiliation: Cornell Tech
+  organization: Cornell Tech
 ---

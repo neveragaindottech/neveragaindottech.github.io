@@ -1,5 +1,5 @@
 ---
   name: "Dominic Dagradi"
-  affiliation: "Chain.com"
+  organization: "Chain.com"
   occupation_title: "Software Engineer"
 ---

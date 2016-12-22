@@ -1,5 +1,5 @@
 ---
-  affiliation: Google/YouTube
+  organization: Google/YouTube
   link: https://twitter.com/rckenned
   github: ryankennedy
   name: Ryan Kennedy

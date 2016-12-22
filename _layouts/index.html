@@ -12,7 +12,7 @@
   {% assign sorted_signatures = site.signatures | sort: 'name' %}
   {% for sig in sorted_signatures %}{% if sig.name %}
   {% if sig.github %}<li id="github-user-{{sig.github | xml_escape}}">{% else %}<li>{% endif %}{% capture name %}{% if sig.display_name %}{{sig.display_name}}{% else %}{{sig.name}}{% endif %}{% endcapture %}
-  {% if sig.link %}<a rel="nofollow" href="{{sig.link | xml_escape}}">{{name | xml_escape}}</a>{% else %}{{name | xml_escape}}{% endif %}{% if sig.occupation_title %}, {{sig.occupation_title | xml_escape}}{% endif %}{% if sig.organization %}, {{sig.organization | xml_escape}}{% endif %}{% if sig.affiliation %}, {{sig.affiliation | xml_escape}}{% endif %}
+  {% if sig.link %}<a rel="nofollow" href="{{sig.link | xml_escape}}">{{name | xml_escape}}</a>{% else %}{{name | xml_escape}}{% endif %}{% if sig.occupation_title %}, {{sig.occupation_title | xml_escape}}{% endif %}{% if sig.organization %}, {{sig.organization | xml_escape}}{% endif %}
   </li>{% endif %}{% endfor %}
 </ul>
 

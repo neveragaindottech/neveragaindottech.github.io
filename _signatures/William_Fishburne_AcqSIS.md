@@ -1,6 +1,6 @@
 ---
   name: "William Fishburne"
   occupation_title: "Vice President"
-  affiliation: "AcqSIS"
+  organization: "AcqSIS"
   github: "bfishburne"
 ---

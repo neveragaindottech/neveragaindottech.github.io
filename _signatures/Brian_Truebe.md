@@ -1,4 +1,4 @@
 ---
   name: Brian Truebe
-  affiliation: Trust & Safety
+  organization: Trust & Safety
 ---

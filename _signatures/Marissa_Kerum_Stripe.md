@@ -1,4 +1,4 @@
 ---
   name: "Marissa Kerum"
-  affiliation: Stripe
+  organization: Stripe
 ---

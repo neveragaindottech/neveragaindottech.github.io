@@ -1,4 +1,4 @@
 ---
   name: Jared Candelaria
-  affiliation: Security Engineer, Microsoft
+  organization: Security Engineer, Microsoft
 ---

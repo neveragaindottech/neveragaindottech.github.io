@@ -1,4 +1,4 @@
 ---
   name: "Christian Anderson"
-  affiliation: Stripe
+  organization: Stripe
 ---

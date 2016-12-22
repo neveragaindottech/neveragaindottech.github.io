@@ -1,5 +1,5 @@
 ---
   name: Usman Ghani
-  affiliation:
+  organization:
   occupation_title:
 ---

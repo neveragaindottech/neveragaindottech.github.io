@@ -1,4 +1,4 @@
 ---
   name: Molly McHugh
-  affiliation: Compliance Analyst
+  organization: Compliance Analyst
 ---

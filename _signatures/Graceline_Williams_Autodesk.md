@@ -1,6 +1,6 @@
 ---
   name: "Graceline Williams"
   occupation_title: "Senior UX Designer"
-  affiliation: "Autodesk"
+  organization: "Autodesk"
   github: "racel"
 ---

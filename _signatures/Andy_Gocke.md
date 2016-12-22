@@ -1,5 +1,5 @@
 ---
   name: Andy Gocke
-  affiliation: Microsoft
+  organization: Microsoft
   github: agocke
 ---

@@ -1,6 +1,6 @@
 ---
   name: "Alexis Findiesen"
   link: https://twitter.com/ACFind
-  affiliation: "Agency CHIEF"
+  organization: "Agency CHIEF"
   occupation_title: "Senior Web Developer"
 ---

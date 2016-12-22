@@ -1,6 +1,6 @@
 ---
   name: "Lucas Wagner"
   link: https://twitter.com/lucaswazowski
-  affiliation: "Apple"
+  organization: "Apple"
   occupation_title: "Software Integration Engineer"
 ---

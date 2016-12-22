@@ -1,5 +1,5 @@
 ---
   name: Vladimir Sedach
-  affiliation: Brand Networks
+  organization: Brand Networks
   occupation_title:
 ---

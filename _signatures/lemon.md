@@ -1,6 +1,6 @@
 ---
   name: "Lemon"
   link: "http://ahoylemon.xyz"
-  affiliation: "The F Plus"
+  organization: "The F Plus"
   github: "AhoyLemon"
 ---

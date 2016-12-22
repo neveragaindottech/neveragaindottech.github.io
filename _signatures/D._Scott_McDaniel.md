@@ -1,4 +1,4 @@
 ---
   name: D. Scott McDaniel
-  affiliation: Technical Lead, Southern Poverty Law Center
+  organization: Technical Lead, Southern Poverty Law Center
 ---

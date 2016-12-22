@@ -1,7 +1,7 @@
 ---
   name: Jodie Rye
   link: https://jodie.io
-  affiliation: Jodie
+  organization: Jodie
   occupation_title: Engineer
   github: puppycodes
 ---

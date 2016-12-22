@@ -1,6 +1,6 @@
 ---
   name: "Michael Vartan"
   occupation_title: "Software Engineer"
-  affiliation: "Google"
+  organization: "Google"
   github: "vartan"
 ---

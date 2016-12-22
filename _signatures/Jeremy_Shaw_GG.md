@@ -1,5 +1,5 @@
 ---
   name: Jeremy Shaw
-  affiliation: GAME GOLF
+  organization: GAME GOLF
   occupation_title: VP Software Engineering
 ---

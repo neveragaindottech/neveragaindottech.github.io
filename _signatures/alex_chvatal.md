@@ -1,6 +1,6 @@
 ---
   name: "Alex Chvatal"
   occupation_title: "Senior Software Applications Engineer"
-  affiliation: "Red Hat"
+  organization: "Red Hat"
   github: "yithian"
 ---

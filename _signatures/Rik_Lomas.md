@@ -1,7 +1,7 @@
 ---
   name: Rik Lomas
   link: https://www.superhi.com
-  affiliation: SuperHi
+  organization: SuperHi
   occupation_title: CEO
   github: riklomas
 ---

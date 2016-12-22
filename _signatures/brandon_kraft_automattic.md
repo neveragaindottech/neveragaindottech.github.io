@@ -1,6 +1,6 @@
 ---
   name: "Brandon Kraft"
   link: "https://kraft.im/"
-  affiliation: "Automattic"
+  organization: "Automattic"
   github: "kraftbj"
 ---

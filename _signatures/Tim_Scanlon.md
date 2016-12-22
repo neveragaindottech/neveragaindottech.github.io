@@ -1,5 +1,5 @@
 ---
   name: Tim Scanlon
-  affiliation: Capital One Bank
+  organization: Capital One Bank
   occupation_title:
 ---

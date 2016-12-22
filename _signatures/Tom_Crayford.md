@@ -1,4 +1,4 @@
 ---
   name: Tom Crayford
-  affiliation: Database Rebooter, Heroku
+  organization: Database Rebooter, Heroku
 ---

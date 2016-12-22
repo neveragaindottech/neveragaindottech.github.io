@@ -1,5 +1,5 @@
 ---
   name: Colin Bayer
-  affiliation: University of Washington
+  organization: University of Washington
   occupation_title:
 ---

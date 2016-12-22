@@ -1,6 +1,6 @@
 ---
   name: Eric Monti
   link: http://human.versus.computer
-  affiliation: Square
+  organization: Square
   occupation_title: Software Engineer
 ---

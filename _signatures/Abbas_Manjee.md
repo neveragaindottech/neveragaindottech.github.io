@@ -1,5 +1,5 @@
 ---
   name: Abbas Manjee
   link: https://twitter.com/Yo_Mista
-  affiliation: Chief Academic Officer, Kiddom
+  organization: Chief Academic Officer, Kiddom
 ---

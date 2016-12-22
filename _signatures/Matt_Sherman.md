@@ -1,6 +1,6 @@
 ---
   name: Matt Sherman
   link: https://mattormeeple.com
-  affiliation: Automattic
+  organization: Automattic
   github: mattsherman
 ---

@@ -1,7 +1,7 @@
 ---
   name: Ryan Markel
   link: https://ryanmarkel.com/
-  affiliation: Automattic
+  organization: Automattic
   occupation_title: VIP Pinball Wizard
   github: ryanmarkel
 ---

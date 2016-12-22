@@ -2,6 +2,6 @@
   name: "Laurent Sansonetti"
   link: "http://hipbyte.com/~lrz"
   occupation_title: "Founder/CEO"
-  affiliation: "HipByte"
+  organization: "HipByte"
   github: "lrz"
 ---

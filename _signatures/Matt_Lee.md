@@ -1,6 +1,6 @@
 ---
   name: Matt Lee
   link: http://twitter.com/mattl
-  affiliation: GNU Project
+  organization: GNU Project
   github: mattl
 ---

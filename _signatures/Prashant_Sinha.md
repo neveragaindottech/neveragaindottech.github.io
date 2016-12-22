@@ -1,6 +1,6 @@
 ---
   name: "Prashant Sinha"
   link: "https://noop.pw"
-  affiliation: "University of Delhi"
+  organization: "University of Delhi"
   github: "prashnts"
 ---

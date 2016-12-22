@@ -1,6 +1,6 @@
 ---
   name: Jennifer Gisler
   link: https://twitter.com/JenGisler
-  affiliation:
+  organization:
   occupation_title: Web Developer
 ---

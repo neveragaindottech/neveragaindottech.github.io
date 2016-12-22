@@ -1,4 +1,4 @@
 ---
   name: Andrew Bonventre
-  affiliation: Google
+  organization: Google
 ---

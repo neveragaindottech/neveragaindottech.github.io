@@ -1,5 +1,5 @@
 ---
   name: Jamie Cantrell
-  affiliation: SAP
+  organization: SAP
   occupation_title: SAP Community Platform Leader
 ---

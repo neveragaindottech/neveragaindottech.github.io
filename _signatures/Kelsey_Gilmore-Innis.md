@@ -1,4 +1,4 @@
 ---
   name: Kelsey Gilmore-Innis
-  affiliation: Callisto
+  organization: Callisto
 ---

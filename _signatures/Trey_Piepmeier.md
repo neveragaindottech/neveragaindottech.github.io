@@ -1,7 +1,7 @@
 ---
   name: Trey Piepmeier
   link: https://treypiepmeier.com
-  affiliation: Emma
+  organization: Emma
   occupation_title: Front End Developer
   github: trey
 ---

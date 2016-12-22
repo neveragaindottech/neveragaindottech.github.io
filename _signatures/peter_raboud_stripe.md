@@ -1,5 +1,5 @@
 ---
   name: Peter Raboud
-  affiliation: Stripe
+  organization: Stripe
   github: praboud
 ---

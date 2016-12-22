@@ -1,4 +1,4 @@
 ---
   name: Nick Fortescue
-  affiliation: Engineer, Google
+  organization: Engineer, Google
 ---

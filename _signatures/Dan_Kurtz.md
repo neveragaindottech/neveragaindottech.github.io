@@ -1,4 +1,4 @@
 ---
   name: Dan Kurtz
-  affiliation: Software Developer
+  organization: Software Developer
 ---

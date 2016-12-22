@@ -1,6 +1,6 @@
 ---
   name: Rodrigo Primo
-  affiliation: Automattic
+  organization: Automattic
   occupation_title: Code Wrangler
   github: rodrigoprimo
 ---

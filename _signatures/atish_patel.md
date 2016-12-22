@@ -1,4 +1,4 @@
 ---
   name: "Atish Patel"
-  affiliation: "Gigamunch"
+  organization: "Gigamunch"
 ---

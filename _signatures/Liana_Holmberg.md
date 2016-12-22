@@ -1,5 +1,5 @@
 ---
   name: Liana Holmberg
-  affiliation:
+  organization:
   occupation_title:
 ---

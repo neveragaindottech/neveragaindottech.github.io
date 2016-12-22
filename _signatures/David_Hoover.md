@@ -1,6 +1,6 @@
 ---
   name: David Hoover
-  affiliation: Google
+  organization: Google
   occupation_title: Software Engineer
   github: deadmoose
 ---

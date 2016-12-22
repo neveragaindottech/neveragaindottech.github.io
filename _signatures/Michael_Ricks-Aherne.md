@@ -1,6 +1,6 @@
 ---
   name: Michael Ricks-Aherne
   link: http://miketwo.net/
-  affiliation: Sauce Labs
+  organization: Sauce Labs
   github: miketwo
 ---

@@ -1,6 +1,6 @@
 ---
   name: JR Conlin
   link: https://jrconlin.com/
-  affiliation: Mozilla
+  organization: Mozilla
   github: jrconlin
 ---

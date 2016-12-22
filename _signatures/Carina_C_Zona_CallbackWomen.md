@@ -2,6 +2,6 @@
   name: "Carina C. Zona"
   link: "http://cczona.com"
   occupation_title: "Founder"
-  affiliation: "CallbackWomen"
+  organization: "CallbackWomen"
   github: "cczona"
 ---

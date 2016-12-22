@@ -1,5 +1,5 @@
 ---
-  affiliation: Invoca
+  organization: Invoca
   link: https://github.com/jebentier
   occupation_title: Senior Software Engineer
   name: James Ebentier

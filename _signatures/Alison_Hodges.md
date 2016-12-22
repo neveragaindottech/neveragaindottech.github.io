@@ -1,5 +1,5 @@
 ---
   name: Alison Hodges
-  affiliation: Founder, Erlea Documentation Professionals
+  organization: Founder, Erlea Documentation Professionals
   github: lamagnifica
 ---

@@ -1,6 +1,6 @@
 ---
   name: "Ben Moss"
   link: https://twitter.com/mossity
-  affiliation: "Pivotal"
+  organization: "Pivotal"
   occupation_title: "Software Engineer"
 ---

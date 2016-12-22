@@ -1,5 +1,5 @@
 ---
-  affiliation: Bazaarvoice
+  organization: Bazaarvoice
   occupation_title: Software Engineer
   name: Daniel Gamble McAdam
   github: Gamble715

@@ -1,6 +1,6 @@
 ---
   name: Jason Brooks
   link: https://www.linkedin.com/in/jaythaceo
-  affiliation: Google
+  organization: Google
   occupation_title:
 ---

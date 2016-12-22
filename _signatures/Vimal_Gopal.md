@@ -1,6 +1,6 @@
 ---
   name: Vimal Gopal
   link: http://www.vimalgopal.com/
-  affiliation:
+  organization:
   occupation_title:
 ---

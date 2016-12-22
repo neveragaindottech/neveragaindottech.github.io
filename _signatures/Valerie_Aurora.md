@@ -1,5 +1,5 @@
 ---
   name: Valerie Aurora
   link: http://frameshiftconsulting.com/
-  affiliation: Frame Shift Consulting
+  organization: Frame Shift Consulting
 ---

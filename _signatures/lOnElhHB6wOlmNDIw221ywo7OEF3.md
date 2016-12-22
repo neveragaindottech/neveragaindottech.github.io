@@ -1,6 +1,6 @@
 ---
   name: "John Haley"
   link: https://twitter.com/johnhaley81
-  affiliation: "Axosoft"
+  organization: "Axosoft"
   occupation_title: "GitKraken Product Manager"
 ---

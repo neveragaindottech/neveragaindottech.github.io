@@ -1,4 +1,4 @@
 ---
   name: "Andrew Turnbull"
-  affiliation: "Epic Systems"
+  organization: "Epic Systems"
 ---

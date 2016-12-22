@@ -1,5 +1,5 @@
 ---
   name: "Sean Gilmour"
-  affiliation: "Microsoft"
+  organization: "Microsoft"
   occupation_title: "Program manager"
 ---

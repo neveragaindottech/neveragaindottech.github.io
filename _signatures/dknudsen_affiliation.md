@@ -1,6 +1,6 @@
 ---
   name: D. Knudsen
-  affiliation: Audible
+  organization: Audible
   occupation_title: Technical Program Manager
   github: deedotknudsen
 ---

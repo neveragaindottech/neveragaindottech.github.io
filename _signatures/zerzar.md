@@ -1,6 +1,6 @@
 ---
   name: Zerzar Bukhari
   occupation_title: Software Engineer
-  affiliation: Microsoft
+  organization: Microsoft
   github: zerzar
 ---

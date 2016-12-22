@@ -1,6 +1,6 @@
 ---
   name: Jeffrey Cutler
   link: https://twitter.com/javiervegas
-  affiliation: MadGlory
+  organization: MadGlory
   github: vfrride
 ---

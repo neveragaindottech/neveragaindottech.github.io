@@ -1,6 +1,6 @@
 ---
   name: Ruthie BenDor
   link: https://twitter.com/unruthless
-  affiliation:
+  organization:
   github: unruthless
 ---

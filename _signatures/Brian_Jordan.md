@@ -1,6 +1,6 @@
 ---
   name: Brian Jordan
   link: https://twitter.com/bcjordan
-  affiliation: Code.org
+  organization: Code.org
   github: bcjordan
 ---

@@ -1,5 +1,5 @@
 ---
   name: "Thea Holsman"
-  affiliation: "Adobe Systems"
+  organization: "Adobe Systems"
   occupation_title: "Technical Architect"
 ---

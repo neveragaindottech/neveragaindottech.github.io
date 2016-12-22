@@ -1,6 +1,6 @@
 ---
   name: Anirvan Chatterjee
   link: http://www.chatterjee.net/
-  affiliation: UCSF
+  organization: UCSF
   github: anirvan
 ---

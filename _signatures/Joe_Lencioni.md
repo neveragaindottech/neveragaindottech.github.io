@@ -1,5 +1,5 @@
 ---
   name: Joe Lencioni
-  affiliation: Airbnb
+  organization: Airbnb
   occupation_title:
 ---

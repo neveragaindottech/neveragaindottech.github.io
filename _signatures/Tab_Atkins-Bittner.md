@@ -1,6 +1,6 @@
 ---
   name: Tab Atkins-Bittner
   link: http://xanthir.com
-  affiliation: Google
+  organization: Google
   github: tabatkins
 ---

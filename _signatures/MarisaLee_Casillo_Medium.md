@@ -1,6 +1,6 @@
 ---
   name: "Marisa-Lee Casillo"
   occupation_title: "IT Systems Administrator"
-  affiliation: "Medium"
+  organization: "Medium"
   github: "mlcasillo"
 ---

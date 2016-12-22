@@ -1,6 +1,6 @@
 ---
   name: Kyle Drake
   link: https://neocities.org
-  affiliation: Neocities
+  organization: Neocities
   github: kyledrake
 ---

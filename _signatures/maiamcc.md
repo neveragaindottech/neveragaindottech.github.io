@@ -1,5 +1,5 @@
 ---
-  affiliation: Spring
+  organization: Spring
   link: http://code.maiamccormick.com/
   github: maiamcc
   name: Maia McCormick

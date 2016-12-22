@@ -1,4 +1,4 @@
 ---
   name: Jesse James
-  affiliation: Developer Evangelist, Raygun
+  organization: Developer Evangelist, Raygun
 ---

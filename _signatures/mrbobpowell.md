@@ -1,5 +1,5 @@
 ---
-  affiliation: Digital Anarchy
+  organization: Digital Anarchy
   github: mrbobpowell
   name: Bob Powell
   occupation_title: Software Engineer

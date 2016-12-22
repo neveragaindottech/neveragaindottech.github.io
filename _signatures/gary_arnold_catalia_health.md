@@ -1,6 +1,6 @@
 ---
   name: "Gary Arnold"
   occupation_title: "CTO"
-  affiliation: "Catalia Health"
+  organization: "Catalia Health"
   github: "Dhar"
 ---

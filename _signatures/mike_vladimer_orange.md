@@ -1,6 +1,6 @@
 ---
   name: Mike Vladimer
   link: https://twitter.com/mikevladimer
-  affiliation: Orange
+  organization: Orange
   github: mikimer
 ---

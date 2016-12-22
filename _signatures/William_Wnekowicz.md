@@ -1,4 +1,4 @@
 ---
   name: William Wnekowicz
-  affiliation: Developer in Residence, KPCB
+  organization: Developer in Residence, KPCB
 ---

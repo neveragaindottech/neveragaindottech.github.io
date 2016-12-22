@@ -1,4 +1,4 @@
 ---
   name: Darci Wood
-  affiliation: Salesforce
+  organization: Salesforce
 ---

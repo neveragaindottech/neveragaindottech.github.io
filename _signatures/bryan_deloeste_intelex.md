@@ -1,6 +1,6 @@
 ---
   name: Bryan Deloeste
-  affiliation: Intelex Technologies
+  organization: Intelex Technologies
   occupation_title: Software Engineer
   github: bdeloeste
 ---

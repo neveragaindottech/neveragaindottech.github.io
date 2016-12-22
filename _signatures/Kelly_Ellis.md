@@ -1,4 +1,4 @@
 ---
   name: Kelly Ellis
-  affiliation: Medium
+  organization: Medium
 ---

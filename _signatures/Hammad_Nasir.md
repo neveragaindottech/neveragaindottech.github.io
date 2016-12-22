@@ -1,5 +1,5 @@
 ---
   name: Hammad Nasir
-  affiliation: HumaneHelper
+  organization: HumaneHelper
   occupation_title: CEO
 ---

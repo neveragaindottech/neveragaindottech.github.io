@@ -1,5 +1,5 @@
 ---
   name: Adnan Alam
-  affiliation: IT @ GitHub
+  organization: IT @ GitHub
   github: sukoonmusic
 ---

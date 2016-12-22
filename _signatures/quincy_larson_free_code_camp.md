@@ -1,7 +1,7 @@
 ---
   name: Quincy Larson
   link: https://twitter.com/ossia
-  affiliation: Free Code Camp
+  organization: Free Code Camp
   occupation_title: Teacher
   github: quincylarson
 ---

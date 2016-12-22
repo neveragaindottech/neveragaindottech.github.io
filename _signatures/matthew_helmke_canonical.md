@@ -1,5 +1,5 @@
 ---
   name: "Matthew Helmke"
-  affiliation: "Canonical Ltd. / Ubuntu"
+  organization: "Canonical Ltd. / Ubuntu"
   github: "matthewhelmke"
 ---

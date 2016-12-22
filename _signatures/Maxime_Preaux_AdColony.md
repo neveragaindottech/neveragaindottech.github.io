@@ -1,6 +1,6 @@
 ---
   name: Maxime Preaux
   occupation_title: Frontend Developer
-  affiliation: AdColony
+  organization: AdColony
   github: deammer
 ---

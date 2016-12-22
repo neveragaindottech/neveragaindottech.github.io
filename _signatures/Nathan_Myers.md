@@ -1,4 +1,4 @@
 ---
   name: Nathan Myers
-  affiliation: Engineer, MongoDB, Inc.
+  organization: Engineer, MongoDB, Inc.
 ---

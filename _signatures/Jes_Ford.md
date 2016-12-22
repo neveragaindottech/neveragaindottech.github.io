@@ -1,5 +1,5 @@
 ---
   name: Jes Ford
-  affiliation: Data Scientist
+  organization: Data Scientist
   github: jesford
 ---

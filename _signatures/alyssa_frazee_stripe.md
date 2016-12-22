@@ -1,6 +1,6 @@
 ---
   name: "Alyssa Frazee"
   link: "https://twitter.com/acfrazee"
-  affiliation: "Stripe"
+  organization: "Stripe"
   github: "alyssafrazee"
 ---

@@ -1,6 +1,6 @@
 ---
   name: Jason Brennan
-  affiliation: Meetup
+  organization: Meetup
   link: http://whynotfireworks.com
   github: jbrennan
 ---

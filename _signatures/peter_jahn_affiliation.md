@@ -2,6 +2,6 @@
   name: "Peter Jahn"
   link: "https://github.com/Jahnp"
   occupation_title: "Senior Design Development Lead"
-  affiliation: "Microsoft"
+  organization: "Microsoft"
   github: "jahnp"
 ---

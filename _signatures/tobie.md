@@ -1,5 +1,5 @@
 ---
-  affiliation: Codespeaks
+  organization: Codespeaks
   link: http://www.tobie.me/
   github: tobie
   name: Tobie Langel

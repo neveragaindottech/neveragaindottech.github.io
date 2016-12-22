@@ -1,5 +1,5 @@
 ---
-  affiliation: Mapbox and OSM Foundation
+  organization: Mapbox and OSM Foundation
   link: https://twitter.com/mikel
   github: mikelmaron
   name: Mikel Maron

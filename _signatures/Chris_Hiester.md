@@ -1,5 +1,5 @@
 ---
   name: Chris Hiester
-  affiliation: Developer
+  organization: Developer
   github: chiester
 ---

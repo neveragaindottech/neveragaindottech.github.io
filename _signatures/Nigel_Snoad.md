@@ -1,4 +1,4 @@
 ---
   name: Nigel Snoad
-  affiliation: Product Manager, Alphabet
+  organization: Product Manager, Alphabet
 ---

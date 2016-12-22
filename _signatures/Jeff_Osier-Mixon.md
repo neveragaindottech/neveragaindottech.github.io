@@ -1,5 +1,5 @@
 ---
   name: Jeff Osier-Mixon
-  affiliation:
+  organization:
   occupation_title:
 ---

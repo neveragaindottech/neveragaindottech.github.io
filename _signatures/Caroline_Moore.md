@@ -1,6 +1,6 @@
 ---
   name: Caroline Moore
   link: http://carolinemoore.net
-  affiliation: Automattic
+  organization: Automattic
   github: sixhours
 ---

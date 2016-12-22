@@ -1,6 +1,6 @@
 ---
   name: Hobson Lane
   link: http://hobsonlane.com/
-  affiliation: Total Good
+  organization: Total Good
   occupation_title: Cofounder
 ---

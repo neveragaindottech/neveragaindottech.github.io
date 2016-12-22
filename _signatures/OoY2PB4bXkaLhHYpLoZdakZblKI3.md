@@ -1,5 +1,5 @@
 ---
   name: "Peter Boothe"
-  affiliation: "Google"
+  organization: "Google"
   occupation_title: "Software Engineer"
 ---

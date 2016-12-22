@@ -1,5 +1,5 @@
 ---
   name: "Andy Freeland "
-  affiliation: "GoodRx "
+  organization: "GoodRx "
   occupation_title: "Software Developer "
 ---

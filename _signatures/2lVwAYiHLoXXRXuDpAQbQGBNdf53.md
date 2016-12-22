@@ -1,6 +1,6 @@
 ---
   name: "Tim Kersey"
   link: https://twitter.com/timkersey
-  affiliation: "Pivotal"
+  organization: "Pivotal"
   occupation_title: "Software Engineer"
 ---

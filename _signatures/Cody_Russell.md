@@ -1,6 +1,6 @@
 ---
   name: Cody Russell
   link: https://twitter.com/bratschecody
-  affiliation: Microsoft
+  organization: Microsoft
   github: bratsche
 ---

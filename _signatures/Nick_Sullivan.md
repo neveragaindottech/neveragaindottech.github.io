@@ -1,4 +1,4 @@
 ---
   name: Nick Sullivan
-  affiliation: Cloudflare
+  organization: Cloudflare
 ---

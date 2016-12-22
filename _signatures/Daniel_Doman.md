@@ -1,6 +1,6 @@
 ---
   name: Daniel Doman
   link: https://twitter.com/ddoman
-  affiliation: IBM
+  organization: IBM
   github: danieldoman
 ---

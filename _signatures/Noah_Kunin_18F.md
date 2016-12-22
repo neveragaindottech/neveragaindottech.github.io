@@ -1,7 +1,7 @@
 ---
   name: Noah Kunin
   link: https://github.com/NoahKunin
-  affiliation: 18F
+  organization: 18F
   occupation_title: Infrastructure Director
   github: noahkunin
 ---

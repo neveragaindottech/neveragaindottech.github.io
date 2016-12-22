@@ -2,5 +2,5 @@
   name: "Jeff Tillinghast"
   link: "http://www.universityprep.org/who-we-are/administration-and-staff"
   occupation_title: "Director of Academic Technology"
-  affiliation: "University Prep"
+  organization: "University Prep"
 ---

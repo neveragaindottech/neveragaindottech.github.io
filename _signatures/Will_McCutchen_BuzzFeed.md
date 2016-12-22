@@ -1,6 +1,6 @@
 ---
   name: "Will McCutchen"
   link: "https://twitter.com/mccutchen"
-  affiliation: "BuzzFeed"
+  organization: "BuzzFeed"
   github: "mccutchen"
 ---

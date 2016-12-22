@@ -1,5 +1,5 @@
 ---
   name: Matt Smiley
-  affiliation: Reliability Engineer, Iovation
+  organization: Reliability Engineer, Iovation
   github: matt-smiley
 ---

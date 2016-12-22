@@ -1,6 +1,6 @@
 ---
   name: "Jeff Fichtner"
   link: "https://www.linkedin.com/in/jeff-fichtner"
-  affiliation: "Dev Bootcamp"
+  organization: "Dev Bootcamp"
   github: "jeff-fichtner"
 ---

@@ -1,6 +1,6 @@
 ---
   name: Gregory Wagner
   link: https://www.snoozle.net
-  affiliation: Snoozle Software
+  organization: Snoozle Software
   occupation_title:
 ---

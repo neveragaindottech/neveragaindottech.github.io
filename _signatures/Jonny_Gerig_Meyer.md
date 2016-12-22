@@ -1,6 +1,6 @@
 ---
   name: Jonny Gerig Meyer
   link: https://twitter.com/jgerigmeyer
-  affiliation: OddBird
+  organization: OddBird
   github: jgerigmeyer
 ---

@@ -1,5 +1,5 @@
 ---
   name: Nathan Taylor
-  affiliation: Fastly
+  organization: Fastly
   github: dijkstracula
 ---

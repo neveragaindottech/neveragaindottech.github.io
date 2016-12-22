@@ -1,5 +1,5 @@
 ---
   name: "Jessica Hamrick"
-  affiliation: "UC Berkeley"
+  organization: "UC Berkeley"
   github: "jhamrick"
 ---

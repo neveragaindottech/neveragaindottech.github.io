@@ -1,6 +1,6 @@
 ---
   name: Corey McKrill
-  affiliation: Automattic
+  organization: Automattic
   occupation_title: Code Wrangler
   github: coreymckrill
 ---

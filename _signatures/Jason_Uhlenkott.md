@@ -1,4 +1,4 @@
 ---
   name: Jason Uhlenkott
-  affiliation: IBM Watson
+  organization: IBM Watson
 ---

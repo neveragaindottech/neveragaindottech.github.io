@@ -1,6 +1,6 @@
 ---
   name: Bryan Naegele
   link: https://twitter.com/bside_bryan
-  affiliation: Integrity
+  organization: Integrity
   github: bryannaegele
 ---

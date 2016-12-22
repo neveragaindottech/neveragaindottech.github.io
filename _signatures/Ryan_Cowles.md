@@ -1,5 +1,5 @@
 ---
   name: Ryan Cowles
-  affiliation: Automattic
+  organization: Automattic
   github: RCowles
 ---

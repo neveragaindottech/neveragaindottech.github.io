@@ -1,6 +1,6 @@
 ---
   name: "Jean-Pierre Thibault"
   link: https://twitter.com/jptvelo
-  affiliation: "Synopsys"
+  organization: "Synopsys"
   occupation_title: "Security Architect"
 ---

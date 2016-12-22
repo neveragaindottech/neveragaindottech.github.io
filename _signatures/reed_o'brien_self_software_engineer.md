@@ -1,6 +1,6 @@
 ---
   name: Reed O'Brien
   link: https://reedobrien.com
-  affiliation: Self
+  organization: Self
   github: reedobrien
 ---

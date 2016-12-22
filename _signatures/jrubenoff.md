@@ -1,5 +1,5 @@
 ---
-  affiliation: Designer
+  organization: Designer
   link: http://jrubenoff.com
   github: jrubenoff
   name: Josh Rubenoff

@@ -1,4 +1,4 @@
 ---
   name: Andrew Bogott
-  affiliation: Wikimedia Foundation
+  organization: Wikimedia Foundation
 ---

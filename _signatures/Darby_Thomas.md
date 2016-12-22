@@ -1,6 +1,6 @@
 ---
   name: Darby
-  affiliation: Patreon
+  organization: Patreon
   occupation_title: Designer
   github: ddddarby
 ---

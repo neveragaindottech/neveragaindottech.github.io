@@ -1,6 +1,6 @@
 ---
   name: Max Hudson
   link:
-  affiliation: Henrybuilt
+  organization: Henrybuilt
   occupation_title: Principle Software Engineer
 ---

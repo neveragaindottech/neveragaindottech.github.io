@@ -1,6 +1,6 @@
 ---
   name: Thomas Hintz
   link: https://thintz.com
-  affiliation: Franz Inc
+  organization: Franz Inc
   github: ThomasHintz
 ---

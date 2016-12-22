@@ -1,6 +1,6 @@
 ---
   name: "Richard Wilson"
   link: https://twitter.com/rseedub
-  affiliation: "Stembolt"
+  organization: "Stembolt"
   occupation_title: "Software Developer"
 ---

@@ -1,4 +1,4 @@
 ---
   name: Zak Auerbach
-  affiliation: Software Engineer, Pivotal Software
+  organization: Software Engineer, Pivotal Software
 ---

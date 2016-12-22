@@ -1,6 +1,6 @@
 ---
   name: Jill Rouleau
   link: https://twitter.com/jillrouleau
-  affiliation: Canonical
+  organization: Canonical
   github: jillr
 ---

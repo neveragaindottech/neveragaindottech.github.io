@@ -1,5 +1,5 @@
 ---
   name: Lucas Nicodemus
-  affiliation: Northrop Grumman Corporation
+  organization: Northrop Grumman Corporation
   github: nicatronTg
 ---

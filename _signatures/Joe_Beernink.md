@@ -1,5 +1,5 @@
 ---
   name: Joe Beernink
-  affiliation: Microsoft
+  organization: Microsoft
   occupation_title: Senior Software Developer
 ---

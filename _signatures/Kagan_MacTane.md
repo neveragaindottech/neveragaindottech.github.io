@@ -1,6 +1,6 @@
 ---
   name: Kagan MacTane
-  affiliation:
+  organization:
   occupation_title: Web developer
   link: https://twitter.com/kmactane
 ---

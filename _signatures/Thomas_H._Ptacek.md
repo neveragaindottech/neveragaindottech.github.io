@@ -1,4 +1,4 @@
 ---
   name: Thomas H. Ptacek
-  affiliation: Latacora
+  organization: Latacora
 ---

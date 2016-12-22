@@ -1,5 +1,5 @@
 ---
   name: Torbjorn Loken
-  affiliation: Uber
+  organization: Uber
   github: torwegia
 ---

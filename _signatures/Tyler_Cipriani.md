@@ -1,7 +1,7 @@
 ---
   name: Tyler Cipriani
   link: https://tylercipriani.com
-  affiliation: Wikimedia Foundation
+  organization: Wikimedia Foundation
   occupation_title: Release Engineer
   github: thcipriani
 ---

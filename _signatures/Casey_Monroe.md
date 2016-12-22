@@ -1,4 +1,4 @@
 ---
   name: Casey Monroe
-  affiliation: Toyota Motor Sales
+  organization: Toyota Motor Sales
 ---

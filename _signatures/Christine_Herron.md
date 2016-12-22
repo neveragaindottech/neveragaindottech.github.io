@@ -1,5 +1,5 @@
 ---
   name: Christine Herron
-  affiliation: Intel Capital
+  organization: Intel Capital
   occupation_title: Director
 ---

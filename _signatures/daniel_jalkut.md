@@ -2,6 +2,6 @@
   name: "Daniel Jalkut"
   link: "http://twitter.com/danielpunkass"
   occupation_title: "Software Engineer"
-  affiliation: "Red Sweater"
+  organization: "Red Sweater"
   github: "danielpunkass"
 ---

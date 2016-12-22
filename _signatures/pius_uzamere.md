@@ -1,7 +1,7 @@
 ---
   name: Pius Uzamere
   link: http://pius.me
-  affiliation: Ether
+  organization: Ether
   occupation_title: Founder
   github: pius
 ---

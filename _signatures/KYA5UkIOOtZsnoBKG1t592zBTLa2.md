@@ -1,6 +1,6 @@
 ---
   name: "Alexandria Torres"
   link: https://twitter.com/AlexinSeattle9
-  affiliation: "Amazon"
+  organization: "Amazon"
   occupation_title: "UX Designer"
 ---

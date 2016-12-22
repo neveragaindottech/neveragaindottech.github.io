@@ -1,4 +1,4 @@
 ---
   name: "Paul Nakata"
-  affiliation: "GitHub"
+  organization: "GitHub"
 ---

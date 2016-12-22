@@ -1,5 +1,5 @@
 ---
   name: Jeremy Bunting
-  affiliation:
+  organization:
   occupation_title:
 ---

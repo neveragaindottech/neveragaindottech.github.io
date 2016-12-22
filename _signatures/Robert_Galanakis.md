@@ -1,6 +1,6 @@
 ---
   name: Robert Galanakis
   link: https://twitter.com/robgalanakis
-  affiliation: CTO, Cozy
+  organization: CTO, Cozy
   github: rgalanakis
 ---

@@ -1,4 +1,4 @@
 ---
   name: Shaun Carland
-  affiliation: Software Engineer, Yesware
+  organization: Software Engineer, Yesware
 ---

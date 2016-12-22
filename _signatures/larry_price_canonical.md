@@ -1,6 +1,6 @@
 ---
   name: "Larry Price"
   link: "https://larry-price.com"
-  affiliation: "Canonical"
+  organization: "Canonical"
   github: "larryprice"
 ---

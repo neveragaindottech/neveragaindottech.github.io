@@ -2,6 +2,6 @@
   name: George Mandis
   link: https://snaptortoise.com
   occupation_title: Web Developer
-  affiliation: Snaptortoise
+  organization: Snaptortoise
   github: georgemandis
 ---

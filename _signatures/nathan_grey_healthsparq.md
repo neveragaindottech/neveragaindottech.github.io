@@ -2,6 +2,6 @@
   name: "Nathan Grey"
   link: "https://www.linkedin.com/in/nathangrey"
   occupation_title: "web developer"
-  affiliation: "HealthSparq"
+  organization: "HealthSparq"
   github: "nngrey"
 ---

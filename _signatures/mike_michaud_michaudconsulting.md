@@ -1,5 +1,5 @@
 ---
   name: "Mike Michaud"
-  affiliation: "Michaud Consulting"
+  organization: "Michaud Consulting"
   github: "michaeldmichaud"
 ---

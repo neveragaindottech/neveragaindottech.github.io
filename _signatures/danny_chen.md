@@ -1,4 +1,4 @@
 ---
   name: "Danny Chen"
-  affiliation: "Uber"
+  organization: "Uber"
 ---

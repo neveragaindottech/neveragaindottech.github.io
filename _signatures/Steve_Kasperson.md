@@ -1,5 +1,5 @@
 ---
   name: Steve Kasperson
-  affiliation:
+  organization:
   occupation_title:
 ---

@@ -1,5 +1,5 @@
 ---
-  affiliation: Technologist
+  organization: Technologist
   link: https://github.com/tildebyte
   github: tildebyte
   name: Ben Alkov

@@ -1,4 +1,4 @@
 ---
   name: Sean Gillies
-  affiliation: Mapbox
+  organization: Mapbox
 ---

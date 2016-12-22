@@ -1,6 +1,6 @@
 ---
   name: Dan Phiffer
   link: https://phiffer.org/
-  affiliation: Mapzen
+  organization: Mapzen
   github: dphiffer
 ---

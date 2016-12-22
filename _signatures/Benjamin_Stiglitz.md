@@ -2,6 +2,6 @@
   name: "Benjamin Stiglitz"
   link: "http://ben.at.tanjero.com/"
   occupation_title: "Software Engineering Manager"
-  affiliation: "Apple"
+  organization: "Apple"
   github: "benstiglitz"
 ---

@@ -1,5 +1,5 @@
 ---
-  affiliation: Etsy
+  organization: Etsy
   link: https://twitter.com/miriamlauter
   github: mlauter
   name: Miriam Lauter

@@ -1,6 +1,6 @@
 ---
   name: Keith Rarick
   link: https://xph.us/
-  affiliation: Chain.com
+  organization: Chain.com
   github: kr
 ---

@@ -1,6 +1,6 @@
 ---
   name: Benjamin Esham
   link: https://esham.io
-  affiliation: Ellucian
+  organization: Ellucian
   github: bdesham
 ---

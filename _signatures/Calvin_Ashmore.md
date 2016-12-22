@@ -1,5 +1,5 @@
 ---
   name: Calvin Ashmore
-  affiliation: Google
+  organization: Google
   github: calvinashmore
 ---

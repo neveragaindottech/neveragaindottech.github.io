@@ -1,6 +1,6 @@
 ---
   name: "Peter Lebo"
   occupation_title: "Software Engineer"
-  affiliation: "Change.org"
+  organization: "Change.org"
   github: "leebs778"
 ---

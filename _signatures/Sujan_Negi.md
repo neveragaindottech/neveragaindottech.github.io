@@ -1,5 +1,5 @@
 ---
   name: Sujan Negi
-  affiliation:
+  organization:
   occupation_title:
 ---

@@ -1,4 +1,4 @@
 ---
   name: Mike Fowler
-  affiliation: Airbnb
+  organization: Airbnb
 ---

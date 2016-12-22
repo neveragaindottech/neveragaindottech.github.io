@@ -1,6 +1,6 @@
 ---
   name: "Nick Cannariato"
   link: https://twitter.com/nickcannariato
-  affiliation: "GitHub"
+  organization: "GitHub"
   github: nickcannariato
 ---

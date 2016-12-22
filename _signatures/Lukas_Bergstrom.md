@@ -1,4 +1,4 @@
 ---
   name: Lukas Bergstrom
-  affiliation: Google
+  organization: Google
 ---

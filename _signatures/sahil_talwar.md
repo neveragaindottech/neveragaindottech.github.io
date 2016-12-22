@@ -1,4 +1,4 @@
 ---
   name: Sahil Talwar
-  affiliation: Lanetix
+  organization: Lanetix
 ---

@@ -1,6 +1,6 @@
 ---
   name: Anastasia Aizman
   occupation_title: Software Developer
-  affiliation: Harvard University
+  organization: Harvard University
   github: anastasia
 ---

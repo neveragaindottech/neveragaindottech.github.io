@@ -1,4 +1,4 @@
 ---
   name: David W Stoesz
-  affiliation: Microsoft
+  organization: Microsoft
 ---

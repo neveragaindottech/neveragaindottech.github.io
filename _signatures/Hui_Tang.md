@@ -1,4 +1,4 @@
 ---
   name: Hui Tang
-  affiliation: Software Engineer
+  organization: Software Engineer
 ---

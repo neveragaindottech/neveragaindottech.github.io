@@ -1,6 +1,6 @@
 ---
   name: Danielle Tomlinson
   link: https://twitter.com/dantoml
-  affiliation: CocoaPods, CircleCI
+  organization: CocoaPods, CircleCI
   github: dantoml
 ---

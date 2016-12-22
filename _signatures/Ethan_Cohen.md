@@ -1,6 +1,6 @@
 ---
   name: Ethan Cohen
   link: https://twitter.com/beefancohen
-  affiliation: Twitter
+  organization: Twitter
   github: evcohen
 ---

@@ -2,6 +2,6 @@
   name: "Jonathan Rudenberg"
   link: "https://titanous.com"
   occupation_title: "CTO"
-  affiliation: "Flynn"
+  organization: "Flynn"
   github: "titanous"
 ---

@@ -1,5 +1,5 @@
 ---
-  affiliation: Khan Academy
+  organization: Khan Academy
   link: https://twitter.com/celiala
   github: celiala
   name: Celia La

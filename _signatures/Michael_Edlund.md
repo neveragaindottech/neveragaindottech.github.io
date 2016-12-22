@@ -1,6 +1,6 @@
 ---
   name: Michael Edlund
   link: https://twitter.com/arcticleo
-  affiliation: LuxuryRealEstate.com
+  organization: LuxuryRealEstate.com
   github: arcticleo
 ---

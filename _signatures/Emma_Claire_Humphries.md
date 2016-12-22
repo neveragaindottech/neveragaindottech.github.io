@@ -1,6 +1,6 @@
 ---
   name: Emma Claire Humphries
   link: https://emmah.net/
-  affiliation: Mozilla Corporation
+  organization: Mozilla Corporation
   github: emceeaich
 ---

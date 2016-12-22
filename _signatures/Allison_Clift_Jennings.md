@@ -1,6 +1,6 @@
 ---
   name: Allison Clift-Jennings
-  affiliation: Filament
+  organization: Filament
   occupation_title: CEO
   github: amcjen
 ---

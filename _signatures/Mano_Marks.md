@@ -1,4 +1,4 @@
 ---
   name: Mano Marks
-  affiliation: Docker
+  organization: Docker
 ---

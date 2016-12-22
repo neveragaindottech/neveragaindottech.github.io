@@ -1,5 +1,5 @@
 ---
   name: "Antonio Diaz"
-  affiliation: "GitHub"
+  organization: "GitHub"
   github: "antn"
 ---

@@ -1,5 +1,5 @@
 ---
   name: Elizabeth Urello
-  affiliation: Automattic
+  organization: Automattic
   github: eurello
 ---

@@ -2,6 +2,6 @@
   name: "Jonathan Miller"
   link: "https://github.com/sokket"
   occupation_title: "Software Development Engineer II"
-  affiliation: "Microsoft"
+  organization: "Microsoft"
   github: "sokket"
 ---

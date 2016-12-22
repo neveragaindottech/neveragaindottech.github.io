@@ -1,6 +1,6 @@
 ---
   name: Aaron Petcoff
   link: https://twitter.com/ughitsaaron
-  affiliation: The New Yorker
+  organization: The New Yorker
   github: ughitsaaron
 ---

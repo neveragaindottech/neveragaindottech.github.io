@@ -1,5 +1,5 @@
 ---
   name: "Josh Hall-Bachner"
-  affiliation: "Malwarebytes"
+  organization: "Malwarebytes"
   github: "jhallbachner"
 ---

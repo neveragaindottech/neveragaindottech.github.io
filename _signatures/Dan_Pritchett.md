@@ -1,5 +1,5 @@
 ---
   name: Dan Pritchett
-  affiliation: Google
+  organization: Google
   occupation_title:
 ---

@@ -1,4 +1,4 @@
 ---
   name: Philip Porada
-  affiliation: Systems Administrator
+  organization: Systems Administrator
 ---

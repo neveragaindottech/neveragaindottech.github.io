@@ -1,6 +1,6 @@
 ---
   name: "Joe Perks"
   link: "https://www.linkedin.com/in/joeperks"
-  affiliation: "RedMorph"
+  organization: "RedMorph"
   github: "joeprivacy"
 ---

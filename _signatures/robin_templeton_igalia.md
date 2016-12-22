@@ -1,4 +1,4 @@
 ---
   name: "Robin Templeton"
-  affiliation: "Igalia"
+  organization: "Igalia"
 ---

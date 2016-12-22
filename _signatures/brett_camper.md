@@ -1,5 +1,5 @@
 ---
   name: "Brett Camper"
-  affiliation: "Mapzen"
+  organization: "Mapzen"
   github: "bcamper"
 ---

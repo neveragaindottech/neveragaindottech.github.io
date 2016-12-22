@@ -1,6 +1,6 @@
 ---
   name: Charlie Park
   link: https://www.twitter.com/charliepark
-  affiliation: Slack
+  organization: Slack
   github: charliepark
 ---

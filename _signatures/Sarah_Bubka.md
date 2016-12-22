@@ -1,5 +1,5 @@
 ---
   name: Sarah Bubka
-  affiliation: ESRI
+  organization: ESRI
   occupation_title: Technical Support Analyst
 ---

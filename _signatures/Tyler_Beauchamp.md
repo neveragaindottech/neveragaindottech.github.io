@@ -1,6 +1,6 @@
 ---
   name: Tyler Beauchamp
   occupation_title: UX Designer
-  affiliation: athenahealth
+  organization: athenahealth
   link: http://tylerbeauchamp.net/
 ---

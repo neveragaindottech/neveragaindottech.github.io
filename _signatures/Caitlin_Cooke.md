@@ -1,4 +1,4 @@
 ---
   name: Caitlin Cooke
-  affiliation: Nava Public Benefit Corporation
+  organization: Nava Public Benefit Corporation
 ---

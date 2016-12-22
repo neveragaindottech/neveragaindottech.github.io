@@ -1,5 +1,5 @@
 ---
   name: Ray Rehman
-  affiliation: Jet.com
+  organization: Jet.com
   occupation_title: Digital Analytics
 ---

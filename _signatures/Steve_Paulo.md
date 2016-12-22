@@ -1,5 +1,5 @@
 ---
   name: Steve Paulo
-  affiliation: Nest Labs
+  organization: Nest Labs
   occupation_title: Engineer
 ---

@@ -2,6 +2,6 @@
   name: "Kamal Mostafa"
   link: "http://www.whence.com/kamal"
   occupation_title: "Software Engineer"
-  affiliation: "Canonical USA"
+  organization: "Canonical USA"
   github: "kamalmostafa"
 ---

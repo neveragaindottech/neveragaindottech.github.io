@@ -1,4 +1,4 @@
 ---
   name: Brent Roraback
-  affiliation: TUNE Inc
+  organization: TUNE Inc
 ---

@@ -1,4 +1,4 @@
 ---
   name: Jonathan Haddad
-  affiliation: The Last Pickle
+  organization: The Last Pickle
 ---

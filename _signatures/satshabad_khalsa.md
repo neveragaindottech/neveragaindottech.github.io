@@ -1,4 +1,4 @@
 ---
   name: "Satshabad Khalsa"
-  affiliation: "Google"
+  organization: "Google"
 ---

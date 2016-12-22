@@ -1,5 +1,5 @@
 ---
   name: "Patrick Haig"
-  affiliation: "TUNE"
+  organization: "TUNE"
   occupation_title: "Product Manager"
 ---

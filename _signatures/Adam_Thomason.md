@@ -1,5 +1,5 @@
 ---
   name: Adam Thomason
-  affiliation: Fastly
+  organization: Fastly
   github: athomason
 ---

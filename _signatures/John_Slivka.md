@@ -1,5 +1,5 @@
 ---
   name: John Slivka
-  affiliation: Oracle
+  organization: Oracle
   github: jslivka
 ---

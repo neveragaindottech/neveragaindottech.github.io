@@ -1,5 +1,5 @@
 ---
   name: "Elly Fong-Jones"
-  affiliation: "Google"
+  organization: "Google"
   occupation_title: "Software Engineer"
 ---

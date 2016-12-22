@@ -1,4 +1,4 @@
 ---
   name: Katherine A. Scott
-  affiliation: Senior Software Engineer, Planet
+  organization: Senior Software Engineer, Planet
 ---

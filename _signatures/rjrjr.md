@@ -1,7 +1,7 @@
 ---
   name: Ray Ryan
   link: https://github.com/rjrjr
-  affiliation: Square
+  organization: Square
   occupation_title: Apps developer
   github: rjrjr
 ---

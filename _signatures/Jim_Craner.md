@@ -1,5 +1,5 @@
 ---
   name: Jim Craner
-  affiliation: The Galecia Group
+  organization: The Galecia Group
   occupation_title: Developer
 ---

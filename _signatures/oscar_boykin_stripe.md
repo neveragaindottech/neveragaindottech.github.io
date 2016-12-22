@@ -1,6 +1,6 @@
 ---
   name: Oscar Boykin
   link: https://twitter.com/posco
-  affiliation: Stripe
+  organization: Stripe
   github: johnynek
 ---

@@ -1,6 +1,6 @@
 ---
   name: "Eddie McGraw"
   link: https://twitter.com/EddieMcGraw
-  affiliation: "Lithium Technologies"
+  organization: "Lithium Technologies"
   occupation_title: "Director of Communications"
 ---

@@ -1,6 +1,6 @@
 ---
   name: "Sverre Rabbelier"
   link: https://twitter.com/srabbelier
-  affiliation: "Google"
+  organization: "Google"
   occupation_title: "Senior Software Engineer"
 ---

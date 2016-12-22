@@ -1,4 +1,4 @@
 ---
   name: Evan Kroske
-  affiliation: Nava Public Benefit Corporation
+  organization: Nava Public Benefit Corporation
 ---

@@ -1,7 +1,7 @@
 ---
   name: Matt DuLeone
   link: http://matt.dule.one
-  affiliation: Grovo
+  organization: Grovo
   occupation_title: Software Engineer
   github: mduleone
 ---

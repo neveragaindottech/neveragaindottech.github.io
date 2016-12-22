@@ -1,6 +1,6 @@
 ---
   name: "Charles Chamberlain"
   link: "https://github.com/charlesetc/"
-  affiliation: "Uber"
+  organization: "Uber"
   github: "charlesetc"
 ---

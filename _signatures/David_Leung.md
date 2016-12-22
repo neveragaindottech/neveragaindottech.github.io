@@ -1,5 +1,5 @@
 ---
   name: David Leung
-  affiliation: Ascent Technologies
+  organization: Ascent Technologies
   occupation_title: Senior Software Engineer
 ---

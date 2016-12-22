@@ -1,5 +1,5 @@
 ---
   name: Rachelle Felzien
-  affiliation:
+  organization:
   occupation_title: Software Engineer
 ---

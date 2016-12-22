@@ -1,6 +1,6 @@
 ---
   name: "Ingo Weiss"
   link: https://twitter.com/lasombra_br
-  affiliation: "Red Hat"
+  organization: "Red Hat"
   occupation_title: "Software Engineer"
 ---

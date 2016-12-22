@@ -1,4 +1,4 @@
 ---
   name: Kamil Choudhury
-  affiliation: LevelCompute
+  organization: LevelCompute
 ---

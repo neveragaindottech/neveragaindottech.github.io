@@ -1,5 +1,5 @@
 ---
   name: Mark Pauley
-  affiliation:
+  organization:
   occupation_title:
 ---

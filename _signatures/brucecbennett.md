@@ -1,5 +1,5 @@
 ---
-  affiliation: Avid
+  organization: Avid
   link: https://www.brucechristianbennett.com
   occupation_title: Senior Technical Writer
   name: Bruce Bennett

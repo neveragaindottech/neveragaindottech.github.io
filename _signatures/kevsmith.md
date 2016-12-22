@@ -1,5 +1,5 @@
 ---
-  affiliation: Operable
+  organization: Operable
   link: https://github.com/kevsmith
   github: kevsmith
   name: Kevin A. Smith

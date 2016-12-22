@@ -1,5 +1,5 @@
 ---
   name: Ed Watson
-  affiliation:
+  organization:
   occupation_title:
 ---

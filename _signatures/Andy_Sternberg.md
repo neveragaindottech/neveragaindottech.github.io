@@ -1,4 +1,4 @@
 ---
   name: Andy Sternberg
-  affiliation: Rotary International
+  organization: Rotary International
 ---

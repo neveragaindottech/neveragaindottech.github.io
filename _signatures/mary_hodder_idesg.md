@@ -1,6 +1,6 @@
 ---
   name: "Mary Hodder"
   link: "http://idesg.org"
-  affiliation: "IDESG"
+  organization: "IDESG"
   github: "https://github.com/maryhodder"
 ---

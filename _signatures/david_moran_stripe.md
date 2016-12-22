@@ -1,6 +1,6 @@
 ---
   name: "David Moran"
   link: "https://github.com/davidliammoran"
-  affiliation: "Stripe"
+  organization: "Stripe"
   github: "davidliammoran"
 ---

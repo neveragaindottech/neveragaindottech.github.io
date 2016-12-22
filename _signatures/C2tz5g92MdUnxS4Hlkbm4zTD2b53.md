@@ -1,6 +1,6 @@
 ---
   name: "Devin Morgenstern"
   link: https://twitter.com/devinrm_
-  affiliation: "SpreeCommerce"
+  organization: "SpreeCommerce"
   occupation_title: "Software Developer"
 ---

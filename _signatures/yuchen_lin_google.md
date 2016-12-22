@@ -1,4 +1,4 @@
 ---
   name: "Yuchen Lin"
-  affiliation: "Google"
+  organization: "Google"
 ---

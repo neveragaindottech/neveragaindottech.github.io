@@ -1,5 +1,5 @@
 ---
   name: Patrick Murray
-  affiliation:
+  organization:
   occupation_title: Technical support
 ---

@@ -1,5 +1,5 @@
 ---
   name: T.J. Duchene
-  affiliation:
+  organization:
   occupation_title: Programmer
 ---

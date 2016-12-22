@@ -1,4 +1,4 @@
 ---
   name: "Baylee Greenberg"
-  affiliation: "Crisis Text Line"
+  organization: "Crisis Text Line"
 ---

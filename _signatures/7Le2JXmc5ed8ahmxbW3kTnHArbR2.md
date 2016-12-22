@@ -1,6 +1,6 @@
 ---
   name: "Kyle Conroy"
   link: https://twitter.com/kyle_conroy
-  affiliation: "Stripe"
+  organization: "Stripe"
   occupation_title: "Engineer"
 ---

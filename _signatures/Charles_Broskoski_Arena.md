@@ -2,6 +2,6 @@
   name: "Charles Broskoski"
   link: "https://www.are.na/charles-broskoski"
   occupation_title: "CEO"
-  affiliation: "Are.na"
+  organization: "Are.na"
   github: "broskoski"
 ---

@@ -1,4 +1,4 @@
 ---
   name: Martin Robinson
-  affiliation: Igalia
+  organization: Igalia
 ---

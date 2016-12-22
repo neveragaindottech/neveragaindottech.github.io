@@ -2,6 +2,6 @@
   name: Aleksandra Culver
   link: https://twitter.com/schala09
   occupation_title: Site Reliability Engineer
-  affiliation: Google
+  organization: Google
   github: schala09
 ---

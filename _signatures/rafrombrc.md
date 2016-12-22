@@ -1,5 +1,5 @@
 ---
-  affiliation: Mozilla Corporation
+  organization: Mozilla Corporation
   link: https://twitter.com/n0nsequitarian
   github: rafrombrc
   name: Robert Miller

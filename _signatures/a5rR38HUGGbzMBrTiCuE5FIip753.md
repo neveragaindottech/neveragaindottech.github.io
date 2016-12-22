@@ -1,5 +1,5 @@
 ---
   name: "Chris Thoma"
-  affiliation: "Apple"
+  organization: "Apple"
   occupation_title: "Software Engineer"
 ---

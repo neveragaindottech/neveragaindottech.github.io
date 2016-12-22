@@ -1,7 +1,7 @@
 ---
   name: Jonathan Hartley
   link: http://tartley.com
-  affiliation: antidote.me
+  organization: antidote.me
   occupation_title: Programmer
   github: tartley
 ---

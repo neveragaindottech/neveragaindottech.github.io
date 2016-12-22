@@ -1,6 +1,6 @@
 ---
   name: "Daniel Friedman"
   link: "http://dan-f.me/"
-  affiliation: "MIT"
+  organization: "MIT"
   github: "dan-f"
 ---

@@ -1,6 +1,6 @@
 ---
   name: Noel Hidalgo
   link: https://beta.nyc
-  affiliation: Executive Director, BetaNYC
+  organization: Executive Director, BetaNYC
   github: noneck
 ---

@@ -1,6 +1,6 @@
 ---
   name: "Marc Poris"
   occupation_title: "Software Engineer"
-  affiliation: "Healthsparq"
+  organization: "Healthsparq"
   github: "marcp"
 ---

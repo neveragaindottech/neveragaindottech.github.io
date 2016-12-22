@@ -1,6 +1,6 @@
 ---
   name: "Spike Brehm"
   link: https://twitter.com/spikebrehm
-  affiliation: "Airbnb"
+  organization: "Airbnb"
   occupation_title: "Software Engineer"
 ---

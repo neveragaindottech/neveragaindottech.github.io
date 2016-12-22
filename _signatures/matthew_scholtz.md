@@ -1,4 +1,4 @@
 ---
   name: "Matthew Scholtz"
-  affiliation: "Percolator Consulting"
+  organization: "Percolator Consulting"
 ---

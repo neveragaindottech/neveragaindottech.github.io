@@ -1,4 +1,4 @@
 ---
   name: John Wineman
-  affiliation: Cloudflare
+  organization: Cloudflare
 ---

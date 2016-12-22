@@ -1,4 +1,4 @@
 ---
   name: Nadav Savio
-  affiliation: Independent Designer
+  organization: Independent Designer
 ---

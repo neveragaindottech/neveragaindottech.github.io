@@ -1,6 +1,6 @@
 ---
   name: Timothy Kempf
   link: http://kemp59f.info
-  affiliation: Meadow
+  organization: Meadow
   github: Fauntleroy
 ---

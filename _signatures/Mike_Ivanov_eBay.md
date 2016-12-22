@@ -1,5 +1,5 @@
 ---
   name: Mike Ivanov
-  affiliation: eBay
+  organization: eBay
   github: mivanov
 ---

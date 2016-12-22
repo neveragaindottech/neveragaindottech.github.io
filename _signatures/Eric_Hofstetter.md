@@ -1,5 +1,5 @@
 ---
   name: Eric Hofstetter
-  affiliation:
+  organization:
   occupation_title: Developer II
 ---

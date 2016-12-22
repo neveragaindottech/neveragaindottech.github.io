@@ -1,4 +1,4 @@
 ---
   name: "Erin Call"
-  affiliation: "GitHub"
+  organization: "GitHub"
 ---

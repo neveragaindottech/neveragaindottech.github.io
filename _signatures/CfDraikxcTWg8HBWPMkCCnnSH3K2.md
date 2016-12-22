@@ -1,6 +1,6 @@
 ---
   name: "Andreas Cappell"
   link: https://twitter.com/cappellmeister
-  affiliation: "SinnerSchrader"
+  organization: "SinnerSchrader"
   occupation_title: "Account Director"
 ---

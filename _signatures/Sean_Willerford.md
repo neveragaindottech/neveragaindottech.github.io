@@ -1,4 +1,4 @@
 ---
   name: Sean Willerford
-  affiliation: SparkFund
+  organization: SparkFund
 ---

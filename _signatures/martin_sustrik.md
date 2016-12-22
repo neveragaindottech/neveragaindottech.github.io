@@ -1,6 +1,6 @@
 ---
   name: "Martin Sustrik"
   occupation_title: "SRE"
-  affiliation: "Google"
+  organization: "Google"
   github: "sustrik"
 ---

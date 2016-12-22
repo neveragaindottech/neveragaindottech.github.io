@@ -1,6 +1,6 @@
 ---
   name: "Joe Carnahan"
   link: https://twitter.com/joecarnahan
-  affiliation: "Google"
+  organization: "Google"
   occupation_title: "Software Engineer"
 ---

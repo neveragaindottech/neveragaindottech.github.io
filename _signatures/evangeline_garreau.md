@@ -1,6 +1,6 @@
 ---
   name: "Evangeline Garreau"
   occupation_title: "Software Engineer"
-  affiliation: "Sittercity"
+  organization: "Sittercity"
   github: "egarreau"
 ---

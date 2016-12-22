@@ -1,6 +1,6 @@
 ---
   name: "David Soergel"
   link: "http://davidsoergel.com"
-  affiliation: "Google"
+  organization: "Google"
   github: "davidsoergel"
 ---

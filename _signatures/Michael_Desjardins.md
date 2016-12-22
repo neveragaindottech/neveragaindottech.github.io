@@ -1,5 +1,5 @@
 ---
   name: Michael Desjardins
-  affiliation: Ceres Logic
+  organization: Ceres Logic
   occupation_title: Web Developer
 ---

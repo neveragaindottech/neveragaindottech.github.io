@@ -1,6 +1,6 @@
 ---
   name: "Robert C Jensen"
   link: https://twitter.com/robcolejensen
-  affiliation: "Computer Lab"
+  organization: "Computer Lab"
   occupation_title: "Consultant"
 ---

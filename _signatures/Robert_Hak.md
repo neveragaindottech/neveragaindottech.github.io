@@ -1,4 +1,4 @@
 ---
   name: Robert Hak
-  affiliation: DevOps Engineer, IAC Applications
+  organization: DevOps Engineer, IAC Applications
 ---

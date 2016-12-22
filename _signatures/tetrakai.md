@@ -1,5 +1,5 @@
 ---
-  affiliation: Stripe
+  organization: Stripe
   link: https://twitter.com/tetrakazi
   github: tetrakai
   name: Karla Burnett

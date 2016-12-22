@@ -1,6 +1,6 @@
 ---
   name: "Alexis Deveria"
   link: https://twitter.com/Fyrd
-  affiliation: "Adobe"
+  organization: "Adobe"
   occupation_title: "Software engineer"
 ---

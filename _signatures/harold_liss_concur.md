@@ -1,5 +1,5 @@
 ---
   name: "Harold Liss"
-  affiliation: "Concur Technologies"
+  organization: "Concur Technologies"
   github: "hliss"
 ---

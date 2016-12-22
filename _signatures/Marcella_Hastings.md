@@ -1,6 +1,6 @@
 ---
   name: Marcella Hastings
   link: https://twitter.com/marsella_h
-  affiliation: University of Pennsylvania
+  organization: University of Pennsylvania
   github: marsella
 ---

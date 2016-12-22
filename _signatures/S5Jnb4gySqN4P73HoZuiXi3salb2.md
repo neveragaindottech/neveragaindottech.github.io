@@ -1,6 +1,6 @@
 ---
   name: "Faraz khan"
   link: https://twitter.com/faraz_r_khan
-  affiliation: "Slack"
+  organization: "Slack"
   occupation_title: "Staff engineer"
 ---

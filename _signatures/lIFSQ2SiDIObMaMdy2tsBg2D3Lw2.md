@@ -1,6 +1,6 @@
 ---
   name: "Conrad Yoder"
   link: https://twitter.com/conradyoder
-  affiliation: "Reasy"
+  organization: "Reasy"
   occupation_title: "CEO"
 ---

@@ -1,5 +1,5 @@
 ---
   name: John Firebaugh
-  affiliation: Mapbox
+  organization: Mapbox
   github: jfirebaugh
 ---

@@ -1,5 +1,5 @@
 ---
   name: Thor Kell
-  affiliation: Spotify
+  organization: Spotify
   github: tkell
 ---

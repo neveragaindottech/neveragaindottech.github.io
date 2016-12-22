@@ -1,5 +1,5 @@
 ---
   name: "Mike Andrews"
-  affiliation: "Blockbridge Networks LLC"
+  organization: "Blockbridge Networks LLC"
   github: "gubblebozer"
 ---

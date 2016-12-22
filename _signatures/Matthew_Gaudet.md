@@ -1,6 +1,6 @@
 ---
   name: Matthew Gaudet
   link: http://twitter.com/MattStudies
-  affiliation: IBM
+  organization: IBM
   github: mgaudet
 ---

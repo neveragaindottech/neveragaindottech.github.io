@@ -1,5 +1,5 @@
 ---
   name: Carol Hansen
-  affiliation: Mapbox
+  organization: Mapbox
   github: gretacb
 ---

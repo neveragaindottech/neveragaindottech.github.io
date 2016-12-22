@@ -1,6 +1,6 @@
 ---
   name: Vincent Huang
-  affiliation: Cisco Meraki
+  organization: Cisco Meraki
   link:
   github: vincom2
 ---

@@ -1,4 +1,4 @@
 ---
   name: Alexandra Savas
-  affiliation: Product Marketing Manager
+  organization: Product Marketing Manager
 ---

@@ -1,6 +1,6 @@
 ---
   name: Ralph Bodenner
   link: https://twitter.com/ralphbod
-  affiliation: New Relic
+  organization: New Relic
   github: rkbodenner
 ---

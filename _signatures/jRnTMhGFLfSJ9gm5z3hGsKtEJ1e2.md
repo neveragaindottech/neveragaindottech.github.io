@@ -1,5 +1,5 @@
 ---
   name: "Glenn Willen"
-  affiliation: "Blockstream"
+  organization: "Blockstream"
   occupation_title: "Software Engineer"
 ---

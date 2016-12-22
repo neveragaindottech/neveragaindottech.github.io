@@ -1,4 +1,4 @@
 ---
   name: Joshua Keller
-  affiliation: Akamai
+  organization: Akamai
 ---

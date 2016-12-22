@@ -1,7 +1,7 @@
 ---
   name: Jon Bauman
   link: https://github.com/baumanj
-  affiliation: Etsy
+  organization: Etsy
   occupation_title: Software Engineer
   github: baumanj
 ---

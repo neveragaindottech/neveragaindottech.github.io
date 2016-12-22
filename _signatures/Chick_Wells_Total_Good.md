@@ -1,6 +1,6 @@
 ---
   name: Chick Wells
   link: http://thewells.org/
-  affiliation: Total Good
+  organization: Total Good
   occupation_title: Cofounder
 ---

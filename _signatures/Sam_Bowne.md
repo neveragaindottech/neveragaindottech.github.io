@@ -1,6 +1,6 @@
 ---
   name: Sam Bowne
   link: https://samsclass.info/
-  affiliation: CCSF
+  organization: CCSF
   occupation_title: Instructor
 ---

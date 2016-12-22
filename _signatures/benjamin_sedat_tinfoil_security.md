@@ -1,5 +1,5 @@
 ---
   name: "Benjamin Sedat"
-  affiliation: "Tinfoil Security"
+  organization: "Tinfoil Security"
   github: "bsedat"
 ---

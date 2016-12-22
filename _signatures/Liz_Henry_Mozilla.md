@@ -1,6 +1,6 @@
 ---
   name: "Liz Henry"
   link: "https://bookmaniac.org/"
-  affiliation: "Mozilla"
+  organization: "Mozilla"
   github: "lizzard"
 ---

@@ -2,6 +2,6 @@
   name: "Tessa Alexanian"
   link: https://twitter.com/tralexanian
   occupation_title: Engineer
-  affiliation: Zymergen
+  organization: Zymergen
   github: alexanian
 ---

@@ -1,6 +1,6 @@
 ---
   name: "Amy Campbell"
   occupation_title: "Software Engineer"
-  affiliation: "Apple"
+  organization: "Apple"
   github: "amycampbell"
 ---

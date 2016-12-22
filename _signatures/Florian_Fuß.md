@@ -1,5 +1,5 @@
 ---
   name: Florian Fuß
-  affiliation: Katzenkontor
+  organization: Katzenkontor
   occupation_title:
 ---

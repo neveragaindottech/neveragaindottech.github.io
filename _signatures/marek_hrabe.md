@@ -2,6 +2,6 @@
   name: "Marek Hrabe"
   link: "https://marekhrabe.com/"
   occupation_title: "JavaScript Engineer"
-  affiliation: "Automattic"
+  organization: "Automattic"
   github: "marekhrabe"
 ---

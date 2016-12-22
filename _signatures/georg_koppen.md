@@ -1,4 +1,4 @@
 ---
   name: "Georg Koppen"
-  affiliation: "Tor Project"
+  organization: "Tor Project"
 ---

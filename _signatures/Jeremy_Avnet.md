@@ -1,6 +1,6 @@
 ---
   name: "Jeremy Avnet"
   link: "https://theory.org"
-  affiliation: "Truss"
+  organization: "Truss"
   github: "brainsik"
 ---

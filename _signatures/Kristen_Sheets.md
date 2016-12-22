@@ -1,5 +1,5 @@
 ---
   name: Kristen Sheets
-  affiliation:
+  organization:
   occupation_title:
 ---

@@ -1,6 +1,6 @@
 ---
   name: "Caitlin Tran"
   link: https://twitter.com/caitlinsays_
-  affiliation: "USC"
+  organization: "USC"
   occupation_title: "Student"
 ---

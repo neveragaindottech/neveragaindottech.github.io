@@ -1,6 +1,6 @@
 ---
   name: "Lonnie Rae"
   link: https://www.medal.com
-  affiliation: "Medal"
+  organization: "Medal"
   occupation_title: "CEO"
 ---

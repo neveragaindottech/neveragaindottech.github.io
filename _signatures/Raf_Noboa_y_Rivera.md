@@ -1,5 +1,5 @@
 ---
   name: Raf Noboa y Rivera
-  affiliation:
+  organization:
   occupation_title:
 ---

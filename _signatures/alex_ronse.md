@@ -1,6 +1,6 @@
 ---
   name: Alex Ronse
-  affiliation: Jogabo
+  organization: Jogabo
   occupation_title: Software Engineer
   github: aronse
 ---

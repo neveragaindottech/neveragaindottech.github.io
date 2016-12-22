@@ -1,6 +1,6 @@
 ---
   name: MacRae Linton
   link: http://macrael.com/
-  affiliation: TrussWorks
+  organization: TrussWorks
   occupation_title:
 ---

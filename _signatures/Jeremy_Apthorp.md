@@ -1,6 +1,6 @@
 ---
   name: Jeremy Apthorp
-  affiliation: Lexy
+  organization: Lexy
   occupation_title: Software Engineer
   link: https://nornagon.net
 ---

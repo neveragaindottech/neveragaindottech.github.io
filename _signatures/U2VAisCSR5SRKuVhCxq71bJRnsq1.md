@@ -1,6 +1,6 @@
 ---
   name: "Maxim Yaskevich"
   link: https://twitter.com/mayaskme
-  affiliation: "Paralect"
+  organization: "Paralect"
   occupation_title: "Engineer"
 ---

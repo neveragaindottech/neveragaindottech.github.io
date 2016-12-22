@@ -1,5 +1,5 @@
 ---
   name: "Srivatsa Ray"
   link: http://sricola.com
-  affiliation: "BuzzFeed"
+  organization: "BuzzFeed"
 ---

@@ -1,5 +1,5 @@
 ---
   name: Don Marti
-  affiliation: Mozilla
+  organization: Mozilla
   github: dmarti
 ---

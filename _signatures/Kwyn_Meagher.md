@@ -2,6 +2,6 @@
   name: Kwyn Meagher
   link: https://blog.kwyn.io
   occupation_title: Software Engineer
-  affiliation: Neustar Inc
+  organization: Neustar Inc
   github: HarleyKwyn
 ---

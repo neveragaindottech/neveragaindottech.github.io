@@ -1,6 +1,6 @@
 ---
   name: Philip John
   link: http://philipjohn.me.uk
-  affiliation: Automattic
+  organization: Automattic
   github: philipjohn
 ---

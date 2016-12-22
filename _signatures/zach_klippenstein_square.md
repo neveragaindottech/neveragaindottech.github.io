@@ -1,7 +1,7 @@
 ---
   name: Zach Klippenstein
   link: http://zachklipp.com
-  affiliation: Square
+  organization: Square
   occupation_title: Android Engineer
   github: zach-klippenstein
 ---

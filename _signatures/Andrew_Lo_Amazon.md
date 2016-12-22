@@ -1,6 +1,6 @@
 ---
   name: Andrew Lo
   occupation_title: Software Development Engineer
-  affiliation: Amazon
+  organization: Amazon
   github: abstractOwl
 ---

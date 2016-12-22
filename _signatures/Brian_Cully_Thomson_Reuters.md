@@ -1,6 +1,6 @@
 ---
   name: "Brian Cully"
   occupation_title: "Software Engineer"
-  affiliation: "Thomson Reuters"
+  organization: "Thomson Reuters"
   github: "bjc"
 ---

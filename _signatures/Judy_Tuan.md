@@ -1,4 +1,4 @@
 ---
   name: Judy Tuan
-  affiliation: Software Engineering Manager
+  organization: Software Engineering Manager
 ---

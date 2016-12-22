@@ -1,6 +1,6 @@
 ---
   name: "Peter Skipper"
   occupation_title: "Data Scientist"
-  affiliation: "Civis Analytics"
+  organization: "Civis Analytics"
   github: "peterskipper"
 ---

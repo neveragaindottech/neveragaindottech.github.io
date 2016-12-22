@@ -1,6 +1,6 @@
 ---
   name: "Jay Harlow"
   occupation_title: "Head of Product"
-  affiliation: "Perka"
+  organization: "Perka"
   github: "pilgrimmills"
 ---

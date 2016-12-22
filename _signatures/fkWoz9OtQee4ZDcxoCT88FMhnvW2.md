@@ -1,4 +1,4 @@
 ---
   name: "Adam Gray"
-  affiliation: "IBM Cloud"
+  organization: "IBM Cloud"
 ---

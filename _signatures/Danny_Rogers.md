@@ -1,6 +1,6 @@
 ---
   name: Danny Rogers
   link: http://www.dannyrogers.net/
-  affiliation: Terbium Labs
+  organization: Terbium Labs
   occupation_title:
 ---

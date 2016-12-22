@@ -1,6 +1,6 @@
 ---
   name: "Jim Cassidy"
   occupation_title: "Software Engineer"
-  affiliation: "Human Being"
+  organization: "Human Being"
   github: "codewheeney"
 ---

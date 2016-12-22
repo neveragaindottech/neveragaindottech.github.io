@@ -1,6 +1,6 @@
 ---
   name: "Benjamin Kerensa"
   link: https://twitter.com/bkerensa
-  affiliation: "Mozilla"
+  organization: "Mozilla"
   occupation_title: "Developer"
 ---

@@ -1,6 +1,6 @@
 ---
   name: Michael Cohen
   link: https://twitter.com/mcohen01
-  affiliation: Twilio
+  organization: Twilio
   github: mcohen01
 ---

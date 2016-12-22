@@ -1,5 +1,5 @@
 ---
   name: Carl Jackson
-  affiliation: Stripe
+  organization: Stripe
   github: zenazn
 ---

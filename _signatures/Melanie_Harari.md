@@ -1,5 +1,5 @@
 ---
   name: Melanie Harari
-  affiliation: Automattic
+  organization: Automattic
   github: melanieharari
 ---

@@ -1,4 +1,4 @@
 ---
   name: Amelia Abreu
-  affiliation: UX Night School
+  organization: UX Night School
 ---

@@ -1,4 +1,4 @@
 ---
   name: Jeff Hodges
-  affiliation: Darkish Green
+  organization: Darkish Green
 ---

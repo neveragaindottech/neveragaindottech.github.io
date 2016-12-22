@@ -1,5 +1,5 @@
 ---
   name: Lincoln W Daniel
-  affiliation:
+  organization:
   occupation_title: Full Stack Software Engineer
 ---

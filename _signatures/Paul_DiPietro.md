@@ -1,5 +1,5 @@
 ---
   name: "Paul DiPietro"
-  affiliation: "Microsoft"
+  organization: "Microsoft"
   github: "pauldipietro"
 ---

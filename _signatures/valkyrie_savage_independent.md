@@ -2,6 +2,6 @@
   name: "Valkyrie Savage"
   link: "http://valkyriesavage.com"
   occupation_title: "Researcher and Consultant"
-  affiliation: "Savage Internet"
+  organization: "Savage Internet"
   github: "valkyriesavage"
 ---

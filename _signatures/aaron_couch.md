@@ -1,6 +1,6 @@
 ---
   name: Aaron Couch
   link: https://github.com/acouch
-  affiliation: DKAN
+  organization: DKAN
   github: acouch
 ---

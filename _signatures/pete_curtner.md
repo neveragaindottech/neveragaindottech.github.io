@@ -1,4 +1,4 @@
 ---
   name: "Pete Curtner"
-  affiliation: "ItemMaster LLC"
+  organization: "ItemMaster LLC"
 ---

@@ -1,6 +1,6 @@
 ---
   name: Eric Tjossem
-  affiliation: SendGrid
+  organization: SendGrid
   occupation_title: Front-End Engineer
   github: etjossem
 ---

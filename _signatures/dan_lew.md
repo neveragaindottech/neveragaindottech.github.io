@@ -1,6 +1,6 @@
 ---
   name: Dan Lew
   link: http://danlew.net
-  affiliation: Trello
+  organization: Trello
   github: dlew
 ---

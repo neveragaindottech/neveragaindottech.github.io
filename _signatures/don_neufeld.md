@@ -1,4 +1,4 @@
 ---
   name: "Don Neufeld"
-  affiliation: "Classpass"
+  organization: "Classpass"
 ---

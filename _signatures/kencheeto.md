@@ -1,5 +1,5 @@
 ---
-  affiliation: Zendesk
+  organization: Zendesk
   link: https://www.kencheeto.com
   github: kencheeto
   name: Kenshiro Nakagawa

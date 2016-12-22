@@ -1,5 +1,5 @@
 ---
   name: Brittany Fuller
-  affiliation: Roadmap
+  organization: Roadmap
   occupation_title: Founder & CEO
 ---

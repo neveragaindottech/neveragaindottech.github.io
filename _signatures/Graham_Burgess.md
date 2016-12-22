@@ -1,4 +1,4 @@
 ---
   name: Graham Burgess
-  affiliation: System Operations, Akamai
+  organization: System Operations, Akamai
 ---

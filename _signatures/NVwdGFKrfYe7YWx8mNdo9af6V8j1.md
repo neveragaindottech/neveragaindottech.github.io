@@ -1,6 +1,6 @@
 ---
   name: "Brandon Konkle"
   link: https://twitter.com/bkonkle
-  affiliation: "Ecliptic"
+  organization: "Ecliptic"
   occupation_title: "Web Developer"
 ---

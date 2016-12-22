@@ -1,5 +1,5 @@
 ---
   name: David Glasser
-  affiliation: Meteor Development Group
+  organization: Meteor Development Group
   github: glasser
 ---

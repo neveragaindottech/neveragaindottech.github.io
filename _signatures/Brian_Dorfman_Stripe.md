@@ -1,6 +1,6 @@
 ---
   name: "Brian Dorfman"
   occupation_title: "Software Engineer"
-  affiliation: "Stripe"
+  organization: "Stripe"
   github: "bdorfman"
 ---

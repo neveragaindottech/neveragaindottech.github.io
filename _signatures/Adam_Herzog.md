@@ -1,6 +1,6 @@
 ---
   name: Adam Herzog
   link: https://twitter.com/ah3rz
-  affiliation: Trifork
+  organization: Trifork
   github: ah3rz
 ---

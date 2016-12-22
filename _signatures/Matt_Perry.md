@@ -1,6 +1,6 @@
 ---
   name: Matt Perry
-  affiliation: Automattic
+  organization: Automattic
   occupation_title: Code Wrangler
   github: mattoperry
 ---

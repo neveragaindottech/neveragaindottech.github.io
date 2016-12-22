@@ -1,5 +1,5 @@
 ---
   name: Eric Diamond
-  affiliation: Leo Burnett Worldwide
+  organization: Leo Burnett Worldwide
   occupation_title: Global Digital Strategist
 ---

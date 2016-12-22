@@ -1,6 +1,6 @@
 ---
   name: Aviva Pinchas
-  affiliation: Automattic
+  organization: Automattic
   occupation_title: Growth Marketer
   github: avivapinchas
 ---

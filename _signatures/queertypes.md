@@ -1,6 +1,6 @@
 ---
   name: Allele Dev
-  affiliation: Simple
+  organization: Simple
   link: https://twitter.com/queertypes
   github: queertypes
 ---

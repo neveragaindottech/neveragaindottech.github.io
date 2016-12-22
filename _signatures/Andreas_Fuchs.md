@@ -1,4 +1,4 @@
 ---
   name: Andreas Fuchs
-  affiliation: Stripe
+  organization: Stripe
 ---

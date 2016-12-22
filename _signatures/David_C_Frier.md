@@ -1,6 +1,6 @@
 ---
   name: David C Frier
   link: http://www.kahomono.com/
-  affiliation:
+  organization:
   occupation_title:
 ---

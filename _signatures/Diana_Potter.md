@@ -1,5 +1,5 @@
 ---
   name: Diana Potter
-  affiliation: Automattic
+  organization: Automattic
   github: drpottex
 ---

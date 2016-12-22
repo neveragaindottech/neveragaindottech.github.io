@@ -1,4 +1,4 @@
 ---
   name: Adam C. Foltzer
-  affiliation: Galois
+  organization: Galois
 ---

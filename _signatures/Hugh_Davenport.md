@@ -1,5 +1,5 @@
 ---
   name: Hugh Davenport
-  affiliation:
+  organization:
   occupation_title: Software developer and security consultant
 ---

@@ -1,4 +1,4 @@
 ---
   name: Lisa Rokusek
-  affiliation: ARG
+  organization: ARG
 ---

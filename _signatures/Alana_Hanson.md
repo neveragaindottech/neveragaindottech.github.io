@@ -1,6 +1,6 @@
 ---
   name: Alana Hanson
   link: http://alanahanson.com
-  affiliation: Leapfrog Online
+  organization: Leapfrog Online
   github: alanahanson
 ---

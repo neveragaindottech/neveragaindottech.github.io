@@ -2,6 +2,6 @@
   name: "Joshua Marker"
   link: "http://www.tooluser.org"
   occupation_title: "Senior Engineer"
-  affiliation: "UserTesting.com"
+  organization: "UserTesting.com"
   github: "tooluser"
 ---

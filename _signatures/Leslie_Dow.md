@@ -1,5 +1,5 @@
 ---
   name: Leslie Dow
-  affiliation:
+  organization:
   occupation_title: Teacher, Writer, Scientist
 ---

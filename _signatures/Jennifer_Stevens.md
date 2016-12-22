@@ -1,5 +1,5 @@
 ---
   name: Jennifer Stevens
-  affiliation: Emerson College
+  organization: Emerson College
   occupation_title: Instructional Technology
 ---

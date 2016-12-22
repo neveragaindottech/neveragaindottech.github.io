@@ -1,6 +1,6 @@
 ---
   name: Jack Sutherland
   link: http://jacksutherland.com/
-  affiliation:
+  organization:
   occupation_title: Senior Web Developer
 ---

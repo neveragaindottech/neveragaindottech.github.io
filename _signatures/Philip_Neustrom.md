@@ -1,4 +1,4 @@
 ---
   name: Philip Neustrom
-  affiliation: Shotwell Labs
+  organization: Shotwell Labs
 ---

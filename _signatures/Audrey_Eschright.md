@@ -1,6 +1,6 @@
 ---
   name: Audrey Eschright
   link: https://recompilermag.com
-  affiliation: Recompiler Media
+  organization: Recompiler Media
   github: aeschright
 ---

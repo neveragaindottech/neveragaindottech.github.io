@@ -1,5 +1,5 @@
 ---
   name: Jason Cox
-  affiliation: Aedos Ventures
+  organization: Aedos Ventures
   occupation_title: Managing Partner
 ---

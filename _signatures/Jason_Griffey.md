@@ -1,6 +1,6 @@
 ---
   name: Jason Griffey
   link: http://twitter.com/griffey
-  affiliation: Measure the Future Project
+  organization: Measure the Future Project
   github: griffey
 ---

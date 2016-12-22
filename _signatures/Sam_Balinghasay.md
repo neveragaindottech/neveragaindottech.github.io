@@ -1,4 +1,4 @@
 ---
   name: Sam Balinghasay
-  affiliation: BuzzFeed
+  organization: BuzzFeed
 ---

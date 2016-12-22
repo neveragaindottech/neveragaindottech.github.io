@@ -1,6 +1,6 @@
 ---
   name: "Ryan Miron"
   link: https://twitter.com/ryanisfluffy
-  affiliation: "Elsevier"
+  organization: "Elsevier"
   occupation_title: "Software Engineer"
 ---

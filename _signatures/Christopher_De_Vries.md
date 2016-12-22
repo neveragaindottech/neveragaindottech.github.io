@@ -1,5 +1,5 @@
 ---
   name: Christopher De Vries
-  affiliation: Hindsait
+  organization: Hindsait
   github: devries
 ---

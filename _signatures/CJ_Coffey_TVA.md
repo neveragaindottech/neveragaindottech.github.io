@@ -1,7 +1,7 @@
 ---
   name: CJ Coffey
   link: https://cjcoffey.com
-  affiliation: TVA
+  organization: TVA
   occupation_title: Software Engineer
   github: dually8
 ---

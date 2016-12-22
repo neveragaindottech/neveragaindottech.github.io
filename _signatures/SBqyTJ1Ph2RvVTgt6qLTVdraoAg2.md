@@ -1,6 +1,6 @@
 ---
   name: "Mike Kale"
   link: http://mkale.com/
-  affiliation: "Elemental Technologies"
+  organization: "Elemental Technologies"
   occupation_title: "Software Developer"
 ---

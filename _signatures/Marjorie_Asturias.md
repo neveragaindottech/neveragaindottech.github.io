@@ -1,5 +1,5 @@
 ---
   name: Marjorie R. Asturias
-  affiliation: Automattic
+  organization: Automattic
   github: Lochlaer
 ---

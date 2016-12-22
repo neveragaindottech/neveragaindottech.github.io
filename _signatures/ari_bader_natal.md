@@ -1,6 +1,6 @@
 ---
   name: "Ari Bader-Natal"
   link: "https://aribadernatal.com"
-  affiliation: "Minerva Project"
+  organization: "Minerva Project"
   github: "aribn"
 ---

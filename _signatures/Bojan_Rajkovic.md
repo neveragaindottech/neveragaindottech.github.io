@@ -1,6 +1,6 @@
 ---
   name: Bojan Rajković
   link: https://twitter.com/bojanrajkovic
-  affiliation: Microsoft
+  organization: Microsoft
   github: bojanrajkovic
 ---

@@ -2,7 +2,7 @@
   name: "Jason Champion"
   link: "http://zetacentauri.com"
   occupation_title: "Founder"
-  affiliation: "Zeta Centauri"
+  organization: "Zeta Centauri"
   github: "Xangis"
 ---
 

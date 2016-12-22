@@ -1,5 +1,5 @@
 ---
   name: Robin Gist
-  affiliation:
+  organization:
   occupation_title: Software Architect
 ---

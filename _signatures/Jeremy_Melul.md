@@ -1,7 +1,7 @@
 ---
   name: Jeremy Melul
   link: https://twitter.com/jmelul
-  affiliation: JOGABO
+  organization: JOGABO
   occupation_title: CEO & Founder
   github: jmelul
 ---

@@ -1,4 +1,4 @@
 ---
   name: Michael Marrero
-  affiliation: Training Solutions Engineer, Puppet
+  organization: Training Solutions Engineer, Puppet
 ---

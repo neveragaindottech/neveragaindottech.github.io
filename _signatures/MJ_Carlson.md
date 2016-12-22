@@ -1,4 +1,4 @@
 ---
   name: MJ Carlson
-  affiliation: Google
+  organization: Google
 ---

@@ -1,5 +1,5 @@
 ---
   name: Mykola Bilokonsky
-  affiliation: Data Obscura
+  organization: Data Obscura
   occupation_title:
 ---

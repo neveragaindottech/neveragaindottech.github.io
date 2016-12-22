@@ -1,5 +1,5 @@
 ---
   name: Shale Craig
-  affiliation: Stripe
+  organization: Stripe
   github: shalecraig
 ---

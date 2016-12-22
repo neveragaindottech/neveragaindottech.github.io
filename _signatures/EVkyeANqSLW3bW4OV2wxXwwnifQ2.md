@@ -1,4 +1,4 @@
 ---
   name: "Nick Reilingh"
-  affiliation: "Bard College"
+  organization: "Bard College"
 ---

@@ -1,5 +1,5 @@
 ---
   name: Hillel Arnold
   link: http://hillelarnold.com
-  affiliation: Rockefeller Archive Center
+  organization: Rockefeller Archive Center
 ---

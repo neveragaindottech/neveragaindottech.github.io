@@ -1,4 +1,4 @@
 ---
   name: Nate Parsons
-  affiliation: Planet Labs, Inc.
+  organization: Planet Labs, Inc.
 ---

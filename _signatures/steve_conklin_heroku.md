@@ -1,5 +1,5 @@
 ---
   name: "Steve Conklin"
-  affiliation: "Heroku"
+  organization: "Heroku"
   github: "sconklin"
 ---

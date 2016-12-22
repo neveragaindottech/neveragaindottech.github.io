@@ -1,6 +1,6 @@
 ---
   name: "Patrick East"
   link: https://twitter.com/PatEastDesign
-  affiliation: "GitHub"
+  organization: "GitHub"
   occupation_title: "Enterprise Support Agent"
 ---

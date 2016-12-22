@@ -1,4 +1,4 @@
 ---
   name: Heather Rivers
-  affiliation: Director of Engineering, Mode Analytics
+  organization: Director of Engineering, Mode Analytics
 ---

@@ -1,6 +1,6 @@
 ---
   name: Mark Stickel
-  affiliation: ItsOn
+  organization: ItsOn
   occupation_title: Software Engineer
   github: mstickel
 ---

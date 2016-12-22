@@ -1,6 +1,6 @@
 ---
   name: "Will Fitzgerald"
   link: https://twitter.com/willf
-  affiliation: "GitHub, Inc"
+  organization: "GitHub, Inc"
   occupation_title: "Principal Engineer"
 ---

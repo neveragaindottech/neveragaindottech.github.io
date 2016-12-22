@@ -1,7 +1,7 @@
 ---
   name: Sarah Burt
   link: https://seeb.github.io
-  affiliation: PresenceLearning
+  organization: PresenceLearning
   occupation_title: DevOps Engineer
   github: seeb
 ---

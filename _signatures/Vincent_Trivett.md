@@ -1,4 +1,4 @@
 ---
   name: Vincent Trivett
-  affiliation: Software Developer
+  organization: Software Developer
 ---

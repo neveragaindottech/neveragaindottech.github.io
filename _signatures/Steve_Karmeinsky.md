@@ -1,6 +1,6 @@
 ---
   name: Steve Karmeinsky
-  affiliation: Placeholder Ltd
+  organization: Placeholder Ltd
   occupation_title:
   link: https://twitter.com/stevekennedyuk
 ---

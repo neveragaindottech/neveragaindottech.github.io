@@ -1,6 +1,6 @@
 ---
   name: "Andrew Boyko"
   link: https://twitter.com/aboyko
-  affiliation: "Apple, Inc."
+  organization: "Apple, Inc."
   occupation_title: "Software Engineer"
 ---

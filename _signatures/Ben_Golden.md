@@ -1,4 +1,4 @@
 ---
   name: Ben Golden
-  affiliation: TUNE, Inc.
+  organization: TUNE, Inc.
 ---

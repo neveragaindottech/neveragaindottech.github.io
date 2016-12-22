@@ -1,5 +1,5 @@
 ---
   name: Paul Dagnelie
-  affiliation: Delphix
+  organization: Delphix
   occupation_title:
 ---

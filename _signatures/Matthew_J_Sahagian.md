@@ -1,6 +1,6 @@
 ---
   name: Matthew J. Sahagian
   occupation_title: Lead Web Engineer
-  affiliation: Imarc LLC
+  organization: Imarc LLC
   github: mattsah
 ---

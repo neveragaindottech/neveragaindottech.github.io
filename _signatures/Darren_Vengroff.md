@@ -1,6 +1,6 @@
 ---
   name: Darren Vengroff
   link: https://www.twitter.com/vengroff
-  affiliation: Chief Scientist, Hestan
+  organization: Chief Scientist, Hestan
   github: vengroff
 ---

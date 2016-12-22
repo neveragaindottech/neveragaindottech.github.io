@@ -1,6 +1,6 @@
 ---
   name: "Benjamin E Chodroff"
   link: https://twitter.com/benchodroff
-  affiliation: "CloudOne"
+  organization: "CloudOne"
   occupation_title: "CTO"
 ---

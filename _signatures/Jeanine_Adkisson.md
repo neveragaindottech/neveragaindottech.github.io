@@ -1,6 +1,6 @@
 ---
   name: Jeanine Adkisson
   link: https://twitter.com/javiervegas
-  affiliation: GitLab
+  organization: GitLab
   github: jneen
 ---

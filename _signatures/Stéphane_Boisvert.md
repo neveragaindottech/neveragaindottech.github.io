@@ -1,5 +1,5 @@
 ---
   name: "Stéphane Boisvert"
-  affiliation: Automattic
+  organization: Automattic
   github: sboisvert
 ---

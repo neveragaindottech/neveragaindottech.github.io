@@ -1,5 +1,5 @@
 ---
   name: Paul Ford
-  affiliation: Postlight
+  organization: Postlight
   occupation_title: Co-founder
 ---

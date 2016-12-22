@@ -1,7 +1,7 @@
 ---
   name: Zac Anger
   link: http://zacanger.com
-  affiliation: Jane.com
+  organization: Jane.com
   occupation_title: Developer
   github: zacanger
 ---

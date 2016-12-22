@@ -1,6 +1,6 @@
 ---
   name: "Nicholas Wold"
   occupation_title: "Software Engineer"
-  affiliation: "Study.com"
+  organization: "Study.com"
   github: "nicholaswold"
 ---

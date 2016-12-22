@@ -1,4 +1,4 @@
 ---
   name: Mike Hoye
-  affiliation: Mozilla
+  organization: Mozilla
 ---

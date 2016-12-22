@@ -1,4 +1,4 @@
 ---
   name: Siena Aguayo
-  affiliation: Software Engineer, Indiegogo
+  organization: Software Engineer, Indiegogo
 ---

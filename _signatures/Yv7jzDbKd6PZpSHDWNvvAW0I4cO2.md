@@ -1,6 +1,6 @@
 ---
   name: "Richard Magahiz"
   link: https://twitter.com/richmagahiz
-  affiliation: "DAQRI"
+  organization: "DAQRI"
   occupation_title: "Devops Engineer"
 ---

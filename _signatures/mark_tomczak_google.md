@@ -1,5 +1,5 @@
 ---
   name: "Mark T. Tomczak"
-  affiliation: "Google"
+  organization: "Google"
   github: "fixermark"
 ---

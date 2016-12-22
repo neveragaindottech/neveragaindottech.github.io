@@ -1,6 +1,6 @@
 ---
   name: "Idan Gazit"
   link: https://twitter.com/idangazit
-  affiliation: "Heroku"
+  organization: "Heroku"
   occupation_title: "Data UX"
 ---

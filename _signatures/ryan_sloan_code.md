@@ -1,6 +1,6 @@
 ---
   name: "Ryan Sloan"
   link: "http://twitter.com/ryansloan"
-  affiliation: "Code.org"
+  organization: "Code.org"
   github: "ryansloan"
 ---

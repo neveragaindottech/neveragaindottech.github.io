@@ -1,5 +1,5 @@
 ---
   name: John Maeda
-  affiliation: Automattic
+  organization: Automattic
   github: johnmaeda
 ---

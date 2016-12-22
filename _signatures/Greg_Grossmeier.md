@@ -1,5 +1,5 @@
 ---
   name: Greg Grossmeier
-  affiliation: Engineering Manager, Wikimedia Foundation
+  organization: Engineering Manager, Wikimedia Foundation
   github: greggrossmeier
 ---

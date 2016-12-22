@@ -1,5 +1,5 @@
 ---
   name: "Filippo Valsorda"
-  affiliation: "Cloudflare"
+  organization: "Cloudflare"
   github: "FiloSottile"
 ---

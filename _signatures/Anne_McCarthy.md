@@ -1,7 +1,7 @@
 ---
   name: Anne McCarthy
   link: https://annezazu.com/
-  affiliation: Automattic
+  organization: Automattic
   occupation_title: Happiness Engineer
   github: annezazuu
 ---

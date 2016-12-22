@@ -1,4 +1,4 @@
 ---
   name: Anthony Martinez
-  affiliation: Twitter
+  organization: Twitter
 ---

@@ -1,4 +1,4 @@
 ---
   name: Sebastien Armand
-  affiliation: Autodesk
+  organization: Autodesk
 ---

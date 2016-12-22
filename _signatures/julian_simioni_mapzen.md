@@ -1,6 +1,6 @@
 ---
   name: Julian Simioni
   link: https://juliansimioni.com
-  affiliation: Mapzen
+  organization: Mapzen
   github: orangejulius
 ---

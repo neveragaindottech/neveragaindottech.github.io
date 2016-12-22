@@ -1,6 +1,6 @@
 ---
   name: "David Obando"
   link: "https://twitter.com/DavidObando"
-  affiliation: "Microsoft"
+  organization: "Microsoft"
   github: "DavidObando"
 ---

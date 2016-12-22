@@ -1,6 +1,6 @@
 ---
   name: "Nelson Elhage"
   link: "https://nelhage.com"
-  affiliation: Stripe
+  organization: Stripe
   github: nelhage
 ---

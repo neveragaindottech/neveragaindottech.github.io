@@ -1,5 +1,5 @@
 ---
   name: Iannick Brouillette
-  affiliation: Meltwater
+  organization: Meltwater
   occupation_title: Senior Software Engineer
 ---

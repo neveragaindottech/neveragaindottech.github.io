@@ -1,6 +1,6 @@
 ---
   name: Mark Drovdahl
-  affiliation: Automattic
+  organization: Automattic
   occupation_title: Disentangler
   github: mdrovdahl
 ---

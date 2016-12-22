@@ -1,5 +1,5 @@
 ---
   name: John Biesnecker
-  affiliation: Software Engineer, Facebook
+  organization: Software Engineer, Facebook
   github: biesnecker
 ---

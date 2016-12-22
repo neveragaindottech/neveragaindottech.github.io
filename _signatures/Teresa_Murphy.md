@@ -1,4 +1,4 @@
 ---
   name: Teresa Murphy
-  affiliation: Marketing Associate, Indiegogo
+  organization: Marketing Associate, Indiegogo
 ---

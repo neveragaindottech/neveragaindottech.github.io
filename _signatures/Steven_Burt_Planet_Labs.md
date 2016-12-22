@@ -1,6 +1,6 @@
 ---
   name: "Steven Burt"
   occupation_title: "Software Engineer"
-  affiliation: "Planet Labs, Inc."
+  organization: "Planet Labs, Inc."
   github: "sjburt"
 ---

@@ -1,6 +1,6 @@
 ---
   name: Olivier Lacan
   link: http://olivierlacan.com
-  affiliation: Software Engineer
+  organization: Software Engineer
   github: olivierlacan
 ---

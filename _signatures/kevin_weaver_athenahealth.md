@@ -1,5 +1,5 @@
 ---
   name: Kevin Weaver
-  affiliation: athenahealth
+  organization: athenahealth
   github: kbweaver
 ---

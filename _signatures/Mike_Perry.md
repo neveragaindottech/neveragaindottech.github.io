@@ -1,4 +1,4 @@
 ---
   name: Mike Perry
-  affiliation: Tor Project
+  organization: Tor Project
 ---

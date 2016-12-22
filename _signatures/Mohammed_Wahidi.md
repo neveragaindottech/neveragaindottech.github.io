@@ -1,4 +1,4 @@
 ---
   name: Mohammed Wahidi
-  affiliation: Technology Procurement
+  organization: Technology Procurement
 ---

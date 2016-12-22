@@ -1,6 +1,6 @@
 ---
   name: "Fatima Khan"
   link: https://twitter.com/netlawtweets
-  affiliation: "Airpush"
+  organization: "Airpush"
   occupation_title: "Vice President, Legal"
 ---

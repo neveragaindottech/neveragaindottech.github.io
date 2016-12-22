@@ -1,4 +1,4 @@
 ---
   name: Patrick Granvold
-  affiliation: West Coast Informatics, LLC
+  organization: West Coast Informatics, LLC
 ---

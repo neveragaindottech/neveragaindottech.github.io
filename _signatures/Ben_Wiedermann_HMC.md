@@ -1,5 +1,5 @@
 ---
   name: Ben Wiedermann
-  affiliation: Harvey Mudd College
+  organization: Harvey Mudd College
   github: bwiedermann
 ---

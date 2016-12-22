@@ -1,6 +1,6 @@
 ---
   name: "Sparrow Rubin"
   link: "https://twitter.com/_sprrw"
-  affiliation: "Akamai Technologies"
+  organization: "Akamai Technologies"
   github: "sparrowunderscore"
 ---

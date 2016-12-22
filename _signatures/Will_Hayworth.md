@@ -1,6 +1,6 @@
 ---
   name: Will Hayworth
   link: https://twitter.com/_wsh
-  affiliation: Google
+  organization: Google
   github: wsh
 ---

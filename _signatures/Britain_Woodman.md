@@ -1,5 +1,5 @@
 ---
   name: Britain Woodman
-  affiliation: University of Michigan
+  organization: University of Michigan
   occupation_title: ITS
 ---

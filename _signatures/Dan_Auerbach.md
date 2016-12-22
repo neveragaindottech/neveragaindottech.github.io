@@ -1,4 +1,4 @@
 ---
   name: Dan Auerbach
-  affiliation: Application Developer, Scripps Institution of Oceanography
+  organization: Application Developer, Scripps Institution of Oceanography
 ---

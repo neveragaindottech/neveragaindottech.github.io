@@ -1,4 +1,4 @@
 ---
   name: Sheila Miguez
-  affiliation: Canonical
+  organization: Canonical
 ---

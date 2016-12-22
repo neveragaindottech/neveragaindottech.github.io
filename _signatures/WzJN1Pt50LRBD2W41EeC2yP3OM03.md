@@ -1,4 +1,4 @@
 ---
   name: "Lukas Spieß"
-  affiliation: "Microsoft"
+  organization: "Microsoft"
 ---

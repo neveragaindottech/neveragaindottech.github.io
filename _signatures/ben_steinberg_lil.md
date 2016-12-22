@@ -1,6 +1,6 @@
 ---
   name: Ben Steinberg
-  affiliation: Harvard University
+  organization: Harvard University
   occupation_title: DevOps Engineer
   github: bensteinberg
 ---

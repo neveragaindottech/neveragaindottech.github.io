@@ -1,4 +1,4 @@
 ---
   name: Jon Wood
-  affiliation: Developer, hubbub.co.uk
+  organization: Developer, hubbub.co.uk
 ---

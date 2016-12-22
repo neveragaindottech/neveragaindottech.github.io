@@ -1,6 +1,6 @@
 ---
   name: "Joe Klonowski"
   occupation_title: "Software Development Engineer"
-  affiliation: "Amazon"
+  organization: "Amazon"
   github: "jklonowski-hmc"
 ---

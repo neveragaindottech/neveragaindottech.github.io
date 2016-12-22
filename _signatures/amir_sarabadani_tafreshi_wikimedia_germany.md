@@ -1,6 +1,6 @@
 ---
   name: "Amir Sarabadani Tafreshi"
   link: "https://wikimediafoundation.org/wiki/User:Ladsgroup"
-  affiliation: "Wikimedia Deutschland"
+  organization: "Wikimedia Deutschland"
   github: "Ladsgroup"
 ---

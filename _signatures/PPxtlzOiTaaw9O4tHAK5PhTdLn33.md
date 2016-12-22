@@ -1,6 +1,6 @@
 ---
   name: "Mateo Rodriguez"
   link: https://twitter.com/mateornaut
-  affiliation: "Foursquare"
+  organization: "Foursquare"
   occupation_title: "Infrastructure Engineer"
 ---

@@ -1,5 +1,5 @@
 ---
   name: Patrick White
-  affiliation:
+  organization:
   occupation_title:
 ---

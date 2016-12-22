@@ -1,4 +1,4 @@
 ---
   name: Ian Olsen
-  affiliation: Engineering Manager, GitHub
+  organization: Engineering Manager, GitHub
 ---

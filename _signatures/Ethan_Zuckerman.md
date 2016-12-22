@@ -1,4 +1,4 @@
 ---
   name: Ethan Zuckerman
-  affiliation: Center for Media at MIT
+  organization: Center for Media at MIT
 ---

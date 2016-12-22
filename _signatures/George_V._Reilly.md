@@ -1,6 +1,6 @@
 ---
   name: George V. Reilly
   link: https://twitter.com/georgevreilly
-  affiliation: MetaBrite
+  organization: MetaBrite
   github: georgevreilly
 ---

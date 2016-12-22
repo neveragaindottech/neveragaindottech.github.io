@@ -2,6 +2,6 @@
   name: Scott Sweeny
   link: https://ssweeny.net
   occupation_title: Software Engineer
-  affiliation: Canonical
+  organization: Canonical
   github: ssweeny
 ---

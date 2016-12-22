@@ -1,5 +1,5 @@
 ---
-  affiliation: Occipital
+  organization: Occipital
   link: https://extrafuture.com
   github: philnelson
   name: Phil Nelson

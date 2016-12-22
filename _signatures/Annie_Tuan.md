@@ -1,4 +1,4 @@
 ---
   name: Annie Tuan
-  affiliation: Mobile Software Engineer
+  organization: Mobile Software Engineer
 ---

@@ -1,5 +1,5 @@
 ---
   name: Matthew Klapman
-  affiliation: AirStash
+  organization: AirStash
   occupation_title:
 ---

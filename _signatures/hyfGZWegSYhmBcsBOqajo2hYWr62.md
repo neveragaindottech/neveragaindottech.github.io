@@ -1,6 +1,6 @@
 ---
   name: "Neerav Kumar"
   link: http://nero.io
-  affiliation: "Cloudflare"
+  organization: "Cloudflare"
   occupation_title: "SRE"
 ---

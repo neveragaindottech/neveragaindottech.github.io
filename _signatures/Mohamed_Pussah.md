@@ -1,4 +1,4 @@
 ---
   name: Mohamed Pussah
-  affiliation: Software Developer, Kantar Media
+  organization: Software Developer, Kantar Media
 ---

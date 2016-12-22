@@ -1,4 +1,4 @@
 ---
   name: Anil Dash
-  affiliation: Fog Creek Software
+  organization: Fog Creek Software
 ---

@@ -1,7 +1,7 @@
 ---
   name: Glen Nathaniel Merritt
   link: https://twitter.com/gnmerritt
-  affiliation: Tamr
+  organization: Tamr
   occupation_title: Software Engineer
   github: gnmerritt
 ---

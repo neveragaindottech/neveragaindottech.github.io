@@ -1,4 +1,4 @@
 ---
   name: Sophie Haskins
-  affiliation: SRE, GitHub
+  organization: SRE, GitHub
 ---

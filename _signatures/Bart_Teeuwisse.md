@@ -1,6 +1,6 @@
 ---
   name: Bart Teeuwisse
   link: https://bartt.me
-  affiliation: Google
+  organization: Google
   github: bartt
 ---

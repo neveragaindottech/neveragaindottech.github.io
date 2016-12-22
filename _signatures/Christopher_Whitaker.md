@@ -1,4 +1,4 @@
 ---
   name: Christopher Whitaker
-  affiliation: Chi Hack Night
+  organization: Chi Hack Night
 ---

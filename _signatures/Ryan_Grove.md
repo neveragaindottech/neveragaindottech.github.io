@@ -1,6 +1,6 @@
 ---
   name: Ryan Grove
   link: https://twitter.com/yaypie
-  affiliation: Cake
+  organization: Cake
   github: rgrove
 ---

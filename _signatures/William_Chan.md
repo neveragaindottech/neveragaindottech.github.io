@@ -1,6 +1,6 @@
 ---
   name: William Chan
   link: https://github.com/williamchan
-  affiliation: LinkedIn
+  organization: LinkedIn
   github: williamchan
 ---

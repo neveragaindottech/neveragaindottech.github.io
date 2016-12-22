@@ -1,4 +1,4 @@
 ---
   name: Ted Scharff
-  affiliation: Planet Labs
+  organization: Planet Labs
 ---

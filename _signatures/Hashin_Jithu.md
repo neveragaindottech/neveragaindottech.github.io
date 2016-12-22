@@ -1,6 +1,6 @@
 ---
   name: Hashin Jithu
   link:
-  affiliation:
+  organization:
   occupation_title:
 ---

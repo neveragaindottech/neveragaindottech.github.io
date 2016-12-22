@@ -1,6 +1,6 @@
 ---
   name: Tyler Horan
   link: http://tylerhoran.com
-  affiliation: Horan LLC
+  organization: Horan LLC
   github: tylerhoran
 ---

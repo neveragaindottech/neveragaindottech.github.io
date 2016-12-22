@@ -1,5 +1,5 @@
 ---
   name: "Robert Edmonds"
-  affiliation: "Fastly"
+  organization: "Fastly"
   github: "edmonds"
 ---

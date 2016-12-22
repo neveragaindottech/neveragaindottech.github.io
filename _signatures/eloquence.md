@@ -1,7 +1,7 @@
 ---
   name: Erik Moeller
   occupation_title: Founder
-  affiliation: lib.reviews
+  organization: lib.reviews
   link:
   github: eloquence
 ---

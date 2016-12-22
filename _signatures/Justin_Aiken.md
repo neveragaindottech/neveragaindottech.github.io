@@ -2,6 +2,6 @@
   name: JustinAiken
   link: https://justinaiken.com
   occupation_title: Senior Software Engineer
-  affiliation: UserTesting
+  organization: UserTesting
   github: JustinAiken
 ---

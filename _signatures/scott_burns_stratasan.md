@@ -1,6 +1,6 @@
 ---
   name: "Scott Burns"
   occupation_title: "VP of Engineering"
-  affiliation: "Stratasan"
+  organization: "Stratasan"
   github: "sburns"
 ---

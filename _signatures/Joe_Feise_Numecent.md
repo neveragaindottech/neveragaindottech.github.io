@@ -1,6 +1,6 @@
 ---
   name: "Joe Feise"
   occupation_title: "Senior Software Engineer"
-  affiliation: "Numecent"
+  organization: "Numecent"
   github: "jfeise"
 ---

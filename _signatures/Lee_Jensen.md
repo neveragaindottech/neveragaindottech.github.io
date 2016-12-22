@@ -1,6 +1,6 @@
 ---
   name: Lee Jensen
   link: https://twitter.com/outerim
-  affiliation: Big Cartel LLC
+  organization: Big Cartel LLC
   github: outerim
 ---

@@ -1,4 +1,4 @@
 ---
   name: "Sara Smollett"
-  affiliation: "Google"
+  organization: "Google"
 ---

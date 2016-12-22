@@ -1,5 +1,5 @@
 ---
-  affiliation: Software Engineer
+  organization: Software Engineer
   link: http://www.jamesewelch.com
   github: jamesewelch
   name: James Welch

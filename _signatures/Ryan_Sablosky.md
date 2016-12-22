@@ -1,4 +1,4 @@
 ---
   name: Ryan Sablosky
-  affiliation: Bard College
+  organization: Bard College
 ---

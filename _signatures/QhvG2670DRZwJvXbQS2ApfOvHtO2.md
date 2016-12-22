@@ -1,4 +1,4 @@
 ---
   name: "Meggyn Watkins"
-  affiliation: "Google"
+  organization: "Google"
 ---

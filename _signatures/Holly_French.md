@@ -1,4 +1,4 @@
 ---
   name: Holly French
-  affiliation: Redfin
+  organization: Redfin
 ---

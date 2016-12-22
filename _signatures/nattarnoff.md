@@ -1,5 +1,5 @@
 ---
-  affiliation: SSB BART Group
+  organization: SSB BART Group
   link: https://twitter.com/nattarnoff
   occupation_title: Technical Consultant
   name: Nat Tarnoff

@@ -1,5 +1,5 @@
 ---
   name: Ben Lambert
-  affiliation: IBM Watson
+  organization: IBM Watson
   github: b-lambert
 ---

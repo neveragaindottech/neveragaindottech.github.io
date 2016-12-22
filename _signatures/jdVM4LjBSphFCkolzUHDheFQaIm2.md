@@ -1,6 +1,6 @@
 ---
   name: "Isaac Clerencia"
   link: https://twitter.com/isaaccp
-  affiliation: "Google"
+  organization: "Google"
   occupation_title: "SRE"
 ---

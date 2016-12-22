@@ -1,5 +1,5 @@
 ---
   name: Joe Auricchio
-  affiliation:
+  organization:
   occupation_title:
 ---

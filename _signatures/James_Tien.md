@@ -1,6 +1,6 @@
 ---
   name: James Tien
   link: https://softmanjournal.wordpress.com/
-  affiliation: Automattic
+  organization: Automattic
   github: southp
 ---

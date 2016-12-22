@@ -1,5 +1,5 @@
 ---
   name: Praveen Sinha
   occupation_title: Software Engineer
-  affiliation: Liberating Ourselves Locally
+  organization: Liberating Ourselves Locally
 ---

@@ -1,5 +1,5 @@
 ---
   name: David Galiel
-  affiliation: Elbowfish
+  organization: Elbowfish
   occupation_title: CEO
 ---

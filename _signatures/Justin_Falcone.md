@@ -1,4 +1,4 @@
 ---
   name: Justin Falcone
-  affiliation: BuzzFeed
+  organization: BuzzFeed
 ---

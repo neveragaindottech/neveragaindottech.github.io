@@ -1,4 +1,4 @@
 ---
   name: George Tankersley
-  affiliation: Cloudflare
+  organization: Cloudflare
 ---

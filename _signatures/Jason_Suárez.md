@@ -1,4 +1,4 @@
 ---
   name: Jason Suárez
-  affiliation: Zendesk
+  organization: Zendesk
 ---

@@ -1,6 +1,6 @@
 ---
   name: "Sam Anthony"
   link: https://twitter.com/sifutweety
-  affiliation: "Perceptive Automata"
+  organization: "Perceptive Automata"
   occupation_title: "CTO"
 ---
