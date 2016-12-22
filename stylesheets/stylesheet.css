@@ -190,4 +190,5 @@ ul { list-style-type: disc; }
 a { color: #06c; text-decoration: none; }
 a:hover { text-decoration: underline; }
 .nobr { white-space: nowrap; }
-li { margin: 0.5em 0; }
+li, ul li ul li { margin: 0.5em 0; }
+.signatories li { margin: 0; }
