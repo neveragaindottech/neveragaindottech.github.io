@@ -1,4 +1,5 @@
 ---
-  name: Tommy Braas Software Delivery Manager (Engineer at heart)
+  name: Tommy Braas
+  occupation_title: Software Delivery Manager
   link: https://github.com/tbraas
 ---
