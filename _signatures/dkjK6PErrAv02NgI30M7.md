@@ -1,6 +1,6 @@
 ---
-name: Kelly Hale
-occupation_title: Software Engineer
-organization: Entelo
-github: radicalsauce
+  name: Kelly Hale
+  occupation_title: Software Engineer
+  organization: Entelo
+  github: radicalsauce
 ---
