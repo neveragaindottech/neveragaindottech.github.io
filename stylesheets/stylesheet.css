@@ -190,3 +190,4 @@ ul { list-style-type: disc; }
 a { color: #06c; text-decoration: none; }
 a:hover { text-decoration: underline; }
 .nobr { white-space: nowrap; }
+li { margin: 0.5em 0; }
