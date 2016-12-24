@@ -1,7 +1,7 @@
 ---
   name: Kevin Sagan
-  link: https://www.linkedin.com/in/kevinroarty
+  link: "https://www.linkedin.com/in/kevinroarty"
   occupation_title: Engineer
-  affiliation: Humedica
+  organization: Humedica
   github: KevinSagan
 ---
