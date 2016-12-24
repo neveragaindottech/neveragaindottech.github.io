@@ -1,6 +1,6 @@
 ---
   name: "Karsten Wade"
-  link: "iquaid.org"
+  link: "http://iquaid.org"
   organization: "Red Hat"
   github: "quaid"
 ---

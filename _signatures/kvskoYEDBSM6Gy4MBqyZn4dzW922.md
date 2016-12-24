@@ -1,6 +1,6 @@
 ---
   name: "Matt Miklic"
-  link: matt.lgbt
+  link: http://matt.lgbt
   organization: "Automattic"
   occupation_title: "Mobile Design Lead"
 ---

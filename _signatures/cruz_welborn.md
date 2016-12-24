@@ -1,6 +1,6 @@
 ---
   name: "Cruz Welborn"
-  link: "cruzwelborn.com"
+  link: "http://cruzwelborn.com"
   occupation_title: "Software Engineer"
   github: "gcwelborn"
 ---

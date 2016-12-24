@@ -1,5 +1,5 @@
 ---
   name: "Justin Safa"
-  link: "keybase.io/safa"
+  link: "http://keybase.io/safa"
   github: "JustinCSafa"
 ---

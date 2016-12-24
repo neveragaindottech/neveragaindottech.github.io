@@ -1,6 +1,6 @@
 ---
   name: "Casey Allen"
-  link: enterpriserising.co
+  link: http://enterpriserising.co
   organization: "Enterprise Rising"
   occupation_title: "Founder"
 ---

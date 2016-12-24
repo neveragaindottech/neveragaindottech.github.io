@@ -1,6 +1,6 @@
 ---
   name: "Steve Racine"
-  link: Http://www.emerjdetroit.com
+  link: http://www.emerjdetroit.com
   organization: "Emerj Development "
   occupation_title: "Developer"
 ---

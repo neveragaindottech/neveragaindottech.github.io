@@ -1,6 +1,6 @@
 ---
   name: "Steve hammer"
-  link: Www.rankhammer.com
+  link: http://www.rankhammer.com
   organization: "RankHammer"
   occupation_title: "President"
 ---

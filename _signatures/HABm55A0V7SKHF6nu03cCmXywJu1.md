@@ -1,5 +1,5 @@
 ---
   name: "Stanislas Chevallier"
-  link: HTTP://www.stanislaschevallier.fr
+  link: http://www.stanislaschevallier.fr
   occupation_title: "Freelance"
 ---

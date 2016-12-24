@@ -1,5 +1,5 @@
 ---
   name: "David Rothschild"
-  link: drothschild.github.io
+  link: http://drothschild.github.io
   occupation_title: "Software engineer"
 ---

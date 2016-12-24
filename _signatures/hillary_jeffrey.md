@@ -1,6 +1,6 @@
 ---
   name: "Hillary Jeffrey"
-  link: "www.hillaryjeffrey.com"
+  link: "http://www.hillaryjeffrey.com"
   occupation_title: "Engineer"
   github: "hillaryj"
 ---

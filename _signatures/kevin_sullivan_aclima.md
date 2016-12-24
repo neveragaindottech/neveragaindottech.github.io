@@ -1,6 +1,6 @@
 ---
   name: "Kevin Sullivan"
-  link: "bitantics.com"
+  link: "http://bitantics.com"
   organization: "Aclima"
   github: "bitantics"
 ---
