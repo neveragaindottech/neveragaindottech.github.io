@@ -1,5 +1,5 @@
 ---
   name: "Jinghao Liu"
-  occupation_title: "SENIOR DATA SCIENTIST"
+  occupation_title: "Senior Data Scientist"
   github: "jinghaol@microsoft.com"
 ---
