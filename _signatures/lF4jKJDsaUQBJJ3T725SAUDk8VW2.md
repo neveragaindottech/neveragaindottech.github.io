@@ -1,6 +1,6 @@
 ---
   name: "Matthias Neeracher"
   link: https://twitter.com/microtherion
-  affiliation: "Apple Inc"
+  organization: "Apple Inc"
   occupation_title: "Software Engineer"
 ---

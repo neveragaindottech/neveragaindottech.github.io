@@ -1,5 +1,5 @@
 ---
-  name: Jeff M. Johnson
+  name: "Jeff M. Johnson"
   occupation_title: "Sr. Linux Analyst"
-  github: jeffroeq
+  github: "jeffroeq"
 ---
