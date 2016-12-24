@@ -1,6 +1,6 @@
 ---
   name: "Pablo Chacón"
   occupation_title: "Senior Program Manager"
-  affiliation: "Microsoft Corp."
+  organization: "Microsoft Corp."
   github: "pjchacong"
 ---
