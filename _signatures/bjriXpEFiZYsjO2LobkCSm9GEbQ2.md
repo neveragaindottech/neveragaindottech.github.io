@@ -1,6 +1,6 @@
 ---
   name: "Will Salisbury"
   link: https://twitter.com/willsalz
-  affiliation: "Uber"
+  organization: "Uber"
   occupation_title: "Software Engineer"
 ---

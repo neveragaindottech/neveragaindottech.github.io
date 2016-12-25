@@ -1,6 +1,6 @@
 ---
   name: "Brandon Stewart"
   occupation_title: "Analytics Quality Assurance Engineer"
-  affiliation: "Merkle"
+  organization: "Merkle"
   github: "brandonastewart"
 ---
