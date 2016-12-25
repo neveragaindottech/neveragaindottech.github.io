@@ -1,5 +1,7 @@
+---
   name: "Haoran Liu"
   link: "https://www.linkedin.com/in/haoranliu"
   occupation_title: "Advanced Analytics"
-  affiliation: "IBM"
+  organization: "IBM"
   github: "haoranliu1"
+---
