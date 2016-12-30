@@ -192,3 +192,8 @@ a:hover { text-decoration: underline; }
 .nobr { white-space: nowrap; }
 li, ul li ul li { margin: 0.5em 0; }
 .signatories li { margin: 0; }
+
+.menu a { color: #eee; }
+.menu a:hover { color: #fff; }
+.banner { position: relative; }
+.menu { position: absolute; bottom: 0.25em; right: 0.5em; }
