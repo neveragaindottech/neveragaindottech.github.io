@@ -197,3 +197,7 @@ li, ul li ul li { margin: 0.5em 0; }
 .menu a:hover { color: #fff; }
 .banner { position: relative; }
 .menu { position: absolute; bottom: 0.25em; right: 0.5em; }
+
+@media screen and (max-width: 42em) {
+  .menu { font-size: 0.8rem; }
+}
