@@ -1,6 +1,6 @@
 ---
-  link: http://calebthompson.io
+  link: https://calebhearth.com
   github: calebthompson
-  name: Caleb Thompson
+  name: Caleb Hearth
   pull_request_number: 514
 ---
