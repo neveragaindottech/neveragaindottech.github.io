@@ -18,7 +18,7 @@ announcing your commitment is an invitation to others
 to help you hold yourself accountable.
 Here are some ways to do that:
   * Tweet "I, &lt;*your name*&gt;, hereby commit to the neveragain.tech pledge. Please stand with me and hold me to it. #neveragaintech"
-  * Post "I, &lt;*your name*&gt;, hereby commit to the neveragain.tech pledge. Please stand with me and hold me to it." on your personal website or blog, with a link to http://neveragain.tech/.
+  * Post "I, &lt;*your name*&gt;, hereby commit to the neveragain.tech pledge. Please stand with me and hold me to it." on your personal website or blog, with a link to https://neveragain.tech/.
   * Print out the pledge and sign it on paper.  Post it in a visible location to show solidarity and gather signatures from your teammates.  Host a signing party at your workplace.
 
-We are heartened and grateful for your enthusiasm and support.  If you are passionate about this issue, please [get involved](http://neveragain.tech/action.html)!  There is plenty more to be done.
+We are heartened and grateful for your enthusiasm and support.  If you are passionate about this issue, please [get involved](https://neveragain.tech/action.html)!  There is plenty more to be done.
