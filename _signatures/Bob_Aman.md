@@ -1,7 +1,7 @@
 ---
   name: Bob Aman
   link: https://twitter.com/sporkmonger
-  occupation_title: Senior Infrastructure Engineer
-  organization: Remitly
+  occupation_title: Founder
+  organization: Bulwark Security
   github: sporkmonger
 ---
